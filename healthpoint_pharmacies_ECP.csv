@@ -1,5 +1,4 @@
 lat,lng,name,id,url,branch,ECP
--36.8904644,174.7936289,Greenlane Care Pharmacy,im:42ef9ad6-fb6a-477f-a3cb-c23370b0d94a,https://www.healthpoint.co.nz/pharmacy/pharmacy/greenlane-care-pharmacy/,pharmacy,True
 -36.887636,174.68439009999997,Bruce Amies Pharmacy,im:fee9e6dd-f6ea-473e-b008-732f97e7129a,https://www.healthpoint.co.nz/pharmacy/pharmacy/bruce-amies-pharmacy/,pharmacy,True
 -36.8514166,174.85738609999999,St Heliers Pharmacy,im:6fb47440-01f8-4c9e-ac3e-1f0ce042ea70,https://www.healthpoint.co.nz/pharmacy/pharmacy/st-heliers-pharmacy/,pharmacy,True
 -45.8961175,170.50040820000004,Baylis The Chemist,im:9edeff77-c6c8-4dea-ade5-7401c0675447,https://www.healthpoint.co.nz/pharmacy/pharmacy/baylis-the-chemist/,pharmacy,True
@@ -37,11 +36,9 @@ lat,lng,name,id,url,branch,ECP
 -39.9291312,175.04802129999996,Wicksteed Pharmacy,im:deda705b-206f-4949-add5-47978501a2ed,https://www.healthpoint.co.nz/pharmacy/pharmacy/wicksteed-pharmacy/,pharmacy,True
 -42.4632728,171.1920973,Te Nikau Grey Hospital,im:f7523015-eb6b-408c-8282-bde8eb8af072,https://www.healthpoint.co.nz/te-nikau-grey-hospital/,pharmacy,True
 -43.53277629999999,172.63583140000003,Unichem Cashel Pharmacy,im:3bc85e33-d080-48b8-b152-df87b88dbdaa,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-cashel-pharmacy/,pharmacy,True
--36.8574319,174.7580051,Newton Pharmacy,im:79102cc8-fecd-4974-8937-c76bb4f0ee0f,https://www.healthpoint.co.nz/pharmacy/pharmacy/newton-pharmacy/,pharmacy,True
 -37.39107,175.84151080000004,Barron's Pharmacy,im:b8809fbe-2711-451e-b647-03428e44972d,https://www.healthpoint.co.nz/pharmacy/pharmacy/barrons-pharmacy/,pharmacy,True
 -41.515842,173.95715569999993,Wairau Pharmacy,im:0ac8e492-91e6-4486-8bc2-60411794c47a,https://www.healthpoint.co.nz/pharmacy/pharmacy/wairau-pharmacy/,pharmacy,True
 -45.0373503,169.19655769999997,Antidote Cromwell,im:1cc44d5d-ce6f-4062-b090-419c634a126b,https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-cromwell/,pharmacy,True
--36.90837610000001,174.83738790000007,Unichem Neills Pharmacy,im:2c365295-6ab7-4aa7-a656-9851cb04c821,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-neills-pharmacy/,pharmacy,True
 -45.0128748,168.74337689999993,Antidote Queenstown,im:3839cb59-b48b-4c4f-a8d8-40511b603390,https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-queenstown/,pharmacy,True
 -36.735662,174.72740699999997,Unichem Apollo Drive Pharmacy,im:42c1f1b3-02e7-4125-b912-196b1a5dd069,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-apollo-drive-pharmacy/,pharmacy,True
 -36.7144938,174.74821499999996,Unichem Browns Bay,im:45abec58-4edc-4109-9d41-42f7e9d7a69a,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-browns-bay/,pharmacy,True
@@ -59,8 +56,6 @@ lat,lng,name,id,url,branch,ECP
 -43.5667997,172.64677140000003,Cashmere Pharmacy,im:18bb1542-59e9-4eb0-9361-043db36609c5,https://www.healthpoint.co.nz/pharmacy/pharmacy/cashmere-pharmacy/,pharmacy,True
 -41.31600770000001,174.81504240000004,Unichem Miramar Healthcare Pharmacy,im:273443fa-b4e2-41b9-a62f-9e2587b92b71,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-miramar-healthcare-pharmacy/,pharmacy,True
 -39.028794,174.149673,Pharmacy @ Bell Block,im:2f1d6da2-8882-4561-8e1c-ceacf5827fad,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-bell-block/,pharmacy,True
--36.8809061,174.6377966,Henderson Medical Centre Pharmacy,im:41de1ccb-1a92-40c3-819e-423c40233cce,https://www.healthpoint.co.nz/pharmacy/pharmacy/henderson-medical-centre-pharmacy/,pharmacy,True
--37.674788820835964,176.22412778558203,"19 Girven Road, Bayfair",im:4faf467c-1db1-4f64-a52b-37beae85f452,https://www.healthpoint.co.nz/19-girven-road-bayfair/,pharmacy,True
 -41.1305899,174.8800268,Waitangirua Pharmacy,im:57f1ac87-f3e7-4f8f-8429-9f1211d674cf,https://www.healthpoint.co.nz/pharmacy/pharmacy/waitangirua-pharmacy/,pharmacy,True
 -41.3043254,174.7937941,Hataitai Pharmacy,im:79a0a588-9d6f-4f0b-8e04-8fc252ec6293,https://www.healthpoint.co.nz/pharmacy/pharmacy/hataitai-pharmacy/,pharmacy,True
 -36.9148413,174.80111750000003,Unichem Mt Smart Pharmacy,im:7ceb04a3-ca53-44db-9521-26b594c327fe,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-mt-smart-pharmacy/,pharmacy,True
@@ -68,13 +63,8 @@ lat,lng,name,id,url,branch,ECP
 -40.3565526,175.61946680000005,Unichem The Palms Pharmacy,im:91124982-9681-4a10-a8b3-609cae64e432,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-the-palms-pharmacy/,pharmacy,True
 -38.8833156,175.2636089,Unichem Taumarunui Pharmacy,im:9181d34a-e7c8-469d-9f8b-bdc8cca4f05b,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-taumarunui-pharmacy/,pharmacy,True
 -39.4941981,176.9149348,Unichem Munroe St. Pharmacy,im:9adc9a66-ff41-4551-bbf1-0b051326e193,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-munroe-st-pharmacy/,pharmacy,True
--36.89232380000001,174.7748737,The Medication Management Hub,im:a06c1925-f782-4da2-b51f-48b5733811b6,https://www.healthpoint.co.nz/pharmacy/pharmacy/the-medication-management-hub/,pharmacy,False
--37.1902944,174.9033244,ibuy pharmacy,im:a4a7aba0-4345-4a60-9a01-f113f62e7373,https://www.healthpoint.co.nz/pharmacy/pharmacy/ibuy-pharmacy/,pharmacy,True
 -37.03924949999999,174.91452389999995,Unichem Gateway Pharmacy Takanini,im:a78456ab-c37f-41ed-a262-8eae1fd149de,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-gateway-pharmacy-takanini/,pharmacy,True
--37.1025629,174.95136950000006,The Capsule Pharmacy,im:a9f74f1f-d19b-46df-9688-b7e0217ddafc,https://www.healthpoint.co.nz/pharmacy/pharmacy/the-capsule-pharmacy/,pharmacy,False
--43.50974979999999,172.6066399,Unichem Elmwood Pharmacy,im:b0c4e7a9-c7dc-4f3c-b4ff-61264e896a28,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-elmwood-pharmacy/,pharmacy,True
 -43.3035944,172.59362099999998,Life Pharmacy Rangiora,im:b0eb97e5-0ccc-4a4f-a7a2-fa3d47faf328,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-rangiora/,pharmacy,True
--37.7896314,175.29238409999994,Unichem Hamilton East Pharmacy,im:b29586a9-dadf-4b3e-9d98-8293dd5dfa8f,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hamilton-east-pharmacy/,pharmacy,True
 -37.3917166,175.84041920000004,Clark's Pharmacy Limited,im:ed951698-671b-4c19-93b6-43a8fc299e4d,https://www.healthpoint.co.nz/pharmacy/pharmacy/clarks-pharmacy-limited/,pharmacy,True
 -40.9159633,175.0066267,Life Pharmacy Kapiti Coast,im:ef9c2574-3b99-4465-b851-778fe0240b18,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-kapiti-coast/,pharmacy,True
 -40.9499064,175.66120780000006,Life Pharmacy Masterton,im:f8cde177-440a-4927-beb1-9a6dc7412072,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-masterton/,pharmacy,True
@@ -97,7 +87,6 @@ lat,lng,name,id,url,branch,ECP
 -38.2309197,175.86075670000002,Unichem Health Centre Pharmacy,im:3131531f-336d-4baf-ba71-b3e7acd74838,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-health-centre-pharmacy/,pharmacy,True
 -38.2183717,175.87271199999998,Unichem Tokoroa Pharmacy,im:d6de4488-d1aa-4d37-a599-5dc20723ffb1,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-tokoroa-pharmacy/,pharmacy,True
 -36.89961399999999,174.90510140000004,Unichem Aviemore Pharmacy,im:f3d8efbb-d959-4a13-8fb8-cd5b9cc756c9,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-aviemore-pharmacy/,pharmacy,True
--37.6898366,176.1350264,Unichem Brookfield Pharmacy,im:ec531734-82f0-4ed2-baa3-17c5baa0f010,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-brookfield-pharmacy/,pharmacy,True
 -43.5211494,172.64190259999998,Unichem Bealey Avenue Pharmacy,im:9c7ad5b4-e42a-4c9d-a598-a796c0afe91e,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-bealey-avenue-pharmacy/,pharmacy,True
 -36.9265057,174.67020320000006,Unichem Golf Road Pharmacy,im:9df211da-b8c1-4988-abd2-3b94f88744a4,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-golf-road-pharmacy/,pharmacy,True
 -35.2274577,173.94773659999998,Unichem Kerikeri Medical Centre Pharmacy,im:2faa8a79-cfbd-4af8-9971-77d1461f06ef,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kerikeri-medical-centre-pharmacy/,pharmacy,True
@@ -117,9 +106,7 @@ lat,lng,name,id,url,branch,ECP
 -38.6522689,178.02931939999996,Pharmacy 53 Ltd,im:3ffd2607-1838-4b01-88fe-313f0230f8ec,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-53-ltd/,pharmacy,True
 -36.7898548,174.7726303,Takapuna Pharmacy,im:ca0f4e3f-6fc1-4d36-8706-903f68945c04,https://www.healthpoint.co.nz/pharmacy/pharmacy/takapuna-pharmacy/,pharmacy,True
 -43.49957000000001,172.58612549999998,Unichem Crisps Pharmacy,im:5c0cfb84-7d32-432a-b53e-4873f72aa373,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-crisps-pharmacy/,pharmacy,True
--43.304131,172.5919847,Unichem Medical Corner Pharmacy,im:2dd52009-6b42-4575-9f7a-d4510ffb192e,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-medical-corner-pharmacy/,pharmacy,True
 -35.755039,174.36810530000002,Unichem Onerahi Pharmacy,im:325bbd3a-0b73-492c-aecb-5c6c933cc75a,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-onerahi-pharmacy/,pharmacy,True
--36.9799477,174.85362110000005,Unichem Papatoetoe Pharmacy,im:9cee62ea-032c-4268-9e70-0c43398f2306,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-papatoetoe-pharmacy/,pharmacy,True
 -39.64262540000001,176.8428173,Unichem Russell Street Pharmacy,im:3cce3308-65af-4765-915a-51f752df3b09,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-russell-street-pharmacy/,pharmacy,True
 -37.1386916,175.54238250000003,Unichem Thames,im:1e925b0c-25c2-4cd4-a3fb-e61b7bd06793,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-thames/,pharmacy,True
 -36.880822,174.63275999999996,Unichem Westcity Pharmacy,im:7ca787d2-9af0-4b1b-b996-90e347a6411a,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-westcity-pharmacy/,pharmacy,True
@@ -134,60 +121,39 @@ lat,lng,name,id,url,branch,ECP
 -37.738107,175.25274379999996,Unichem Flagstaff Pharmacy,im:634e54a8-cfd5-4809-9455-cb160e8eade6,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-flagstaff-pharmacy/,pharmacy,True
 -45.8158146,170.62125620000006,Port Chalmers Pharmacy,im:08071798-b5fc-43c8-9a0b-80e68226d186,https://www.healthpoint.co.nz/pharmacy/pharmacy/port-chalmers-pharmacy/,pharmacy,True
 -38.638008,178.00511800000004,Gisborne Hospital Pharmacy | Tairāwhiti | Te Whatu Ora,im:b0c0c24f-cc9d-43d2-b265-5e5cd991080d,https://www.healthpoint.co.nz/pharmacy/hospital-pharmacy/gisborne-hospital-pharmacy-tairawhiti-te/,pharmacy,False
--39.4906483,176.9168696,Life Pharmacy Napier City,im:27763d65-7a0a-4827-83fb-88a5d10f3d29,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-napier-city/,pharmacy,True
--37.9522433,176.99271850000002,Unichem Total Health Pharmacy,im:37f4e2fb-9ff6-4b51-9184-ef2f315e3bcf,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-total-health-pharmacy/,pharmacy,True
 -39.0562285,174.0825008,Bargain Chemist New Plymouth Central,im:9a24426f-c184-42df-b2c1-8a69aba43310,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-new-plymouth-central/,pharmacy,True
 -36.8128136,174.6010766,Bargain Chemist Westgate,im:04bb599a-3b42-4fa4-b655-5983f80588bd,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-westgate/,pharmacy,True
 -36.9009279,174.85735060000002,Panmure Pharmacy,im:c31a8776-a276-4974-8f12-19fe5bb12252,https://www.healthpoint.co.nz/pharmacy/pharmacy/panmure-pharmacy/,pharmacy,True
 -36.9000737,174.90868,Family Care Pharmacy,im:f7997081-56f6-417e-9399-09f1681d7dc9,https://www.healthpoint.co.nz/pharmacy/pharmacy/family-care-pharmacy/,pharmacy,True
--36.90562870000001,174.6635986,Unichem Kelston Medical Pharmacy,im:663822e3-ac8b-4a11-8640-ba57c9bd3a5d,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kelston-medical-pharmacy/,pharmacy,True
 -35.7235496,174.31822080000006,Rust Avenue Pharmacy,im:97842117-d8ea-46da-b4b9-838e741beb75,https://www.healthpoint.co.nz/pharmacy/pharmacy/rust-avenue-pharmacy/,pharmacy,True
 -37.0395903,174.9148348,Takanini Urgent Pharmacy,im:4933076a-0d6e-4a3f-ac48-19f588bbf16b,https://www.healthpoint.co.nz/pharmacy/pharmacy/takanini-urgent-pharmacy/,pharmacy,True
 -36.87894779999999,174.6318222,Henderson Discount Pharmacy,im:fdab87d2-d264-4f2f-bbe8-db032d7c08ad,https://www.healthpoint.co.nz/pharmacy/pharmacy/henderson-discount-pharmacy/,pharmacy,True
 -46.40591999999999,168.3925772,Unichem Ascot Pharmacy,im:b511f6e4-9a43-4477-828d-74f35cdb8b61,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ascot-pharmacy/,pharmacy,True
--41.2818124,174.77562549999993,Lambton Square Pharmacy,im:d276bb6b-6cc9-4fcf-a6fb-6289295fadff,https://www.healthpoint.co.nz/pharmacy/pharmacy/lambton-square-pharmacy/,pharmacy,True
 -41.28848329999999,174.769051,Unichem University Pharmacy,im:27053968-be3f-4a01-a837-3c798c55c9c4,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-university-pharmacy/,pharmacy,True
 -41.3134091,174.7788387,Newtown Medical Centre Dispensary,im:116508ec-19b4-409c-9f32-2a6d5cfddf01,https://www.healthpoint.co.nz/pharmacy/pharmacy/newtown-medical-centre-dispensary/,pharmacy,False
--41.29267600000001,174.00694499999997,Medical Centre Pharmacy Picton,im:11663ab2-3e45-4849-8621-245d337cce03,https://www.healthpoint.co.nz/pharmacy/pharmacy/medical-centre-pharmacy-picton/,pharmacy,True
--43.762551,172.29818,Leeston Pharmacy,im:fd740d2f-d852-4f7a-8eec-4b485eb258ab,https://www.healthpoint.co.nz/pharmacy/pharmacy/leeston-pharmacy/,pharmacy,True
 -38.1378563,176.24799380000002,Hinemoa Pharmacy,im:65a12f93-1427-4cfd-8477-dd7df5f08eab,https://www.healthpoint.co.nz/pharmacy/pharmacy/hinemoa-pharmacy/,pharmacy,True
 -37.9609997,176.9819936,Unichem Adamson's Pharmacy,im:9d6736fa-2ba4-4255-a2f4-418b6f371ca3,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-adamsons-pharmacy/,pharmacy,True
 -45.7393325,168.44161140000006,Lumsden Prescription and Gift Centre,im:7415c162-7250-4660-8133-f2ebf293dc25,https://www.healthpoint.co.nz/pharmacy/prescription-collection-depot/lumsden-prescription-and-gift-centre/,pharmacy,False
 -39.4197328,176.8661124,Bay View Village Pharmacy,im:adafeb69-f6f5-4b1f-bad3-3c163a627c98,https://www.healthpoint.co.nz/pharmacy/pharmacy/bay-view-village-pharmacy/,pharmacy,True
--39.6417861,176.8493814,Chemist Warehouse Hastings,im:5d02690f-16fc-4945-9fed-d8abeb67bbad,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-hastings/,pharmacy,True
--36.9969282,174.78883199999996,Chemist Warehouse Auckland Airport Shopping Centre,im:8a92558a-289d-45e7-935f-0130c62a431e,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-auckland-airport-shopping/,pharmacy,True
 -41.5133849,173.9554352,Civic Health Pharmacy,im:0c272bf1-3eb1-49f3-9ba9-a1ec920f594f,https://www.healthpoint.co.nz/pharmacy/pharmacy/civic-health-pharmacy/,pharmacy,True
--36.87258219999999,174.75188549999996,Dominion Road Pharmacy,im:e216652c-d551-408f-81d9-ef1caf880dcf,https://www.healthpoint.co.nz/pharmacy/pharmacy/dominion-road-pharmacy/,pharmacy,True
 -36.86470559999999,174.7376719,Gopal's Pharmacy,im:b4ac04b3-4442-4c00-975d-3cdee84c403f,https://www.healthpoint.co.nz/pharmacy/pharmacy/gopals-pharmacy/,pharmacy,True
 -36.3520952,174.7175744,Matakana Pharmacy,im:e0110b7b-acb6-416c-b35b-b6fdb46f9158,https://www.healthpoint.co.nz/pharmacy/pharmacy/matakana-pharmacy/,pharmacy,True
--36.9180019,174.874546,Pakuranga Pharmacy,im:4e0ada22-111f-4c08-a958-e8392953fdfb,https://www.healthpoint.co.nz/pharmacy/pharmacy/pakuranga-pharmacy/,pharmacy,True
--43.5350229,172.629471,Parkside Pharmacy on Oxford Terrace,im:7b347573-5e52-4ab8-9f1b-55b37af728bb,https://www.healthpoint.co.nz/pharmacy/pharmacy/parkside-pharmacy-on-oxford-terrace/,pharmacy,True
--38.1484536,176.27641960000005,Te Ngae Pharmacy,im:89ebbb82-d7aa-4407-91cc-7bb9853010e1,https://www.healthpoint.co.nz/pharmacy/pharmacy/te-ngae-pharmacy/,pharmacy,True
 -36.8981391,174.80961430000002,Unichem Ellerslie Pharmacy,im:430167c5-ac75-4829-9391-d46967b9364e,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ellerslie-pharmacy/,pharmacy,True
 -43.5315249,172.5718254,Unichem Riccarton Clinic Pharmacy,im:b5ee3d7e-f21c-481d-aa36-563a467702c0,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-riccarton-clinic-pharmacy/,pharmacy,True
--39.071579,174.0621954,Unichem Westown Pharmacy,im:8fed5a4f-9c2b-4364-a63f-08dfc3943f3b,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-westown-pharmacy/,pharmacy,True
 -36.924081,174.7814513,Vaiola Pharmacy,im:bc061063-c290-41e3-9224-4c1b850d7225,https://www.healthpoint.co.nz/pharmacy/pharmacy/vaiola-pharmacy/,pharmacy,True
 -41.22278180000001,174.91127619999997,Woburn Pharmacy,im:5459eee0-7a45-4b38-9796-1d750c90b44d,https://www.healthpoint.co.nz/pharmacy/pharmacy/woburn-pharmacy/,pharmacy,True
--36.922244,174.7015963,Blockhouse Bay Pharmacy,im:2459ce26-5c02-47f5-a8e5-9255ce9a6416,https://www.healthpoint.co.nz/pharmacy/pharmacy/blockhouse-bay-pharmacy/,pharmacy,True
 -39.4799909,176.8986603,Ahuriri Pharmacy,im:081af214-e9fb-4eda-8410-82cd737e5d00,https://www.healthpoint.co.nz/pharmacy/pharmacy/ahuriri-pharmacy/,pharmacy,True
--41.142415,174.8650364,Cannons Creek Pharmacy,im:4ee5d1d8-84d8-42aa-a252-16f9c4657965,https://www.healthpoint.co.nz/pharmacy/pharmacy/cannons-creek-pharmacy/,pharmacy,True
--40.6215298,175.2869319,Steeds Pharmacy,im:a735697a-a94d-419e-9df4-b166492984f3,https://www.healthpoint.co.nz/pharmacy/pharmacy/steeds-pharmacy/,pharmacy,True
 -38.6699891,178.025246,Pharmacy Three Rivers - Gisborne,im:a590a21f-6f15-4dfe-b39e-4140e1d21498,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-three-rivers-gisborne/,pharmacy,False
--37.789244,175.31075429999999,Campus Pharmacy Waikato,im:e69127d9-ca34-4796-b4c3-5cdc7de266f3,https://www.healthpoint.co.nz/pharmacy/pharmacy/campus-pharmacy-waikato/,pharmacy,True
 -37.2143371,174.91007360000003,Pukekohe South Pharmacy,im:7ae0fdff-aceb-45f9-9165-68ecddf8db54,https://www.healthpoint.co.nz/pharmacy/pharmacy/pukekohe-south-pharmacy/,pharmacy,True
 -43.64181079999999,172.47490900000003,WeCare Pharmacy Lincoln,im:a58e9384-0574-47ba-8fd6-064ce7a1d388,https://www.healthpoint.co.nz/pharmacy/pharmacy/wecare-pharmacy-lincoln/,pharmacy,True
 -40.3660107,175.6069971,Cook Street Pharmacy,im:c3037fc8-879e-4baa-b5d5-d63c22108f11,https://www.healthpoint.co.nz/pharmacy/pharmacy/cook-street-pharmacy/,pharmacy,True
 -36.8608309,174.76773649999996,Grafton Pharmacy,im:a7b53944-04cc-4aa0-b192-2b046b62c253,https://www.healthpoint.co.nz/pharmacy/pharmacy/grafton-pharmacy/,pharmacy,True
--36.6136569,174.67908490000002,"61 Silverdale Street, Silverdale",im:763edc13-523b-43d9-ac6e-d91819bb19a7,https://www.healthpoint.co.nz/61-silverdale-street-silverdale/,pharmacy,True
 -41.2789021,173.76670680000007,Havelock Healthcare Depot,im:69908eab-9619-4e49-8f8f-76920f043169,https://www.healthpoint.co.nz/pharmacy/prescription-collection-depot/havelock-healthcare-depot/,pharmacy,False
 -37.02049969999999,174.8971001,Hill Road Pharmacy,im:679472b3-14de-4573-b159-40fa7b0660d0,https://www.healthpoint.co.nz/pharmacy/pharmacy/hill-road-pharmacy/,pharmacy,True
 -35.9846759,174.4460508,Waipu Pharmacy,im:99bb936f-7338-4057-881f-3517c256f871,https://www.healthpoint.co.nz/pharmacy/pharmacy/waipu-pharmacy/,pharmacy,True
 -41.5295704,173.9339644,Omaka Landing Pharmacy,im:a852b9c5-eac4-42ab-807a-2b5b3adb94bc,https://www.healthpoint.co.nz/pharmacy/pharmacy/omaka-landing-pharmacy/,pharmacy,True
 -44.3901301,171.22647959999995,Unichem Highfield Mall Pharmacy,im:b260c3e2-5392-44e8-9462-57f9a6378084,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-highfield-mall-pharmacy/,pharmacy,True
 -41.2470271,174.79160390000004,Village Pharmacy Khandallah,im:9430159f-a9ce-4504-b476-90b47ed97332,https://www.healthpoint.co.nz/pharmacy/pharmacy/village-pharmacy-khandallah/,pharmacy,True
--36.77902960000001,174.742146,Chemist Warehouse Wairau Valley,im:f501db48-3cd1-4048-a09a-670cc5387091,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-wairau-valley/,pharmacy,True
--36.990874450361204,174.88170644254473,"Westfield Manukau City, Cnr Great South and Wiri Station Roads, Manukau, Auckland",im:d641ddcf-d2cd-4b6c-84b9-c790b6e222dc,https://www.healthpoint.co.nz/westfield-manukau-city-cnr-great-south-and/,pharmacy,True
--39.9348178,175.0552524,Chemist Warehouse Whanganui,im:63799dfa-9da5-46d5-8967-d53870e90160,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-whanganui/,pharmacy,True
 -37.69355160000001,176.11122999999998,Bethlehem Dispensary,im:a278c25c-7adf-4c96-8593-24008dc71df5,https://www.healthpoint.co.nz/pharmacy/pharmacy/bethlehem-dispensary/,pharmacy,True
 -37.6957574,176.11016159999997,Bethlehem Pharmacy,im:5afde75d-b04a-4961-9aa6-9d7a62b89676,https://www.healthpoint.co.nz/pharmacy/pharmacy/bethlehem-pharmacy/,pharmacy,True
 -34.9915772,173.51018780000004,Doubtless Bay Pharmacy,im:25cdc481-2b68-4723-99cd-14f4ca929137,https://www.healthpoint.co.nz/pharmacy/pharmacy/doubtless-bay-pharmacy/,pharmacy,True
@@ -204,15 +170,14 @@ lat,lng,name,id,url,branch,ECP
 -37.69277819999999,176.16391959999999,Unichem Fifth Avenue Pharmacy,im:8779a2f1-887d-4cc8-9175-caf326de71e4,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-fifth-avenue-pharmacy/,pharmacy,True
 -37.7263859,176.13331010000002,Unichem Greerton Pharmacy,im:7c151ca9-7ce1-4fd8-ba81-8f0e3ab3babf,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-greerton-pharmacy/,pharmacy,True
 -37.55287719999999,175.9173594,Unichem Katikati Pharmacy,im:5d88bc6c-4249-482a-a06a-7e197bf066f5,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-katikati-pharmacy/,pharmacy,True
--37.6936623,176.10962900000004,"Bethlehem Town Centre, 19 Bethlehem Road, Bethlehem, Tauranga",im:2baf4020-8d4c-440c-bbaa-c040d0a8b703,https://www.healthpoint.co.nz/bethlehem-town-centre-19-bethlehem-road-bethlehem/,pharmacy,False
+-37.6936623,176.10962900000004,"Bethlehem Town Centre, 19 Bethlehem Road, Bethlehem, Tauranga",im:2baf4020-8d4c-440c-bbaa-c040d0a8b703,https://www.healthpoint.co.nz/bethlehem-town-centre-19-bethlehem-road-bethlehem/,pharmacy,True
 -37.6666236,176.1394904,Unichem Otumoetai Pharmacy,im:cf79c437-a488-46ae-a893-ac6924707918,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-otumoetai-pharmacy/,pharmacy,True
 -43.1568177,172.73038580000002,Amberley Pharmacy,im:76312542-ba70-408f-b5cb-b71f8747a326,https://www.healthpoint.co.nz/pharmacy/pharmacy/amberley-pharmacy/,pharmacy,True
 -36.992938038023404,174.860919713974,Cavendish Drive Pharmacy,im:4632e071-f4cf-4b68-8d35-cbb96b78cd5e,https://www.healthpoint.co.nz/pharmacy/pharmacy/cavendish-drive-pharmacy/,pharmacy,True
 -43.5172734,172.7021029,Eastern Pharmacy Aranui,im:652edcff-8b2b-4930-afb3-80a58df26e17,https://www.healthpoint.co.nz/pharmacy/pharmacy/eastern-pharmacy-aranui/,pharmacy,True
 -36.97489789999999,174.92300139999998,Flat Bush Medical Centre Pharmacy,im:b7b68796-cb83-43d7-a1df-6e1acad068ed,https://www.healthpoint.co.nz/pharmacy/pharmacy/flat-bush-medical-centre-pharmacy/,pharmacy,True
--45.87021809999999,170.505518,"Meridian Mall, George Street, Dunedin Central, Dunedin",im:632c1547-31f8-4e56-bbc7-952bbfb4f9cb,https://www.healthpoint.co.nz/meridian-mall-george-street-dunedin-central/,pharmacy,True
--36.8844385,174.73187170000006,Chemist Warehouse St Lukes,im:e23f106b-d3c8-42df-98de-e9fd50afd407,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-st-lukes/,pharmacy,True
 -36.9893066,174.87496929999998,Jaks Pharmacy,im:031a5eb6-4305-489e-b8b2-d4e9c8545da4,https://www.healthpoint.co.nz/pharmacy/pharmacy/jaks-pharmacy/,pharmacy,True
+-36.990874450361204,174.88170644254473,"Westfield Manukau City, Cnr Great South and Wiri Station Roads, Manukau, Auckland",im:00595b16-c68c-4059-855d-b0e69a2025a0,https://www.healthpoint.co.nz/westfield-manukau-city-cnr-great-south-and/,pharmacy,True
 -43.5119218,172.5802312,Unichem Ilam Healthworks Pharmacy,im:05db63bd-7110-420f-b089-789d06ba8f15,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ilam-healthworks-pharmacy/,pharmacy,True
 -42.5201144,172.8291921,HealthWorks Pharmacy Depot - Hanmer Springs,im:ea831b45-5bcf-402c-975e-2b7a380d8906,https://www.healthpoint.co.nz/pharmacy/prescription-collection-depot/healthworks-pharmacy-depot-hanmer-springs/,pharmacy,False
 -36.96472610000001,174.9127031,Life Pharmacy Ormiston,im:0ab02a09-f98c-4dbc-b835-70f3be3228d7,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-ormiston/,pharmacy,True
@@ -223,7 +188,6 @@ lat,lng,name,id,url,branch,ECP
 -43.4943164,172.6097578,Life Pharmacy Northlands,im:ee2f8e02-0316-44ea-bf0f-c97fdd466fbe,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-northlands/,pharmacy,True
 -37.2017804,174.9023068,Pukekohe Plaza Pharmacy,im:3e794c3b-ec44-4f5e-9835-ed5be96e71b9,https://www.healthpoint.co.nz/pharmacy/pharmacy/pukekohe-plaza-pharmacy/,pharmacy,True
 -36.9462635,174.84423449999997,Queen St Medical Centre Pharmacy,im:78aa62b6-fcc0-4988-8683-b46a46f4d6eb,https://www.healthpoint.co.nz/pharmacy/pharmacy/queen-st-medical-centre-pharmacy/,pharmacy,True
--38.686279714607956,176.07490897178653,Chemist Warehouse Taupō,im:f328e553-d09c-463b-bb30-cf2bc69217f3,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-taupo/,pharmacy,True
 -43.53106664832302,172.65679998710254,Linwood Village Pharmacy,im:f5c6598c-565d-4c81-bf1e-5b1e6307a18d,https://www.healthpoint.co.nz/pharmacy/pharmacy/linwood-village-pharmacy/,pharmacy,True
 -39.43139499999999,174.29956,Eltham Pharmacy Depot,im:cfc519a8-9ddf-4aa6-a264-b6ab9dbbb2d2,https://www.healthpoint.co.nz/pharmacy/prescription-collection-depot/eltham-pharmacy-depot/,pharmacy,False
 -43.63366449999999,171.64693409999995,Methven Pharmacy,im:f3725d62-051e-4c05-85d4-204e1c14255c,https://www.healthpoint.co.nz/pharmacy/pharmacy/methven-pharmacy/,pharmacy,False
@@ -299,7 +263,7 @@ lat,lng,name,id,url,branch,ECP
 -36.881885,174.76196400000003,Mt Eden Pharmacy,im:fdf4b0e0-ca28-4121-845c-acd5538c446c,https://www.healthpoint.co.nz/pharmacy/pharmacy/mt-eden-pharmacy/,pharmacy,True
 -36.9078599,174.6852085,"Lynnmall Shopping Centre, 3058 Great North Road, New Lynn, Auckland",im:2ae5391d-ae70-4d98-acd8-af6f33379959,https://www.healthpoint.co.nz/lynnmall-shopping-centre-3058-great-north/,pharmacy,False
 -36.9049016,174.74144890000002,Roskill Healthcare Pharmacy,im:c4cccb6f-e5bd-4e5f-a4b4-d779a1e8d79a,https://www.healthpoint.co.nz/pharmacy/pharmacy/roskill-healthcare-pharmacy/,pharmacy,True
--36.7720008,174.7661176,"Milford Shopping Centre, 24 Milford Road, Milford, Auckland",im:945ff9a7-a6d4-4a98-ba62-074a5ae71dec,https://www.healthpoint.co.nz/milford-shopping-centre-24-milford-road-milford/,pharmacy,False
+-36.7720008,174.7661176,"Milford Shopping Centre, 24 Milford Road, Milford, Auckland",im:945ff9a7-a6d4-4a98-ba62-074a5ae71dec,https://www.healthpoint.co.nz/milford-shopping-centre-24-milford-road-milford/,pharmacy,True
 -36.7727184,174.7658619,Milford Nutritional Pharmacy,im:ad2079fc-7eec-49e8-b017-437b79be7f06,https://www.healthpoint.co.nz/pharmacy/pharmacy/milford-nutritional-pharmacy/,pharmacy,True
 -41.7545327,171.59845270000005,Buller Pharmacy,im:39112af8-020c-4385-a9ce-818fe7cbe259,https://www.healthpoint.co.nz/pharmacy/pharmacy/buller-pharmacy/,pharmacy,True
 -36.784107938385745,174.7535079717636,Shorecare Pharmacy,im:1d4645d3-b035-4093-9ba1-41a7f8ee44fc,https://www.healthpoint.co.nz/pharmacy/pharmacy/shorecare-pharmacy/,pharmacy,True
@@ -359,12 +323,10 @@ lat,lng,name,id,url,branch,ECP
 -36.8705495,174.7104319,Unichem Point Chevalier Pharmacy,im:9924e44a-aa34-4cae-aed2-18e5312932cb,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-point-chevalier-pharmacy/,pharmacy,True
 -41.3402183,173.18608599999993,Unichem Richmond Mall Pharmacy,im:2459a161-489b-4b33-9d24-a5876e54b82b,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-richmond-mall-pharmacy/,pharmacy,True
 -36.628338,174.731454,Unichem Stanmore Bay,im:573b4b15-d765-4bab-862f-46c2a1c0eb18,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-stanmore-bay/,pharmacy,True
--36.7262924,174.69611229999998,Library Lane Pharmacy,im:dfa43481-935f-412c-854d-2b653f72f268,https://www.healthpoint.co.nz/pharmacy/pharmacy/library-lane-pharmacy/,pharmacy,True
 -36.8636713,174.73683389999997,Unichem Surrey Pharmacy,im:8214edd8-73e9-4166-8f15-3617948ee409,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-surrey-pharmacy/,pharmacy,True
 -36.86547609999999,174.73727610000003,Unichem Grey Lynn Pharmacy,im:a503853a-b770-4ab4-88f5-a4a19561228f,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-grey-lynn-pharmacy/,pharmacy,True
 -39.5863523,174.2668625,Robertsons Hunter Street Pharmacy,im:1444fb7e-a703-4836-80d1-9d81411d15af,https://www.healthpoint.co.nz/pharmacy/pharmacy/robertsons-hunter-street-pharmacy/,pharmacy,True
 -43.5560969,172.63659719999998,Christchurch South Pharmacy (Hardings Pharmacy),im:287eba65-3998-42aa-ae8a-ec6c11a84d85,https://www.healthpoint.co.nz/pharmacy/pharmacy/christchurch-south-pharmacy-hardings-pharmacy/,pharmacy,True
--38.0092494,175.3209374,Bargain Chemist Te Awamutu,im:512c04db-8dbc-4ca3-9517-d2dc237d7288,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-te-awamutu/,pharmacy,True
 -38.6499368,178.02067809999994,Gordon's Pharmacy,im:2fb75b02-9566-42da-854b-3829e41e904b,https://www.healthpoint.co.nz/pharmacy/pharmacy/gordons-pharmacy/,pharmacy,True
 -36.11037045723121,174.35408413410187,Unichem Orrs Pharmacy Maungaturoto,im:2bad2505-bced-4fce-bbe5-c8bf3cdf6570,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-orrs-pharmacy-maungaturoto/,pharmacy,True
 -39.5265849,176.861155,Greenmeadows Pharmacy,im:76fc91d2-039d-4323-a387-fdd7889e3404,https://www.healthpoint.co.nz/pharmacy/pharmacy/greenmeadows-pharmacy/,pharmacy,True
@@ -379,7 +341,6 @@ lat,lng,name,id,url,branch,ECP
 -36.8995031,174.80347299999994,One Tree Hill Pharmacy,im:160fcd09-f98c-4d18-88fa-98b140b1bda9,https://www.healthpoint.co.nz/pharmacy/pharmacy/one-tree-hill-pharmacy/,pharmacy,True
 -38.05563299999999,178.30494539999995,Te Puia Collection Depot - Gordon's Pharmacy,im:8b4958bf-25d7-4fa2-8fec-d4833edfda58,https://www.healthpoint.co.nz/pharmacy/prescription-collection-depot/te-puia-collection-depot-gordons-pharmacy/,pharmacy,False
 -37.63325099999999,178.3690102,Te Araroa Collection Depot - Gordon's Pharmacy,im:993cd1da-a0aa-46c6-942e-f79d0e5f758f,https://www.healthpoint.co.nz/pharmacy/prescription-collection-depot/te-araroa-collection-depot-gordons-pharmacy/,pharmacy,False
--43.5462762,172.63620609999998,Sydenham Pharmacy,im:5d29a690-5644-4b54-a4dd-13907489420f,https://www.healthpoint.co.nz/pharmacy/pharmacy/sydenham-pharmacy/,pharmacy,True
 -36.813286,174.79231589999995,Helen Scott Pharmacy,im:75be3d5c-0cf9-4ea9-a2dc-662f17b2de95,https://www.healthpoint.co.nz/pharmacy/pharmacy/helen-scott-pharmacy/,pharmacy,True
 -37.5575605,175.15846220000003,Barry Robert's Pharmacy,im:15b35a34-2dbe-48fd-a909-a3236af090e2,https://www.healthpoint.co.nz/pharmacy/pharmacy/barry-roberts-pharmacy/,pharmacy,False
 -38.1811276,175.21049119999998,Otorohanga Express Pharmacy,im:d47c1fbe-3bda-4c30-9d51-fc01e35b7a88,https://www.healthpoint.co.nz/pharmacy/pharmacy/otorohanga-express-pharmacy/,pharmacy,False
@@ -392,30 +353,25 @@ lat,lng,name,id,url,branch,ECP
 -38.3339748,175.16491989999997,Unichem Te Kuiti Pharmacy,im:40434ec6-c719-4477-8421-52983a9988f8,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-te-kuiti-pharmacy/,pharmacy,True
 -35.8391824,174.4664333,Marsden Cove Pharmacy,im:a43d5f13-f3ae-4148-8a80-874d01139fc8,https://www.healthpoint.co.nz/pharmacy/pharmacy/marsden-cove-pharmacy/,pharmacy,True
 -45.88560220000001,170.52808519999996,Waverley Pharmacy,im:2d63e3cc-458f-4d14-af03-b72f35cba835,https://www.healthpoint.co.nz/pharmacy/pharmacy/waverley-pharmacy/,pharmacy,True
--36.81704690000001,174.6099514,Chemist Warehouse Westgate,im:d0e42ed8-bce7-4b46-a89e-f4bdc6788b23,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-westgate/,pharmacy,True
 -36.8919603,174.92929049999998,Crawford House Pharmacy,im:6d56412a-55e1-4583-bb10-7b53613ee75f,https://www.healthpoint.co.nz/pharmacy/pharmacy/crawford-house-pharmacy/,pharmacy,True
 -36.8942404,174.93157659999997,Life Pharmacy Howick Village,im:3678f15d-2083-4cd9-931b-418325335111,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-howick-village/,pharmacy,True
 -36.8936851,174.93084010000007,Unichem Main Street Pharmacy,im:5978f62b-6457-4f72-89c0-52af25b647ed,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-main-street-pharmacy/,pharmacy,True
 -36.766553,174.4945727,Waimauku Pharmacy - Silver Fern,im:9c972280-ca26-4d0f-b80e-fd5980fa85a2,https://www.healthpoint.co.nz/pharmacy/pharmacy/waimauku-pharmacy-silver-fern/,pharmacy,True
 -36.76812039999999,174.49287800000002,Waimauku Pharmacy - Station Road,im:61030861-7b08-4c86-8e3c-17e9cccf5697,https://www.healthpoint.co.nz/pharmacy/pharmacy/waimauku-pharmacy-station-road/,pharmacy,True
 -36.8533208,174.7789414,Net Pharmacy,im:399c32bb-718c-49c0-b18f-7bdf0a5af68e,https://www.healthpoint.co.nz/pharmacy/pharmacy/net-pharmacy/,pharmacy,True
--36.8625893,174.64841230000002,Unichem All Seasons Pharmacy,im:03ac6af7-a674-4594-b869-4306d6d805bf,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-all-seasons-pharmacy/,pharmacy,True
 -43.5309505,172.59281609999994,Remedy Pharmacy - Riccarton,im:68c36529-2b81-4527-9165-0aaf6fd86b14,https://www.healthpoint.co.nz/pharmacy/pharmacy/remedy-pharmacy-riccarton/,pharmacy,True
 -36.8520937,174.75105310000004,Freemans Bay Pharmacy,im:8238e91e-10f9-4bc6-a1bd-240cc3666b49,https://www.healthpoint.co.nz/pharmacy/pharmacy/freemans-bay-pharmacy/,pharmacy,True
 -43.5002639,172.6112826,Papanui Pharmacy,im:77d0bc31-5df6-4bea-bfea-4d55f81b9dcb,https://www.healthpoint.co.nz/pharmacy/pharmacy/papanui-pharmacy/,pharmacy,True
 -41.2570354,174.76578900000004,Crofton Downs Pharmacy,im:2aa631d2-de57-4ffa-a522-458e18d13326,https://www.healthpoint.co.nz/pharmacy/pharmacy/crofton-downs-pharmacy/,pharmacy,True
 -36.87587749999999,174.82816460000004,"Meadowbank Shopping Centre, 35-47 Saint Johns Road, Saint Johns, Auckland",im:6efb8c8c-40e9-4e39-9008-f047b97495a2,https://www.healthpoint.co.nz/meadowbank-shopping-centre-35-47-saint-johns/,pharmacy,False
--35.7317718,174.3267202,Chemist Warehouse Okara Park,im:303ade4d-a317-4e2f-bc21-973c5184cb13,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-okara-park/,pharmacy,True
 -40.3315054,175.6313169,Vogel Street Pharmacy,im:1d83977d-4bc1-48b5-be57-a02cdb067fec,https://www.healthpoint.co.nz/pharmacy/pharmacy/vogel-street-pharmacy/,pharmacy,True
 -36.811203,174.7257211,Bargain Chemist Birkenhead ,im:4bcc0aa4-afbf-4100-b126-cedd04ff538e,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-birkenhead/,pharmacy,True
--44.3717809,171.2423147,Chemist Warehouse Timaru Showgrounds,im:6805a0e1-8515-4743-936a-bc4e85e84d46,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-timaru-showgrounds/,pharmacy,True
 -36.9020045,174.69247819999998,Avondale Pharmacy,im:a7324055-684e-47ce-9662-8d88249c22e8,https://www.healthpoint.co.nz/pharmacy/pharmacy/avondale-pharmacy/,pharmacy,True
 -39.5873099,174.28044260000001,Mountainview Pharmacy,im:2bcb5310-a74a-4189-b190-79deca4e8fff,https://www.healthpoint.co.nz/pharmacy/pharmacy/mountainview-pharmacy/,pharmacy,True
 -41.3346575,174.77359679999995,Unichem Island Bay Pharmacy,im:d603be77-4817-4223-9d27-4ba78119f0c7,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-island-bay-pharmacy/,pharmacy,True
 -38.6643364,178.02274310000007,Unichem Bramwells Pharmacy,im:99e830b0-345f-4b40-9fd1-03955c32b1c5,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-bramwells-pharmacy/,pharmacy,True
 -41.22375789999999,174.80761299999995,Unichem Johnsonville Pharmacy,im:ddc49f59-d216-4a78-9bde-1f2d4d6ac10f,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-johnsonville-pharmacy/,pharmacy,True
 -43.5401978,172.6054558,"Tower Junction Shopping Complex, Addington, Christchurch",im:93e43d0f-5deb-4b26-9412-6a781f01666b,https://www.healthpoint.co.nz/tower-junction-shopping-complex-addington/,pharmacy,True
--41.2839605,174.7751931,Chemist Warehouse Lambton Quay,im:e9329256-04e5-498b-997f-9fb35480fe9d,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-lambton-quay/,pharmacy,True
 -36.9725434,174.83410189999995,Graeme Avenue Pharmacy,im:40021410-fbc2-4b41-a66f-7927f2e17c39,https://www.healthpoint.co.nz/pharmacy/pharmacy/graeme-avenue-pharmacy/,pharmacy,True
 -36.96290183127625,174.8401004076004,Haumanu Pharmacy,im:da6539c1-c41c-4985-a828-9535c8be0a94,https://www.healthpoint.co.nz/pharmacy/pharmacy/haumanu-pharmacy/,pharmacy,True
 -35.7085691,174.3206953,Kensington Pharmacy Ltd,im:b52e60d8-7f42-40b9-ae85-10cf3bc69bdc,https://www.healthpoint.co.nz/pharmacy/pharmacy/kensington-pharmacy-ltd/,pharmacy,True
@@ -435,7 +391,6 @@ lat,lng,name,id,url,branch,ECP
 -36.9104783,174.77481910000006,Royal Oak Unichem Pharmacy (By Pak'n Save),im:b79d325e-656c-4408-8f8f-bb3b029bae11,https://www.healthpoint.co.nz/pharmacy/pharmacy/royal-oak-unichem-pharmacy-by-pakn-save/,pharmacy,True
 -36.7281522,174.7079397,Life Pharmacy Albany,im:98182970-6ba0-4316-aff8-15839b79766e,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-albany/,pharmacy,True
 -36.8621229,174.8588211,Eastmed Pharmacy,im:6415f1a2-461b-456e-aac3-8fb6deea03e0,https://www.healthpoint.co.nz/pharmacy/pharmacy/eastmed-pharmacy/,pharmacy,True
--36.8818969,174.6351565,Chemist Warehouse Henderson,im:30bc393c-9359-4650-a9b7-63b5feed41da,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-henderson/,pharmacy,True
 -43.54103149999999,172.66010570000003,The Pharmacy @ Phillipstown,im:bf011620-690d-4c20-832c-09c61423d593,https://www.healthpoint.co.nz/pharmacy/pharmacy/the-pharmacy-phillipstown/,pharmacy,True
 -36.9666943,174.90575590000003,Chapel Park Pharmacy,im:88c81a38-f943-49cb-983f-da147d7a4061,https://www.healthpoint.co.nz/pharmacy/pharmacy/chapel-park-pharmacy/,pharmacy,True
 -46.10132460000001,168.9438404,Unichem Quins Gore Pharmacy,im:6c18123b-6ca3-4f30-812f-e36e4cb1c82b,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-quins-gore-pharmacy/,pharmacy,True
@@ -453,17 +408,13 @@ lat,lng,name,id,url,branch,ECP
 -43.5019542,172.633446,Bastins Pharmacy,im:cc6901e0-6b9e-4d77-aa56-e6a7c0776957,https://www.healthpoint.co.nz/pharmacy/pharmacy/bastins-pharmacy/,pharmacy,True
 -36.8884092,174.8317548,Unichem Lunn Ave Pharmacy,im:585af7fe-ee64-4a1f-8a58-f7045b6bb3bc,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-lunn-ave-pharmacy/,pharmacy,True
 -36.87907939999999,174.85504420000007,Unichem Cox's 7 Day Pharmacy,im:19bcb84d-96be-4c71-9854-0b916bfef2ef,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-coxs-7-day-pharmacy/,pharmacy,True
--36.9224856,174.7861774,Chemist Warehouse Onehunga,im:0f812ba1-e9fc-4601-be76-a48a4aea319b,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-onehunga/,pharmacy,True
 -36.9888011,174.88540579999994,Bakerfield Chemist,im:366b332f-bb01-4915-a2c5-fc32ee2828b8,https://www.healthpoint.co.nz/pharmacy/pharmacy/bakerfield-chemist/,pharmacy,True
--37.74946713268229,175.23473381996155,Chemist Warehouse The Base,im:66e005db-2729-4bce-bacf-e088ab04fdc2,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-the-base/,pharmacy,True
 -36.8846257,174.74864730000002,Pharmacy on Dominion,im:9825d927-a0e9-4e3f-936f-7c5e4871d1af,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-on-dominion/,pharmacy,True
 -41.28777940000001,174.77545399999997,Unichem Willis St Pharmacy,im:5e027ef6-5581-481b-9e5b-689be48ccfd8,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-willis-st-pharmacy/,pharmacy,True
 -36.8365382,174.6011209,RedHills Pharmacy,im:3c799734-d143-4037-80d4-dd4214fd280d,https://www.healthpoint.co.nz/pharmacy/pharmacy/redhills-pharmacy/,pharmacy,False
--36.9648928,174.9024469,Chemist Warehouse Flat Bush,im:cbc1f802-fe7f-4a0f-992c-a2906b4fe07f,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-flat-bush/,pharmacy,True
 -43.31404790000001,172.69767809999996,Pegasus Pharmacy,im:10683701-b02d-487a-a549-74b24e37418a,https://www.healthpoint.co.nz/pharmacy/pharmacy/pegasus-pharmacy/,pharmacy,True
 -41.2805215,173.26970589999996,Victory Square Pharmacy,im:c2282b3f-da8a-4c03-8a6b-d406b76ad5f5,https://www.healthpoint.co.nz/pharmacy/pharmacy/victory-square-pharmacy/,pharmacy,True
 -39.0740728,174.05950669999993,Pharmacy @ Carefirst,im:48083bfd-2a85-4d34-a44e-92fed1929abd,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-carefirst/,pharmacy,True
--45.0304524,168.6578617,Queenstown Pharmacy,im:a98b2db0-acc3-45f0-9400-8a0115f48202,https://www.healthpoint.co.nz/pharmacy/pharmacy/queenstown-pharmacy/,pharmacy,True
 -37.0651675,174.94372169999997,Unichem Papakura Pharmacy,im:89100510-c9bb-44a0-88e5-1688cec2a377,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-papakura-pharmacy/,pharmacy,True
 -41.27456129999999,173.28703810000002,Life Pharmacy Prices,im:8a52081f-e250-4020-a4cb-2a2002fff379,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-prices/,pharmacy,True
 -37.7996553,174.86859359999994,Raglan Pharmacy,im:444d9723-e27f-4f42-8e10-a6c2ea20bba3,https://www.healthpoint.co.nz/pharmacy/pharmacy/raglan-pharmacy/,pharmacy,True
@@ -483,7 +434,6 @@ lat,lng,name,id,url,branch,ECP
 -40.85992479999999,172.80582530000004,Golden Bay Pharmacy,im:5113ff89-7155-4013-ab0f-8c0feca4d821,https://www.healthpoint.co.nz/pharmacy/pharmacy/golden-bay-pharmacy/,pharmacy,True
 -36.8421999,174.6514783,Unichem Peninsula Pharmacy,im:42d7aabe-6107-4b65-877b-a48b78df92c8,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-peninsula-pharmacy/,pharmacy,True
 -36.85454420000001,174.65095729999996,Unichem Harbour View Pharmacy,im:80c06d7b-b1d8-4fea-8c02-0ce660401b98,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-harbour-view-pharmacy/,pharmacy,True
--36.871756,174.77673779999998,Chemist Warehouse Westfield Newmarket,im:968c2f5a-a4ca-44f1-884f-a47b9dc2fe86,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-westfield-newmarket/,pharmacy,True
 -37.6673243,175.150484,Roberts Ngaruawahia Pharmacy,im:dcfe3b00-f5e8-4cf3-be64-800e7d41664a,https://www.healthpoint.co.nz/pharmacy/pharmacy/roberts-ngaruawahia-pharmacy/,pharmacy,True
 -37.89149829999999,178.3178055,Ruatōria Collection Depot - Gordon's Pharmacy,im:87bc3195-395a-4fe8-8bab-aba85cbcf44e,https://www.healthpoint.co.nz/pharmacy/prescription-collection-depot/ruatoria-collection-depot-gordons-pharmacy/,pharmacy,False
 -36.8476598,174.77435220000007,Pharmacy at Quay Park,im:e209c65b-d934-437f-8fff-8915d53bb0c7,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-at-quay-park/,pharmacy,True
@@ -520,7 +470,6 @@ lat,lng,name,id,url,branch,ECP
 -36.7811474,174.72168729999999,Glenfield 7 Day Pharmacy Ltd,im:20a5fa67-7d2b-4991-ac06-8246ac332b24,https://www.healthpoint.co.nz/pharmacy/pharmacy/glenfield-7-day-pharmacy-ltd/,pharmacy,True
 -41.1117319,173.01131179999993,Life Pharmacy Motueka,im:ee97d1c1-7109-4a3d-8c66-968d41d82557,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-motueka/,pharmacy,True
 -36.86054163337887,174.76943492889404,Auckland City Hospital Pharmacy,im:c503da54-eec2-46e5-ad4d-e9da2acc4237,https://www.healthpoint.co.nz/pharmacy/hospital-pharmacy/auckland-city-hospital-pharmacy/,pharmacy,True
--36.71647100000001,174.7478944,Chemist Warehouse Browns Bay,im:3dddc451-ec3e-4b59-981b-d69578792ae0,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-browns-bay/,pharmacy,True
 -36.7383326,174.75349719999997,Unichem Mairangi Bay Pharmacy,im:ec9149d4-f936-4a6d-b4dd-b08e7b69c42c,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-mairangi-bay-pharmacy/,pharmacy,True
 -46.410961,168.35447009999996,Don Street Pharmacy ,im:efb6eec2-edcb-4a45-bc87-ef1a91558c9c,https://www.healthpoint.co.nz/pharmacy/pharmacy/don-street-pharmacy/,pharmacy,True
 -39.9094251,175.05329600000005,Aramoho Pharmacy,im:a01a37be-c069-4d82-b031-12ac77c58c61,https://www.healthpoint.co.nz/pharmacy/pharmacy/aramoho-pharmacy/,pharmacy,True
@@ -555,12 +504,10 @@ lat,lng,name,id,url,branch,ECP
 -40.4728251,175.28125439999997,Gimbletts Pharmacy,im:7dc601a2-0861-49a9-b2d2-8f9cc2c9479d,https://www.healthpoint.co.nz/pharmacy/pharmacy/gimbletts-pharmacy/,pharmacy,True
 -43.56607049999999,172.60447410000006,Hoon Hay Pharmacy Ltd,im:a8eef3ca-2e4a-4688-ad53-86f7eea7fd0a,https://www.healthpoint.co.nz/pharmacy/pharmacy/hoon-hay-pharmacy-ltd/,pharmacy,True
 -39.5364805,176.8484948,Unichem Taradale Pharmacy,im:9f7e2a06-43e0-4934-9bb7-580ffb81eb3d,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-taradale-pharmacy/,pharmacy,True
--36.7863919,174.77311209999993,Pharmacy on Hurstmere (formerly Takapuna Clinic Pharmacy),im:18481a14-5752-44c7-ad75-d297d80c2ffd,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-on-hurstmere-formerly-takapuna-clinic/,pharmacy,True
 -46.412847,168.35129940000002,Unichem UFS Pharmacy,im:5ca3e7fc-add9-4570-9fa2-f6a55f334a2d,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ufs-pharmacy/,pharmacy,True
 -43.5489924,172.68288529999995,Woolston Pharmacy,im:3ba1cddf-abf6-4948-8e45-939f81ed1130,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolston-pharmacy/,pharmacy,True
 -41.2861907,174.77589539999997,Unichem Plimmer Steps Pharmacy,im:0060b792-933f-46e9-98ba-81574155d965,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-plimmer-steps-pharmacy/,pharmacy,True
 -37.07020840000001,174.95916680000005,Papakura Marae Pharmacy,im:583162ff-5315-4158-93c1-7f750e9742d2,https://www.healthpoint.co.nz/pharmacy/pharmacy/papakura-marae-pharmacy/,pharmacy,True
--36.9894158,174.8794423,Chemist Warehouse Ronwood Centre,im:ad0a9653-78ae-468c-828d-512f5ee6706c,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-ronwood-centre/,pharmacy,True
 -37.2759155,175.496446,Ngatea Pharmacy Ltd,im:32fd178b-736e-447a-b547-7b5806efd32f,https://www.healthpoint.co.nz/pharmacy/pharmacy/ngatea-pharmacy-ltd/,pharmacy,True
 -43.5135859,172.6363917,St Albans Pharmacy,im:f0e112bb-fe39-47a7-89ca-6e173b10f5bb,https://www.healthpoint.co.nz/pharmacy/pharmacy/st-albans-pharmacy/,pharmacy,True
 -46.394977,168.34775739999998,Gladstone Pharmacy (Invercargill),im:02cd8752-2838-417a-9f91-59be783cb1a8,https://www.healthpoint.co.nz/pharmacy/pharmacy/gladstone-pharmacy-invercargill/,pharmacy,True
@@ -621,8 +568,6 @@ lat,lng,name,id,url,branch,ECP
 -43.47935080000001,172.68199170000003,Unichem Burwood Hospital Pharmacy,im:d5fe0c4c-adb9-4836-8249-efc302dfd69a,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-burwood-hospital-pharmacy/,pharmacy,True
 -39.6371595,176.8440031,Care Pharmacy at Totara,im:9a652303-956c-4c00-bec1-f522cb9f4318,https://www.healthpoint.co.nz/pharmacy/pharmacy/care-pharmacy-at-totara/,pharmacy,True
 -41.29025120000001,174.89790859999994,Eastbourne Pharmacy,im:3d7cee02-756d-4035-98f9-bbc9fb35327c,https://www.healthpoint.co.nz/pharmacy/pharmacy/eastbourne-pharmacy/,pharmacy,True
--36.730771,174.70585700000004,Chemist Warehouse Albany,im:bc4568b4-c0da-4281-825f-256f2c65e29c,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-albany/,pharmacy,True
--43.9056965,171.7428588,Chemist Warehouse Ashburton,im:3c534b7c-2270-47ad-b420-88bbb2dc39f8,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-ashburton-1/,pharmacy,True
 -39.9319987,175.0498932,Pharmacy 145 on Victoria,im:c5d0556b-a99f-4d64-be77-7a64912e7c81,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-145-on-victoria/,pharmacy,True
 -39.5840916,176.9158049,Clive Pharmacy,im:66115010-0215-407f-a3c1-ecf0c29f4ae2,https://www.healthpoint.co.nz/pharmacy/pharmacy/clive-pharmacy/,pharmacy,False
 -45.5408876,169.31475269999999,Highland Pharmacy Central,im:608ba2ef-ac89-4b84-a1ca-36dfbdad84dd,https://www.healthpoint.co.nz/pharmacy/pharmacy/highland-pharmacy-central/,pharmacy,True
@@ -673,7 +618,6 @@ lat,lng,name,id,url,branch,ECP
 -36.7759751,174.55597179999995,Allen's Village Pharmacy,im:9a958a6d-5f4f-40d1-afa9-aac22a3e011d,https://www.healthpoint.co.nz/pharmacy/pharmacy/allens-village-pharmacy/,pharmacy,True
 -36.6363653,174.74791979999998,Bargain Chemist Whangaparāoa,im:8645f374-7d86-40e5-b891-a1a1b026b10c,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-whangaparaoa/,pharmacy,True
 -43.55840155,172.65575502846855,Beckford Health Pharmacy,im:bb74727c-4d38-4a1a-a993-15916b3c792b,https://www.healthpoint.co.nz/pharmacy/pharmacy/beckford-health-pharmacy/,pharmacy,True
--43.5950232,172.3861574,Chemist Warehouse Rolleston,im:f47686e4-880b-4923-8c26-217d16a25d4f,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-rolleston/,pharmacy,True
 -43.53243399999999,172.6714,Community Pharmacy Linwood,im:6119ad48-23b4-4655-9e14-a606a051f302,https://www.healthpoint.co.nz/pharmacy/pharmacy/community-pharmacy-linwood/,pharmacy,True
 -40.33812950000001,175.6318437,Unichem Kauri Healthcare Pharmacy,im:b27987c8-7f90-4ef4-a4a5-5fa3b26a9e58,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kauri-healthcare-pharmacy/,pharmacy,True
 -45.8746638,170.50330180000003,Dunedin City Pharmacy,im:728493e7-228e-4b7e-94b7-811ca38f914d,https://www.healthpoint.co.nz/pharmacy/pharmacy/dunedin-city-pharmacy/,pharmacy,True
@@ -783,8 +727,6 @@ lat,lng,name,id,url,branch,ECP
 -43.4733475,172.5950719,Kiwi Pharmacy Highsted,im:c1b67bc6-3508-4e0c-bf7c-b71f2b761ec7,https://www.healthpoint.co.nz/pharmacy/pharmacy/kiwi-pharmacy-highsted/,pharmacy,True
 -43.51863999114732,172.5251387024446,Kiwi Pharmacy Yaldhurst,im:02969fae-85a9-4c37-87bd-1b13e7df1ca1,https://www.healthpoint.co.nz/pharmacy/pharmacy/kiwi-pharmacy-yaldhurst/,pharmacy,True
 -46.3950508,168.3654221,Windsor Pharmacy (Previously known as Wallaces Pharmacy),im:61e7c56f-030e-43a9-a9bd-d866659611b0,https://www.healthpoint.co.nz/pharmacy/pharmacy/windsor-pharmacy-previously-known-as-wallaces/,pharmacy,True
--36.91082370000001,174.8715457,Chemist Warehouse Pakuranga,im:6ebfd486-64a3-4925-9663-37e887da2781,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-pakuranga/,pharmacy,True
--36.9135005,174.8407995,"Sylvia Park Shopping Centre, 286 Mt Wellington Highway, Mt Wellington, Auckland",im:b773a559-7394-4b67-bf88-50dbd8121d26,https://www.healthpoint.co.nz/sylvia-park-shopping-centre-286-mt-wellington/,pharmacy,False
 -43.5123107,172.62156230000005,Life Pharmacy Merivale,im:69bb39f3-5b63-49e6-9a0f-1fbe53de1a9e,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-merivale/,pharmacy,True
 -41.079441,175.46117800000002,Greytown Pharmacy,im:f0fd6a7b-e2c9-43de-9c7b-1d342ff1de90,https://www.healthpoint.co.nz/pharmacy/pharmacy/greytown-pharmacy/,pharmacy,True
 -36.8637145,174.60274890000005,Ranui Pharmacy,im:06ca02ec-7fc5-4630-b7af-71696a79767f,https://www.healthpoint.co.nz/pharmacy/pharmacy/ranui-pharmacy/,pharmacy,True
@@ -812,7 +754,6 @@ lat,lng,name,id,url,branch,ECP
 -43.4953877,172.68846280000002,Burwood Pharmacy,im:c33b3327-f3d8-4410-bdbc-dae945f22d92,https://www.healthpoint.co.nz/pharmacy/pharmacy/burwood-pharmacy/,pharmacy,True
 -40.75288899999999,175.14046699999994,Hamish Barham Pharmacy,im:d7ffbeeb-9d63-45bf-9e52-24519aef0fb6,https://www.healthpoint.co.nz/pharmacy/pharmacy/hamish-barham-pharmacy/,pharmacy,True
 -45.09721529999999,170.97161119999998,Oamaru Pharmacy,im:31e9a1dc-30a0-4548-8486-cc492a95936e,https://www.healthpoint.co.nz/pharmacy/pharmacy/oamaru-pharmacy/,pharmacy,True
--36.78204139999999,174.7220515,Chemist Warehouse Glenfield Mall,im:9ae1b5be-a006-4817-956b-945ab0c1eee4,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-glenfield-mall/,pharmacy,False
 -37.7506675,175.2411909,Northcare Pukete Pharmacy,im:5cec2d2a-7f9b-4a4a-91bc-99301de9f471,https://www.healthpoint.co.nz/pharmacy/pharmacy/northcare-pukete-pharmacy/,pharmacy,True
 -37.89428729999999,175.4697387,Unichem Cambridge Pharmacy,im:fca1492a-bd43-46ee-8763-fa3058ff8b81,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-cambridge-pharmacy/,pharmacy,True
 -37.6374997,176.18290179999997,Mount Pharmacy,im:113ffaed-5225-44d3-8974-6816b19f3083,https://www.healthpoint.co.nz/pharmacy/pharmacy/mount-pharmacy/,pharmacy,False
@@ -821,12 +762,11 @@ lat,lng,name,id,url,branch,ECP
 -41.1248732,175.06629280000004,Lagans Pharmacy,im:d6fe0339-bad0-4d6b-b062-fe6cbb4fe952,https://www.healthpoint.co.nz/pharmacy/pharmacy/lagans-pharmacy/,pharmacy,True
 -41.32462659999999,174.82085140000004,Strathmore Park Pharmacy,im:70513b94-2dd5-4689-a38a-ff5efb3f28cd,https://www.healthpoint.co.nz/pharmacy/pharmacy/strathmore-park-pharmacy/,pharmacy,True
 -41.51485040000001,173.96005709999997,Community Care Pharmacy,im:c4d08814-eccd-4466-b51f-e97121ca44e2,https://www.healthpoint.co.nz/pharmacy/pharmacy/community-care-pharmacy/,pharmacy,True
--37.8906653,175.4711406,Chemist Warehouse Cambridge,im:37926182-e5a7-4e34-b194-125964a21acd,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-cambridge/,pharmacy,True
--37.785826,175.28026620000003,Chemist Warehouse Centre Place,im:6f1f14e5-20a5-4f27-822a-f2b4f22a5cca,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-centre-place/,pharmacy,True
 -36.58764130000001,174.69533580000007,Life Pharmacy Orewa,im:49dd6b91-e47d-4715-9739-7b3216d15a73,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-orewa/,pharmacy,True
 -36.7893879,174.74513780000007,Sunnybrae Pharmacy,im:9bde287b-fec6-42cb-8d01-7bcb61897242,https://www.healthpoint.co.nz/pharmacy/pharmacy/sunnybrae-pharmacy/,pharmacy,True
 -37.895016,175.47138629999995,Duke Street Pharmacy,im:50f6c869-96f5-47c9-b378-7575dd890b66,https://www.healthpoint.co.nz/pharmacy/pharmacy/duke-street-pharmacy/,pharmacy,True
 -43.8084776,172.9635422,Akaroa Pharmacy,im:4fca7086-70b1-44aa-b864-498953f11f8d,https://www.healthpoint.co.nz/pharmacy/pharmacy/akaroa-pharmacy/,pharmacy,True
+-45.87021809999999,170.505518,"Meridian Mall, George Street, Dunedin Central, Dunedin",im:bd49601e-a777-4cb1-8bbc-c871d7b098a5,https://www.healthpoint.co.nz/meridian-mall-george-street-dunedin-central/,pharmacy,True
 -45.8623355,170.5111745,Antidote North,im:201866e5-8158-4ef1-8cd4-e66e5f501297,https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-north-1/,pharmacy,True
 -45.8736001,170.5041463,Antidote Octagon,im:bbcbbb7b-1961-4841-ac43-d0f4067ed485,https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-octagon/,pharmacy,True
 -36.8876102,174.8006452,Ascot Pharmacy,im:6a96b028-ea4f-46d7-aa7f-85560e934a2f,https://www.healthpoint.co.nz/pharmacy/pharmacy/ascot-pharmacy/,pharmacy,True
@@ -834,10 +774,6 @@ lat,lng,name,id,url,branch,ECP
 -38.6881389,176.07105,Life Pharmacy Taupo,im:5b4a4ad2-0526-4b8a-b7dd-6ce24a0db9fe,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-taupo/,pharmacy,True
 -36.990080788675776,174.87258048347803,Bargain Chemist Manukau,im:1b2f9f79-86dc-4b67-a8bb-c20132585327,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-manukau/,pharmacy,True
 -36.81234413933998,174.72591340541842,Birkenhead 7 Day Pharmacy,im:96a158fd-82bd-49d1-96d0-6fb5a1c76eaa,https://www.healthpoint.co.nz/pharmacy/pharmacy/birkenhead-7-day-pharmacy/,pharmacy,True
--36.81095980000001,174.7247724,Chemist Warehouse Birkenhead,im:4b57a330-c779-4d0b-8bf0-61ca3c6a9380,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-birkenhead/,pharmacy,True
--36.9281598,174.91454669999996,Chemist Warehouse Botany,im:3e92c9ce-6dea-4625-bd32-706ca2dbb00a,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-botany/,pharmacy,True
--37.6884518,176.1655767,Chemist Warehouse Cameron Road,im:8250ce93-0225-4fe4-88cb-8cdafc5f7ae1,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-cameron-road/,pharmacy,True
--41.3185228,174.7950308,Chemist Warehouse Kilbirnie,im:dc57184a-683f-4426-97fe-4905a35679d9,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-kilbirnie/,pharmacy,True
 -41.1300105,174.838066,Chemist Warehouse Porirua,im:6787f1b0-2449-4c35-9a34-5c76cf528a09,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-porirua/,pharmacy,True
 -39.0569861,174.07099019999998,City Care Pharmacy (New Plymouth),im:5b4ad5ed-94f5-4504-bd3e-20e5c511263a,https://www.healthpoint.co.nz/pharmacy/pharmacy/city-care-pharmacy-new-plymouth/,pharmacy,True
 -40.3503733,175.61795970000003,City Health Pharmacy Ltd,im:ac3e04be-22a3-4970-8740-c63a894bbb4c,https://www.healthpoint.co.nz/pharmacy/pharmacy/city-health-pharmacy-ltd/,pharmacy,True
@@ -855,12 +791,12 @@ lat,lng,name,id,url,branch,ECP
 -41.14635826073668,174.8348593711853,Kenepuru Pharmacy,im:a4abad18-38cc-43f5-8812-1d3b44305b9f,https://www.healthpoint.co.nz/pharmacy/pharmacy/kenepuru-pharmacy/,pharmacy,True
 -36.8949973,174.9170706,Juliet Ave Pharmacy,im:6ab87622-3360-4806-8b84-326801efbd23,https://www.healthpoint.co.nz/pharmacy/pharmacy/juliet-ave-pharmacy/,pharmacy,True
 -37.750353,175.2788163,Life Pharmacy Chartwell,im:e34e52ad-a30c-44a3-bcca-37dec4ef1a6a,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-chartwell/,pharmacy,True
+-36.9135005,174.8407995,"Sylvia Park Shopping Centre, 286 Mt Wellington Highway, Mt Wellington, Auckland",im:41eaaea0-a81f-41dc-8e31-7ea2a7928a99,https://www.healthpoint.co.nz/sylvia-park-shopping-centre-286-mt-wellington/,pharmacy,True
 -36.977737,174.87159080000004,Your Health Centre Pharmacy Papatoetoe,im:3917899a-150b-4b84-a84f-3e79b655a92c,https://www.healthpoint.co.nz/pharmacy/pharmacy/your-health-centre-pharmacy-papatoetoe/,pharmacy,True
 -37.2068112,175.87129230000005,Whangamata Pharmacy,im:06f728ee-463c-44fa-8589-ad583f267268,https://www.healthpoint.co.nz/pharmacy/pharmacy/whangamata-pharmacy/,pharmacy,True
 -36.91035369999999,174.64981710000006,Westview Pharmacy,im:1c91df83-00bf-4486-b7f7-74cd17fb4b84,https://www.healthpoint.co.nz/pharmacy/pharmacy/westview-pharmacy/,pharmacy,True
 -36.9265863,174.8978581,Unichem Ti Rakau Drive Pharmacy,im:310fd3fc-2eb5-445c-be9e-6f6b38f29699,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ti-rakau-drive-pharmacy/,pharmacy,True
 -37.2491726,174.73086839999996,Unichem Waiuku Pharmacy,im:f86d646d-4e86-49f0-ad7c-5a7a9c03fdf7,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-waiuku-pharmacy/,pharmacy,True
--44.2450057,171.27757840000004,Temuka Pharmacy,im:a38d722b-f00c-4153-91c0-427c2f74967b,https://www.healthpoint.co.nz/pharmacy/pharmacy/temuka-pharmacy/,pharmacy,False
 -43.5224537,172.3704577,Unichem West Melton Pharmacy,im:a6e7ccfc-8a2d-4377-b3fa-5865b73feb46,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-west-melton-pharmacy/,pharmacy,True
 -44.73334910000001,171.04696669999998,Waimate Pharmacy,im:8ea76fb9-3819-4266-b205-9b9c8fdb1cab,https://www.healthpoint.co.nz/pharmacy/pharmacy/waimate-pharmacy/,pharmacy,True
 -41.4058809,173.0425288,Wakefield Pharmacy,im:95e64a40-df89-4811-9630-4eb9fbc3f7da,https://www.healthpoint.co.nz/pharmacy/pharmacy/wakefield-pharmacy/,pharmacy,True
@@ -872,7 +808,6 @@ lat,lng,name,id,url,branch,ECP
 -35.68292889999999,174.32198019999998,Unichem Buchanans Pharmacy,im:72f135d2-7251-4fc9-acb7-02956b9d7b7c,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-buchanans-pharmacy/,pharmacy,True
 -37.01350850000001,174.90041359999998,Unichem Hillpark Pharmacy,im:c66cbc07-c904-4bc3-bfcf-e8852a68b57a,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hillpark-pharmacy/,pharmacy,True
 -35.6833483,174.30063559999996,Unichem Kamo Pharmacy,im:24e5bee7-8cb7-4b5a-92d9-1531ec226bc9,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kamo-pharmacy/,pharmacy,True
--41.2194696,175.46071129999996,Unichem Martinborough Pharmacy,im:3a1e29ea-0dbc-4228-b225-a0f5c2220ecb,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-martinborough-pharmacy/,pharmacy,True
 -35.6873131,174.32664139999997,Unichem Kiripaka Buchanans Pharmacy,im:3bb7796c-2ad0-4750-9830-6b665f293623,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kiripaka-buchanans-pharmacy/,pharmacy,True
 -37.70920600000001,176.16371749999996,Unichem Fifteenth Avenue Pharmacy,im:1557bb7c-b6a6-469a-be0f-2ca873fdde72,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-fifteenth-avenue-pharmacy/,pharmacy,True
 -43.5409237,172.6397687,Unichem Moorhouse Pharmacy,im:208a3fa6-288c-44ad-8d29-393c0cffd5a0,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-moorhouse-pharmacy/,pharmacy,True
@@ -914,7 +849,6 @@ lat,lng,name,id,url,branch,ECP
 -41.282275,174.7756213,City Medical Centre Pharmacy,im:9720c7f8-bb77-4c39-b0be-79ee9bc00d77,https://www.healthpoint.co.nz/pharmacy/pharmacy/city-medical-centre-pharmacy/,pharmacy,True
 -45.8673921,170.4570132,Brockville Pharmacy,im:09cda966-5dfb-4c5b-a801-8e662965edeb,https://www.healthpoint.co.nz/pharmacy/pharmacy/brockville-pharmacy/,pharmacy,True
 -45.8963282,170.48063049999996,Caversham Pharmacy,im:5935ac3d-4d66-4796-976c-c26fbff44b9b,https://www.healthpoint.co.nz/pharmacy/pharmacy/caversham-pharmacy/,pharmacy,True
--39.0468955,174.1158224,"The Valley Mega Centre, New Plymouth",im:7870a487-bce0-4abb-a261-58cd05a8872a,https://www.healthpoint.co.nz/the-valley-mega-centre-new-plymouth/,pharmacy,True
 -43.5153373,172.63765039999998,Cranford Pharmacy,im:9c5f7226-f70b-4997-a345-c286ce0019c3,https://www.healthpoint.co.nz/pharmacy/pharmacy/cranford-pharmacy/,pharmacy,True
 -39.66722619999999,176.87965140000006,Dentons Peak Pharmacy,im:c0a645c6-bef9-43c3-a32e-91e19126a7c5,https://www.healthpoint.co.nz/pharmacy/pharmacy/dentons-peak-pharmacy/,pharmacy,True
 -39.7637226,174.63353889999996,Godderidges Pharmacy,im:8f78877e-7ec4-487e-a5a6-fb1001764426,https://www.healthpoint.co.nz/pharmacy/pharmacy/godderidges-pharmacy/,pharmacy,True
@@ -945,6 +879,7 @@ lat,lng,name,id,url,branch,ECP
 -36.94542149999999,174.84453439999993,Unichem Otahuhu Mainstreet Pharmacy,im:49a69530-f14d-4270-b21b-a8e1dae94dfa,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-otahuhu-mainstreet-pharmacy/,pharmacy,True
 -36.8689656,174.62864609999997,Unichem Ratanui Pharmacy,im:449abeef-6b7b-4631-845f-96e6cd40fbc1,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ratanui-pharmacy/,pharmacy,True
 -36.8827281,174.6324161,Unichem Waiora Pharmacy,im:9e561808-6109-468e-b3df-7f1a5a406bad,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-waiora-pharmacy/,pharmacy,True
+-36.6136569,174.67908490000002,"61 Silverdale Street, Silverdale",im:b7bc8e86-6770-405c-9b3b-ef9314de7047,https://www.healthpoint.co.nz/61-silverdale-street-silverdale/,pharmacy,True
 -37.72903700000001,175.274186,Unichem Rototuna Pharmacy,im:3979d732-4d04-48f1-a1f3-84dfe93ea628,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-rototuna-pharmacy/,pharmacy,True
 -36.3993913,174.66614549999997,Unichem Warkworth Pharmacy,im:78d65967-9aa3-415a-8dfd-b7490d17453b,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-warkworth-pharmacy/,pharmacy,True
 -36.8212311,174.60950619999994,Westgate Pharmacy,im:e507c831-5f7b-4d34-bc44-c41a6263d4ff,https://www.healthpoint.co.nz/pharmacy/pharmacy/westgate-pharmacy/,pharmacy,True
@@ -955,11 +890,6 @@ lat,lng,name,id,url,branch,ECP
 -43.4910028,172.602291,Bargain Chemist Papanui,im:3803b65d-da63-4e8a-afb5-c7fd32a5cf1d,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-papanui/,pharmacy,True
 -43.4938866,172.66012890000002,Bargain Chemist Shirley,im:4e48f234-2827-4b73-9184-1c0c8d07ec13,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-shirley/,pharmacy,True
 -41.29082319999999,174.77652369999998,Bargain Chemist Wellington,im:f56f6458-01bf-4a89-ac52-fdba57989d88,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-wellington/,pharmacy,True
--43.5385157,172.5895104,Chemist Warehouse Blenheim Square,im:c2b8bd25-b778-4201-8764-c373aee81d54,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-blenheim-square/,pharmacy,False
--43.4937129,172.6066281,Chemist Warehouse Papanui,im:071d118d-3f5d-4826-83ab-04cba3ce9cfe,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-papanui/,pharmacy,True
--43.53836699999999,172.63529500000004,Chemist Warehouse South City Shopping Centre,im:7005c19b-44bd-42db-8434-f46901d2db96,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-south-city-shopping-centre/,pharmacy,True
--41.5076895,173.9233506,Chemist Warehouse Springlands,im:11e8c50b-73b3-40b1-b034-299c4c7737af,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-springlands/,pharmacy,True
--43.5065597,172.66396150000003,Chemist Warehouse The Palms,im:87e97fe8-d32e-4a85-8aa8-09ab6870b841,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-the-palms/,pharmacy,False
 -37.4121772,175.94399299999998,Waihi Beach Chemist,im:0d4eeb1f-ed36-4743-9278-766a885e08b0,https://www.healthpoint.co.nz/pharmacy/pharmacy/waihi-beach-chemist/,pharmacy,True
 -39.9171495,175.05959689999997,Pharmacy Over East,im:bd90e207-0f5f-4f24-a128-1ab1405e3e8b,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-over-east/,pharmacy,True
 -36.8606817,174.82964319999996,Life Pharmacy Eastridge,im:141cf7ad-5942-45ac-b975-3f4e137d5472,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-eastridge/,pharmacy,True
@@ -967,7 +897,6 @@ lat,lng,name,id,url,branch,ECP
 -38.051914,175.77891650000004,Unichem Putaruru Pharmacy,im:d7970568-3115-4054-988f-64a65cfc935f,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-putaruru-pharmacy/,pharmacy,True
 -37.7256849,176.19264109999995,Welcome Bay Pharmacy,im:5cf55c5f-2f5f-4100-8e41-9797bca1b1aa,https://www.healthpoint.co.nz/pharmacy/pharmacy/welcome-bay-pharmacy/,pharmacy,True
 -43.50721739999999,172.72672769999997,Unichem Brighton Village Pharmacy,im:ec319186-c7fd-4281-9ddd-9a14754a8ece,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-brighton-village-pharmacy/,pharmacy,True
--36.9709915,174.86033080000004,Chemist Warehouse Hunters Plaza,im:dbc3efba-ac47-4597-91de-b67ab536d168,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-hunters-plaza/,pharmacy,True
 -36.7981044,174.70070169999997,Birkdale Pharmacy 1998 Ltd,im:2fac2f17-1c83-4a09-97c9-26640c3026db,https://www.healthpoint.co.nz/pharmacy/pharmacy/birkdale-pharmacy-1998-ltd/,pharmacy,True
 -39.53599699999999,176.8480463,Gees Pharmacy,im:e343d614-18cc-4dd4-880c-4dd66a8cbfdf,https://www.healthpoint.co.nz/pharmacy/pharmacy/gees-pharmacy/,pharmacy,True
 -44.09114359999999,171.24367200000006,Geraldine Pharmacy,im:a7d5d041-ea35-459c-adfc-4cfada99e598,https://www.healthpoint.co.nz/pharmacy/pharmacy/geraldine-pharmacy/,pharmacy,True
@@ -1013,61 +942,132 @@ lat,lng,name,id,url,branch,ECP
 -37.0626431,174.94201969999995,Pharmacy Plus,im:46b3d847-a00c-4acd-965b-248335ad26ce,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-plus/,pharmacy,True
 -36.8916055,174.79499450000003,Unichem Greenlane Pharmacy,im:1a11c7c6-171f-4c1e-a231-532d0c734954,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-greenlane-pharmacy/,pharmacy,True
 -39.0722007,174.0576038,Pharmacy Services | Taranaki | Te Whatu Ora,im:1142d33c-e72c-45d0-a139-7d05e872c1e3,https://www.healthpoint.co.nz/pharmacy/hospital-pharmacy/pharmacy-services-taranaki-te-whatu-ora/,pharmacy,False
--36.853614,174.733161,Woolworths Pharmacy Grey Lynn,im:f94388d0-3530-4b00-969a-7ff10b69f82e,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-grey-lynn/,pharmacy,True
--45.87383479999999,170.5062964,Woolworths Pharmacy Dunedin Central,im:b4f0484d-598b-4032-9643-ac2329430e3f,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-dunedin-central/,pharmacy,True
--43.5564314,172.70037100000002,Woolworths Pharmacy Ferrymead,im:01fdd0ca-ac18-46e6-ad5a-3862345d1aa0,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-ferrymead/,pharmacy,True
--36.7307367,174.7228001,Woolworths Pharmacy Greville Road,im:3825b8ca-c03c-434f-a293-336d0d9a82ab,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-greville-road/,pharmacy,True
--39.6389577,176.8425046,Woolworths Pharmacy Hastings,im:5155d174-5e69-4fa8-aa50-678ec3d659a9,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-hastings/,pharmacy,True
--36.8986258,174.9082739,Woolworths Pharmacy Highland Park ,im:eb178ae3-802e-462c-9a74-af8d68773966,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-highland-park/,pharmacy,True
--43.542853699999995,172.52699691978287,Woolworths Pharmacy Hornby,im:2c92fd29-7fd6-4f47-a72b-64640a3d6ba7,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-hornby/,pharmacy,True
--36.92473469999999,174.72235460000002,Woolworths Pharmacy Lynfield,im:1628200f-9f84-4164-aa64-a5ab88494b48,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-lynfield/,pharmacy,True
--36.857244,174.63114870000004,Woolworths Pharmacy Lincoln Road,im:a443691f-c7ed-451a-a478-38bfe69291ec,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-lincoln-road/,pharmacy,True
--36.9044075,174.72739849999994,Woolworths Pharmacy Mt Roskill,im:ae614f6e-8e58-4828-99e7-7615943dd607,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-mt-roskill/,pharmacy,True
--36.8763872,174.7522252,Woolworths Pharmacy Mt Eden,im:c291380b-507f-4f68-b743-f14970bcdeae,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-mt-eden/,pharmacy,True
--41.3072136,174.77749859999994,Woolworths Pharmacy Newtown,im:2e0f09cb-34a2-4083-9060-bffbaf21c2da,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-newtown/,pharmacy,True
--41.13342189999999,174.84146169999997,Woolworths Pharmacy Porirua,im:3da51873-5bba-460d-97a9-7675fb6fdb27,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-porirua/,pharmacy,True
--43.4931191,172.6095818,Woolworths Pharmacy Northlands,im:f6eb443d-d5fe-4525-a685-a5f33ea768bb,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-northlands/,pharmacy,True
--36.8592402,174.7493478,Woolworths Pharmacy Ponsonby,im:f5f6f0a9-36d9-4fe8-8cc2-995336006fd1,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-ponsonby/,pharmacy,True
--43.5947243,172.3865479,Woolworths Pharmacy Rolleston,im:93f1c3ca-5e83-4844-b556-5a985eb41190,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-rolleston/,pharmacy,True
--40.3506293,175.60588540000003,Woolworths Pharmacy Rangitikei Street,im:2f3b740b-1990-4a50-a9a9-50050b0e3625,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-rangitikei-street/,pharmacy,True
--38.14340049999999,176.2541417,Woolworths Pharmacy Rotorua,im:d2073cc4-f92b-4d7a-99c6-3a0bb73ddafa,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-rotorua/,pharmacy,True
--37.7225037,175.2583417,Woolworths Pharmacy Rototuna,im:9d45abe6-4282-4c35-b57c-bfb01696f320,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-rototuna/,pharmacy,True
--36.7912674,174.7654169,Woolworths Pharmacy Takapuna,im:4ae9d56f-290e-4cbd-9158-8cb90e43e68a,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-takapuna/,pharmacy,True
--39.0757754,174.03322409999998,Woolworths Pharmacy Spotswood,im:e7fd7318-eb1c-4252-b597-f1bffa2adf63,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-spotswood/,pharmacy,True
--43.5070389,172.663096,Woolworths Pharmacy The Palms,im:50649c29-0990-4bd0-81ec-5c0044360ea7,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-the-palms/,pharmacy,True
--37.746476,175.2338339,Woolworths Pharmacy Te Rapa,im:e1ad7c17-94ae-462c-a883-39d8156d0eae,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-te-rapa/,pharmacy,True
--35.7308613,174.3262351,Woolworths Pharmacy Whangarei - Okara Park,im:9dfae249-3df2-42e3-aa57-b227cf147498,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-whangarei-okara-park/,pharmacy,True
--41.259722,174.943604,Woolworths Pharmacy Wainuiomata,im:ebd75980-10c2-40cd-9817-1d5a212704ea,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-wainuiomata/,pharmacy,True
--37.0360492,174.9078536,Woolworths Pharmacy Waiata Shores,im:d0421b25-ac9f-4274-9f55-51bf59441bf0,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-waiata-shores/,pharmacy,True
--36.8452206,174.77293910000003,Woolworths Pharmacy Auckland City,im:3e26e7e0-6a9d-46f8-85d4-19b1f1785c4a,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-auckland-city/,pharmacy,True
 -35.112382,173.2625974,Browns Community Pharmacy Kaitaia,im:a93c8e28-d2ec-4da2-b6f1-b81699feceff,https://www.healthpoint.co.nz/pharmacy/pharmacy/browns-community-pharmacy-kaitaia/,pharmacy,True
 -39.4954142,176.9125887,Napier Pharmacy,im:58ccf86d-0cae-4457-b07c-f9cf51606711,https://www.healthpoint.co.nz/pharmacy/pharmacy/napier-pharmacy/,pharmacy,False
 -39.636798,176.8377656,Unichem Hastings Pharmacy,im:1945cd80-ea3f-4675-a92f-b4b02201ca45,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hastings-pharmacy/,pharmacy,False
 -39.5153329,176.90559870000004,Maraenui Pharmacy,im:a23f9fa3-98eb-4fe1-88ae-3ad6e75a4a34,https://www.healthpoint.co.nz/pharmacy/pharmacy/maraenui-pharmacy/,pharmacy,False
 -41.1103682,173.01140869999995,Bay Pharmacy Motueka,im:587e0fa7-cf1d-4249-b5eb-8b50b8b0bcb3,https://www.healthpoint.co.nz/pharmacy/pharmacy/bay-pharmacy-motueka/,pharmacy,True
 -36.834692,174.60250689999998,Unichem Massey Pharmacy,im:0c7048d7-32b0-492d-af02-c8ddb4f1bd4e,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-massey-pharmacy/,pharmacy,True
--43.9085124,171.74182159999998,Woolworths Pharmacy Ashburton South,im:bef7d099-17a2-4fce-a0b7-f1dbb6f01e10,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-ashburton-south/,pharmacy,True
 -36.6955628,174.7515181,Unichem Torbay Pharmacy,im:5d371743-2e14-4fe0-85cf-c153dc68a317,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-torbay-pharmacy/,pharmacy,True
--36.8011217,174.7457822,Northcote Family Pharmacy,im:095128da-9540-41cb-872b-eb2f2156f3b2,https://www.healthpoint.co.nz/pharmacy/pharmacy/northcote-family-pharmacy/,pharmacy,False
--36.9301123,174.91095029999997,Woolworths Pharmacy Botany,im:cded3e61-d16c-4d99-8d99-e40f8556d77a,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-botany/,pharmacy,True
--37.8924781,175.47002240000006,Woolworths Pharmacy Cambridge,im:8f970ce7-cd07-4639-99d2-1fbc9360df56,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-cambridge/,pharmacy,True
--36.7168984,174.7466438,Woolworths Pharmacy Browns Bay,im:2f3b0cf4-1976-4071-a5f4-dd464b4effbd,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-browns-bay/,pharmacy,True
--37.778478,175.2989682,Woolworths Pharmacy Claudelands,im:842df976-a469-4a76-bc45-35b862855088,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-claudelands/,pharmacy,True
--43.5327247,172.57301710000002,Woolworths Pharmacy Church Corner,im:5b55352e-1a71-4033-8222-d3f71f95f0f1,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-church-corner/,pharmacy,True
--40.33893860000001,175.62062079999998,Te Rau Rongoā ki Ruahine - Pharmacy on Ruahine (Palmerston North Hospital Pharmacy),im:66e77a02-0cec-48c3-8562-d5aa3686abf8,https://www.healthpoint.co.nz/pharmacy/pharmacy/te-rau-rongoa-ki-ruahine-pharmacy-on-ruahine/,pharmacy,True
--41.22327990000001,174.87196070000005,Woolworths Pharmacy Petone,im:d1ca8c8f-f184-47a3-947c-0f6387f88be5,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-petone/,pharmacy,True
--43.59250374138958,172.38432676115656,Bargain Chemist Rolleston ,im:e72bf4cd-9557-4ff4-8886-ed94853ebcce,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-rolleston/,pharmacy,True
--37.2110701,174.91067799999996,Woolworths Pharmacy Pukekohe South,im:324200dc-58b1-4a80-85cf-6cd0a15b4b7b,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-pukekohe-south/,pharmacy,True
--36.8744099,174.85333179999998,Chemist Warehouse Glen Innes,im:5cb028d6-0ca9-4e01-9b65-4bae7c9a0fb6,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-glen-innes/,pharmacy,True
--39.92528069999999,175.03851080000004,Woolworths Pharmacy Victoria Avenue (Whanganui),im:6a28d95b-5d98-40ff-a988-3301dbb7402e,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-victoria-avenue-whanganui/,pharmacy,True
--36.9932454,174.88261620000003,Manukau Medical Pharmacy,im:80958834-c3b1-4fb0-955b-9710738995a4,https://www.healthpoint.co.nz/pharmacy/pharmacy/manukau-medical-pharmacy/,pharmacy,True
--36.5981918,174.67762219999997,Millwater Parkway Pharmacy,im:8a2e40b3-bcfb-46c0-acfd-c814e50f7b9e,https://www.healthpoint.co.nz/pharmacy/pharmacy/millwater-parkway-pharmacy/,pharmacy,True
--46.4122453,168.35823240000002,Woolworths Pharmacy Invercargill,im:b0d72e7f-98c5-4766-8373-745cf1ff2393,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-invercargill/,pharmacy,True
--45.9022412,170.4290062,Larson's Pharmacy,im:683f07f9-cc50-4674-a673-b99be0da4c23,https://www.healthpoint.co.nz/pharmacy/pharmacy/larsons-pharmacy/,pharmacy,True
--36.8436816,174.7660924,Life Pharmacy Commercial Bay,im:81f52482-750a-44ff-9f72-2acfe95bfd7f,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-commercial-bay/,pharmacy,True
--36.8893605,174.79361159999996,Woolworths Pharmacy Greenlane,im:66d19f06-b817-4df8-96e8-083ffc4ea3de,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-greenlane/,pharmacy,True
 -36.6347136,174.739765,Unichem Whangaparāoa Family Pharmacy,im:6d52be4b-2b1f-45e1-8f7a-e725192cc30b,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-whangaparaoa-family-pharmacy/,pharmacy,True
 -41.1306261,174.8390671,Bargain Chemist Porirua,im:2349ecf4-22ea-406c-86c5-a6e0a009422d,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-porirua/,pharmacy,True
--37.71352220000001,176.1517394,Woolworths Pharmacy Fraser Cove,im:052a3c72-dbf7-4c06-bb16-8f2d3980652f,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-fraser-cove/,pharmacy,True
+-43.59250374138958,172.38432676115656,Bargain Chemist Rolleston ,im:e72bf4cd-9557-4ff4-8886-ed94853ebcce,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-rolleston/,pharmacy,True
+-36.9932454,174.88261620000003,Manukau Medical Pharmacy,im:80958834-c3b1-4fb0-955b-9710738995a4,https://www.healthpoint.co.nz/pharmacy/pharmacy/manukau-medical-pharmacy/,pharmacy,True
+-36.5981918,174.67762219999997,Millwater Parkway Pharmacy,im:8a2e40b3-bcfb-46c0-acfd-c814e50f7b9e,https://www.healthpoint.co.nz/pharmacy/pharmacy/millwater-parkway-pharmacy/,pharmacy,True
+-45.9022412,170.4290062,Larson's Pharmacy,im:683f07f9-cc50-4674-a673-b99be0da4c23,https://www.healthpoint.co.nz/pharmacy/pharmacy/larsons-pharmacy/,pharmacy,True
+-36.8436816,174.7660924,Life Pharmacy Commercial Bay,im:81f52482-750a-44ff-9f72-2acfe95bfd7f,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-commercial-bay/,pharmacy,True
+-40.33893860000001,175.62062079999998,Te Rau Rongoā ki Ruahine - Pharmacy on Ruahine (Palmerston North Hospital Pharmacy),im:66e77a02-0cec-48c3-8562-d5aa3686abf8,https://www.healthpoint.co.nz/pharmacy/pharmacy/te-rau-rongoa-ki-ruahine-pharmacy-on-ruahine/,pharmacy,True
+-36.8011217,174.7457822,Northcote Family Pharmacy,im:095128da-9540-41cb-872b-eb2f2156f3b2,https://www.healthpoint.co.nz/pharmacy/pharmacy/northcote-family-pharmacy/,pharmacy,False
+-36.922244,174.7015963,Blockhouse Bay Pharmacy,im:2459ce26-5c02-47f5-a8e5-9255ce9a6416,https://www.healthpoint.co.nz/pharmacy/pharmacy/blockhouse-bay-pharmacy/,pharmacy,True
+-43.50974979999999,172.6066399,Unichem Elmwood Pharmacy,im:b0c4e7a9-c7dc-4f3c-b4ff-61264e896a28,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-elmwood-pharmacy/,pharmacy,True
+-41.29267600000001,174.00694499999997,Medical Centre Pharmacy Picton,im:11663ab2-3e45-4849-8621-245d337cce03,https://www.healthpoint.co.nz/pharmacy/pharmacy/medical-centre-pharmacy-picton/,pharmacy,True
+-41.142415,174.8650364,Cannons Creek Pharmacy,im:4ee5d1d8-84d8-42aa-a252-16f9c4657965,https://www.healthpoint.co.nz/pharmacy/pharmacy/cannons-creek-pharmacy/,pharmacy,True
+-38.0092494,175.3209374,Bargain Chemist Te Awamutu,im:512c04db-8dbc-4ca3-9517-d2dc237d7288,https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-te-awamutu/,pharmacy,True
+-43.304131,172.5919847,Unichem Medical Corner Pharmacy,im:2dd52009-6b42-4575-9f7a-d4510ffb192e,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-medical-corner-pharmacy/,pharmacy,True
+-36.9180019,174.874546,Pakuranga Pharmacy,im:4e0ada22-111f-4c08-a958-e8392953fdfb,https://www.healthpoint.co.nz/pharmacy/pharmacy/pakuranga-pharmacy/,pharmacy,True
+-36.87258219999999,174.75188549999996,Dominion Road Pharmacy,im:e216652c-d551-408f-81d9-ef1caf880dcf,https://www.healthpoint.co.nz/pharmacy/pharmacy/dominion-road-pharmacy/,pharmacy,True
+-36.8904644,174.7936289,Greenlane Care Pharmacy,im:42ef9ad6-fb6a-477f-a3cb-c23370b0d94a,https://www.healthpoint.co.nz/pharmacy/pharmacy/greenlane-care-pharmacy/,pharmacy,True
+-36.7262924,174.69611229999998,Library Lane Pharmacy,im:dfa43481-935f-412c-854d-2b653f72f268,https://www.healthpoint.co.nz/pharmacy/pharmacy/library-lane-pharmacy/,pharmacy,True
+-39.4906483,176.9168696,Life Pharmacy Napier City,im:27763d65-7a0a-4827-83fb-88a5d10f3d29,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-napier-city/,pharmacy,True
+-36.7863919,174.77311209999993,Pharmacy on Hurstmere (formerly Takapuna Clinic Pharmacy),im:18481a14-5752-44c7-ad75-d297d80c2ffd,https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-on-hurstmere-formerly-takapuna-clinic/,pharmacy,True
+-41.2818124,174.77562549999993,Lambton Square Pharmacy,im:d276bb6b-6cc9-4fcf-a6fb-6289295fadff,https://www.healthpoint.co.nz/pharmacy/pharmacy/lambton-square-pharmacy/,pharmacy,True
+-36.8809061,174.6377966,Henderson Medical Centre Pharmacy,im:41de1ccb-1a92-40c3-819e-423c40233cce,https://www.healthpoint.co.nz/pharmacy/pharmacy/henderson-medical-centre-pharmacy/,pharmacy,True
+-36.90562870000001,174.6635986,Unichem Kelston Medical Pharmacy,im:663822e3-ac8b-4a11-8640-ba57c9bd3a5d,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kelston-medical-pharmacy/,pharmacy,True
+-36.8574319,174.7580051,Newton Pharmacy,im:79102cc8-fecd-4974-8937-c76bb4f0ee0f,https://www.healthpoint.co.nz/pharmacy/pharmacy/newton-pharmacy/,pharmacy,True
+-37.789244,175.31075429999999,Campus Pharmacy Waikato,im:e69127d9-ca34-4796-b4c3-5cdc7de266f3,https://www.healthpoint.co.nz/pharmacy/pharmacy/campus-pharmacy-waikato/,pharmacy,True
+-41.2194696,175.46071129999996,Unichem Martinborough Pharmacy,im:3a1e29ea-0dbc-4228-b225-a0f5c2220ecb,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-martinborough-pharmacy/,pharmacy,True
+-37.0221065,174.89861059999998,The Fono Pharmacy Manurewa,im:362d77bd-bd04-4aac-8f20-c97e0b0adf1b,https://www.healthpoint.co.nz/pharmacy/pharmacy/the-fono-pharmacy-manurewa/,pharmacy,False
+-38.1484536,176.27641960000005,Te Ngae Pharmacy,im:89ebbb82-d7aa-4407-91cc-7bb9853010e1,https://www.healthpoint.co.nz/pharmacy/pharmacy/te-ngae-pharmacy/,pharmacy,True
+-43.5350229,172.629471,Parkside Pharmacy on Oxford Terrace,im:7b347573-5e52-4ab8-9f1b-55b37af728bb,https://www.healthpoint.co.nz/pharmacy/pharmacy/parkside-pharmacy-on-oxford-terrace/,pharmacy,True
+-36.8625893,174.64841230000002,Unichem All Seasons Pharmacy,im:03ac6af7-a674-4594-b869-4306d6d805bf,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-all-seasons-pharmacy/,pharmacy,True
+-36.8592402,174.7493478,Countdown Pharmacy Ponsonby,im:f5f6f0a9-36d9-4fe8-8cc2-995336006fd1,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-ponsonby/,pharmacy,True
+-43.4931191,172.6095818,Countdown Pharmacy Northlands,im:f6eb443d-d5fe-4525-a685-a5f33ea768bb,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-northlands/,pharmacy,True
+-36.7912674,174.7654169,Countdown Pharmacy Takapuna,im:4ae9d56f-290e-4cbd-9158-8cb90e43e68a,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-takapuna/,pharmacy,True
+-36.92473469999999,174.72235460000002,Countdown Pharmacy Lynfield,im:1628200f-9f84-4164-aa64-a5ab88494b48,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-lynfield/,pharmacy,True
+-41.13342189999999,174.84146169999997,Countdown Pharmacy Porirua,im:3da51873-5bba-460d-97a9-7675fb6fdb27,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-porirua/,pharmacy,True
+-37.674788820835964,176.22412778558203,"19 Girven Road, Bayfair",im:480b734a-3967-4395-ba33-9c3a13feff80,https://www.healthpoint.co.nz/19-girven-road-bayfair/,pharmacy,True
+-37.7225037,175.2583417,Countdown Pharmacy Rototuna,im:9d45abe6-4282-4c35-b57c-bfb01696f320,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-rototuna/,pharmacy,True
+-38.14340049999999,176.2541417,Countdown Pharmacy Rotorua,im:d2073cc4-f92b-4d7a-99c6-3a0bb73ddafa,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-rotorua/,pharmacy,True
+-43.9085124,171.74182159999998,Countdown Pharmacy Ashburton South,im:bef7d099-17a2-4fce-a0b7-f1dbb6f01e10,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-ashburton-south/,pharmacy,True
+-37.8924781,175.47002240000006,Countdown Pharmacy Cambridge,im:8f970ce7-cd07-4639-99d2-1fbc9360df56,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-cambridge/,pharmacy,True
+-46.4122453,168.35823240000002,Countdown Pharmacy Invercargill,im:b0d72e7f-98c5-4766-8373-745cf1ff2393,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-invercargill/,pharmacy,True
+-43.4482854,172.6297527,Countdown Pharmacy Belfast,im:89ad9d4a-282e-4113-8e49-56f8756d0957,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-belfast/,pharmacy,True
+-37.778478,175.2989682,Countdown Pharmacy Claudelands,im:842df976-a469-4a76-bc45-35b862855088,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-claudelands/,pharmacy,True
+-43.5564314,172.70037100000002,Countdown Pharmacy Ferrymead,im:01fdd0ca-ac18-46e6-ad5a-3862345d1aa0,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-ferrymead/,pharmacy,True
+-43.5947243,172.3865479,Countdown Pharmacy Rolleston,im:93f1c3ca-5e83-4844-b556-5a985eb41190,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-rolleston/,pharmacy,True
+-39.0468955,174.1158224,"The Valley Mega Centre, New Plymouth",im:cc757416-36f8-4278-9245-3a1afa8dc560,https://www.healthpoint.co.nz/the-valley-mega-centre-new-plymouth/,pharmacy,True
+-36.9799477,174.85362110000005,Unichem Papatoetoe Pharmacy,im:9cee62ea-032c-4268-9e70-0c43398f2306,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-papatoetoe-pharmacy/,pharmacy,True
+-37.746476,175.2338339,Countdown Pharmacy Te Rapa,im:e1ad7c17-94ae-462c-a883-39d8156d0eae,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-te-rapa/,pharmacy,True
+-43.5070389,172.663096,Countdown Pharmacy The Palms,im:50649c29-0990-4bd0-81ec-5c0044360ea7,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-the-palms/,pharmacy,True
+-41.22327990000001,174.87196070000005,Countdown Pharmacy Petone,im:d1ca8c8f-f184-47a3-947c-0f6387f88be5,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-petone/,pharmacy,True
+-37.7896314,175.29238409999994,Unichem Hamilton East Pharmacy,im:b29586a9-dadf-4b3e-9d98-8293dd5dfa8f,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hamilton-east-pharmacy/,pharmacy,True
+-43.5327247,172.57301710000002,Countdown Pharmacy Church Corner,im:5b55352e-1a71-4033-8222-d3f71f95f0f1,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-church-corner/,pharmacy,True
+-36.9301123,174.91095029999997,Countdown Pharmacy Botany,im:cded3e61-d16c-4d99-8d99-e40f8556d77a,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-botany/,pharmacy,True
+-41.259722,174.943604,Countdown Pharmacy Wainuiomata,im:ebd75980-10c2-40cd-9817-1d5a212704ea,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-wainuiomata/,pharmacy,True
+-36.853614,174.733161,Countdown Pharmacy Grey Lynn,im:f94388d0-3530-4b00-969a-7ff10b69f82e,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-grey-lynn/,pharmacy,True
+-36.8893605,174.79361159999996,Countdown Pharmacy Greenlane,im:66d19f06-b817-4df8-96e8-083ffc4ea3de,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-greenlane/,pharmacy,True
+-41.3072136,174.77749859999994,Countdown Pharmacy Newtown,im:2e0f09cb-34a2-4083-9060-bffbaf21c2da,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-newtown/,pharmacy,True
+-39.0757754,174.03322409999998,Countdown Pharmacy Spotswood,im:e7fd7318-eb1c-4252-b597-f1bffa2adf63,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-spotswood/,pharmacy,True
+-39.6389577,176.8425046,Countdown Pharmacy Hastings,im:5155d174-5e69-4fa8-aa50-678ec3d659a9,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-hastings/,pharmacy,True
+-36.8452206,174.77293910000003,Countdown Pharmacy Auckland City,im:3e26e7e0-6a9d-46f8-85d4-19b1f1785c4a,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-auckland-city/,pharmacy,True
+-40.3506293,175.60588540000003,Countdown Pharmacy Rangitikei Street,im:2f3b740b-1990-4a50-a9a9-50050b0e3625,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-rangitikei-street/,pharmacy,True
+-37.71352220000001,176.1517394,Countdown Pharmacy Fraser Cove,im:052a3c72-dbf7-4c06-bb16-8f2d3980652f,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-fraser-cove/,pharmacy,True
+-36.857244,174.63114870000004,Countdown Pharmacy Lincoln Road,im:a443691f-c7ed-451a-a478-38bfe69291ec,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-lincoln-road/,pharmacy,True
+-36.9044075,174.72739849999994,Countdown Pharmacy Mt Roskill,im:ae614f6e-8e58-4828-99e7-7615943dd607,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-mt-roskill/,pharmacy,True
+-36.8986258,174.9082739,Countdown Pharmacy Highland Park ,im:eb178ae3-802e-462c-9a74-af8d68773966,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-highland-park/,pharmacy,True
+-36.8763872,174.7522252,Countdown Pharmacy Mt Eden,im:c291380b-507f-4f68-b743-f14970bcdeae,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-mt-eden/,pharmacy,True
+-36.7307367,174.7228001,Countdown Pharmacy Greville Road,im:3825b8ca-c03c-434f-a293-336d0d9a82ab,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-greville-road/,pharmacy,True
+-37.0360492,174.9078536,Countdown Pharmacy Waiata Shores,im:d0421b25-ac9f-4274-9f55-51bf59441bf0,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-waiata-shores/,pharmacy,True
+-35.7308613,174.3262351,Countdown Pharmacy Whangarei - Okara Park,im:9dfae249-3df2-42e3-aa57-b227cf147498,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-whangarei-okara-park/,pharmacy,True
+-45.87383479999999,170.5062964,Countdown Pharmacy Dunedin Central,im:b4f0484d-598b-4032-9643-ac2329430e3f,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-dunedin-central/,pharmacy,True
+-39.92528069999999,175.03851080000004,Countdown Pharmacy Victoria Avenue (Whanganui),im:6a28d95b-5d98-40ff-a988-3301dbb7402e,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-victoria-avenue-whanganui/,pharmacy,True
+-37.2110701,174.91067799999996,Countdown Pharmacy Pukekohe South ,im:324200dc-58b1-4a80-85cf-6cd0a15b4b7b,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-pukekohe-south/,pharmacy,True
+-37.1902944,174.9033244,ibuy pharmacy,im:a4a7aba0-4345-4a60-9a01-f113f62e7373,https://www.healthpoint.co.nz/pharmacy/pharmacy/ibuy-pharmacy/,pharmacy,True
+-45.0304524,168.6578617,Queenstown Pharmacy,im:a98b2db0-acc3-45f0-9400-8a0115f48202,https://www.healthpoint.co.nz/pharmacy/pharmacy/queenstown-pharmacy/,pharmacy,True
+-36.90837610000001,174.83738790000007,Unichem Neills Pharmacy,im:2c365295-6ab7-4aa7-a656-9851cb04c821,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-neills-pharmacy/,pharmacy,True
+-39.071579,174.0621954,Unichem Westown Pharmacy,im:8fed5a4f-9c2b-4364-a63f-08dfc3943f3b,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-westown-pharmacy/,pharmacy,True
+-37.9522433,176.99271850000002,Unichem Total Health Pharmacy,im:37f4e2fb-9ff6-4b51-9184-ef2f315e3bcf,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-total-health-pharmacy/,pharmacy,True
+-36.7168984,174.7466438,Woolworths Pharmacy Browns Bay,im:2f3b0cf4-1976-4071-a5f4-dd464b4effbd,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-browns-bay/,pharmacy,True
+-37.1025629,174.95136950000006,The Capsule Pharmacy,im:a9f74f1f-d19b-46df-9688-b7e0217ddafc,https://www.healthpoint.co.nz/pharmacy/pharmacy/the-capsule-pharmacy/,pharmacy,False
+-36.9709915,174.86033080000004,Chemist Warehouse Hunters Plaza,im:dbc3efba-ac47-4597-91de-b67ab536d168,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-hunters-plaza/,pharmacy,True
+-41.3185228,174.7950308,Chemist Warehouse Kilbirnie,im:dc57184a-683f-4426-97fe-4905a35679d9,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-kilbirnie/,pharmacy,True
+-41.2839605,174.7751931,Chemist Warehouse Lambton Quay,im:e9329256-04e5-498b-997f-9fb35480fe9d,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-lambton-quay/,pharmacy,True
+-36.8818969,174.6351565,Chemist Warehouse Henderson,im:30bc393c-9359-4650-a9b7-63b5feed41da,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-henderson/,pharmacy,True
+-36.78204139999999,174.7220515,Chemist Warehouse Glenfield Mall,im:9ae1b5be-a006-4817-956b-945ab0c1eee4,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-glenfield-mall/,pharmacy,False
+-37.8906653,175.4711406,Chemist Warehouse Cambridge,im:37926182-e5a7-4e34-b194-125964a21acd,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-cambridge/,pharmacy,True
+-36.8744099,174.85333179999998,Chemist Warehouse Glen Innes,im:5cb028d6-0ca9-4e01-9b65-4bae7c9a0fb6,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-glen-innes/,pharmacy,True
+-37.6884518,176.1655767,Chemist Warehouse Cameron Road,im:8250ce93-0225-4fe4-88cb-8cdafc5f7ae1,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-cameron-road/,pharmacy,True
+-36.81095980000001,174.7247724,Chemist Warehouse Birkenhead,im:4b57a330-c779-4d0b-8bf0-61ca3c6a9380,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-birkenhead/,pharmacy,True
+-37.785826,175.28026620000003,Chemist Warehouse Centre Place,im:6f1f14e5-20a5-4f27-822a-f2b4f22a5cca,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-centre-place/,pharmacy,True
+-43.5385157,172.5895104,Chemist Warehouse Blenheim Square,im:c2b8bd25-b778-4201-8764-c373aee81d54,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-blenheim-square/,pharmacy,False
+-36.9281598,174.91454669999996,Chemist Warehouse Botany,im:3e92c9ce-6dea-4625-bd32-706ca2dbb00a,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-botany/,pharmacy,True
+-36.71647100000001,174.7478944,Chemist Warehouse Browns Bay,im:3dddc451-ec3e-4b59-981b-d69578792ae0,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-browns-bay/,pharmacy,True
+-36.9648928,174.9024469,Chemist Warehouse Flat Bush,im:cbc1f802-fe7f-4a0f-992c-a2906b4fe07f,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-flat-bush/,pharmacy,True
+-43.542853699999995,172.52699691978287,Countdown Pharmacy Hornby,im:2c92fd29-7fd6-4f47-a72b-64640a3d6ba7,https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-hornby/,pharmacy,True
+-39.6417861,176.8493814,Chemist Warehouse Hastings,im:5d02690f-16fc-4945-9fed-d8abeb67bbad,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-hastings/,pharmacy,True
+-36.730771,174.70585700000004,Chemist Warehouse Albany,im:bc4568b4-c0da-4281-825f-256f2c65e29c,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-albany/,pharmacy,True
+-43.9056965,171.7428588,Chemist Warehouse Ashburton,im:3c534b7c-2270-47ad-b420-88bbb2dc39f8,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-ashburton-1/,pharmacy,True
+-36.9969282,174.78883199999996,Chemist Warehouse Auckland Airport Shopping Centre,im:8a92558a-289d-45e7-935f-0130c62a431e,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-auckland-airport-shopping/,pharmacy,True
+-36.91082370000001,174.8715457,Chemist Warehouse Pakuranga,im:6ebfd486-64a3-4925-9663-37e887da2781,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-pakuranga/,pharmacy,True
+-36.9224856,174.7861774,Chemist Warehouse Onehunga,im:0f812ba1-e9fc-4601-be76-a48a4aea319b,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-onehunga/,pharmacy,True
+-35.7317718,174.3267202,Chemist Warehouse Okara Park,im:303ade4d-a317-4e2f-bc21-973c5184cb13,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-okara-park/,pharmacy,True
+-43.5950232,172.3861574,Chemist Warehouse Rolleston,im:f47686e4-880b-4923-8c26-217d16a25d4f,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-rolleston/,pharmacy,True
+-43.4937129,172.6066281,Chemist Warehouse Papanui,im:071d118d-3f5d-4826-83ab-04cba3ce9cfe,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-papanui/,pharmacy,True
+-36.9894158,174.8794423,Chemist Warehouse Ronwood Centre,im:ad0a9653-78ae-468c-828d-512f5ee6706c,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-ronwood-centre/,pharmacy,True
+-43.53836699999999,172.63529500000004,Chemist Warehouse South City Shopping Centre,im:7005c19b-44bd-42db-8434-f46901d2db96,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-south-city-shopping-centre/,pharmacy,True
+-41.5076895,173.9233506,Chemist Warehouse Springlands,im:11e8c50b-73b3-40b1-b034-299c4c7737af,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-springlands/,pharmacy,True
+-36.8844385,174.73187170000006,Chemist Warehouse St Lukes,im:e23f106b-d3c8-42df-98de-e9fd50afd407,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-st-lukes/,pharmacy,True
+-36.89232380000001,174.7748737,The Medication Management Hub,im:a06c1925-f782-4da2-b51f-48b5733811b6,https://www.healthpoint.co.nz/pharmacy/pharmacy/the-medication-management-hub/,pharmacy,False
+-38.686279714607956,176.07490897178653,Chemist Warehouse Taupō,im:f328e553-d09c-463b-bb30-cf2bc69217f3,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-taupo/,pharmacy,True
+-37.74946713268229,175.23473381996155,Chemist Warehouse The Base,im:66e005db-2729-4bce-bacf-e088ab04fdc2,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-the-base/,pharmacy,True
+-43.5065597,172.66396150000003,Chemist Warehouse The Palms,im:87e97fe8-d32e-4a85-8aa8-09ab6870b841,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-the-palms/,pharmacy,False
+-36.871756,174.77673779999998,Chemist Warehouse Westfield Newmarket,im:968c2f5a-a4ca-44f1-884f-a47b9dc2fe86,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-westfield-newmarket/,pharmacy,True
+-36.81704690000001,174.6099514,Chemist Warehouse Westgate,im:d0e42ed8-bce7-4b46-a89e-f4bdc6788b23,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-westgate/,pharmacy,True
+-39.9348178,175.0552524,Chemist Warehouse Whanganui,im:63799dfa-9da5-46d5-8967-d53870e90160,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-whanganui/,pharmacy,True
+-44.3717809,171.2423147,Chemist Warehouse Timaru Showgrounds,im:6805a0e1-8515-4743-936a-bc4e85e84d46,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-timaru-showgrounds/,pharmacy,True
+-36.77902960000001,174.742146,Chemist Warehouse Wairau Valley,im:f501db48-3cd1-4048-a09a-670cc5387091,https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-wairau-valley/,pharmacy,True
 -41.2232664,174.82265170000005,Newlands Pharmacy,im:992f3308-f3c7-495d-a499-343724f4fe1f,https://www.healthpoint.co.nz/pharmacy/pharmacy/newlands-pharmacy/,pharmacy,True
--43.4482854,172.6297527,Woolworths Pharmacy Belfast,im:89ad9d4a-282e-4113-8e49-56f8756d0957,https://www.healthpoint.co.nz/pharmacy/pharmacy/woolworths-pharmacy-belfast/,pharmacy,True
+-37.6898366,176.1350264,Unichem Brookfield Pharmacy,im:ec531734-82f0-4ed2-baa3-17c5baa0f010,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-brookfield-pharmacy/,pharmacy,True
+-40.6215298,175.2869319,Steeds Pharmacy,im:a735697a-a94d-419e-9df4-b166492984f3,https://www.healthpoint.co.nz/pharmacy/pharmacy/steeds-pharmacy/,pharmacy,True
+-43.762551,172.29818,Leeston Pharmacy,im:fd740d2f-d852-4f7a-8eec-4b485eb258ab,https://www.healthpoint.co.nz/pharmacy/pharmacy/leeston-pharmacy/,pharmacy,True
+-44.2450057,171.27757840000004,Temuka Pharmacy,im:a38d722b-f00c-4153-91c0-427c2f74967b,https://www.healthpoint.co.nz/pharmacy/pharmacy/temuka-pharmacy/,pharmacy,False
