@@ -1,25 +1,135 @@
 name,openHoursPerWeek,ECP,dhb-region,latitude,longitude,depot
+Unichem Flagstaff Pharmacy,49.0,True,Waikato,-37.738107,175.25274379999996,Community
+Unichem Invercargill Pharmacy,61.0,True,Southern,-46.4120394,168.3482993,Community
+Ngatea Pharmacy Ltd,40.0,True,Waikato,-37.2759155,175.496446,Community
+Chemist Warehouse Taupō,91.0,True,Lakes,-38.686279714607956,176.07490897178653,Community
+Crofton Downs Pharmacy,54.0,True,"Capital, Coast and Hutt Valley",-41.2570354,174.76578900000004,Community
+Downtown Pharmacy Mt Maunganui,52.0,False,Bay of Plenty,-37.638105,176.18335460000003,Community
+Chemist Warehouse Albany,91.0,True,Waitematā,-36.730771,174.70585700000004,Community
+Hill Road Pharmacy,40.0,True,Counties Manukau,-37.02049969999999,174.8971001,Community
+Dunedin City Pharmacy,42.5,True,Southern,-45.8746638,170.50330180000003,Community
+Home Pharmacy Richmond Road,51.0,True,Auckland,-36.8551457,174.7319236,Community
+Blockhouse Bay Pharmacy,50.5,True,Auckland,-36.922244,174.7015963,Community
+Queen St Medical Centre Pharmacy,45.0,True,Counties Manukau,-36.9462635,174.84423449999997,Community
+Unichem Crisps Pharmacy,48.0,True,Canterbury,-43.49957000000001,172.58612549999998,Community
+Unichem Clevedon Road Pharmacy,42.5,True,Counties Manukau,-37.0584052,174.95326239999997,Community
+Roberts Ngaruawahia Pharmacy,40.0,True,Waikato,-37.6673243,175.150484,Community
+Matakana Pharmacy,62.0,True,Waitematā,-36.3520952,174.7175744,Community
+Far North Pharmacy,42.5,True,Northland,-35.1148291,173.2648269,Community
+Mosgiel Health Centre Pharmacy,45.0,True,Southern,-45.8828845,170.34663690000002,Community
+Fairy Springs Pharmacy,45.0,True,Lakes,-38.1155362,176.22585559999993,Community
+Unichem Pharmacy 81,42.5,True,Lakes,-38.6886866,176.0735597,Community
+Tiaho Pharmacy,40.0,True,Lakes,-38.1296298,176.3024154,Community
+The Crossing Pharmacy,59.5,True,Bay of Plenty,-37.7371298,176.1062486,Community
+Don Street Pharmacy ,45.0,True,Southern,-46.410961,168.35447009999996,Community
+Castle Chemists,45.5,True,"Capital, Coast and Hutt Valley",-41.3121916,174.7795881,Community
+Woolworths Pharmacy Ponsonby,82.0,True,Auckland,-36.8592402,174.7493478,Community
+Mataura Prescription and Gifts ,35.0,False,Southern,-46.1945005,168.8667301,Community
+Harts Pharmacy,45.0,True,Waitematā,-36.3976205,174.66426769999998,Community
+Stay Well Pharmacy,56.0,True,Canterbury,-43.5459617,172.5244596,Community
+Maniototo Pharmacy,40.0,True,Southern,-45.1292435,170.09844599999997,Community
+Shields Pharmacy,48.0,True,Canterbury,-43.4912198,172.61248219999993,Community
+The Pharmacy Manurewa,42.5,False,Counties Manukau,-37.0221065,174.89861059999998,Community
+Ilam Pharmacy,49.0,True,Canterbury,-43.5162545,172.57163409999998,Community
+Papanui Pharmacy,56.0,True,Canterbury,-43.5002639,172.6112826,Community
+Life Pharmacy Sylvia Park,74.0,True,Auckland,-36.9135005,174.8407995,Community
+New North Pharmacy,50.5,True,Auckland,-36.884815,174.71504319999997,Community
+Seddon Pharmacy,54.0,True,Counties Manukau,-37.1994762,174.90587240000002,Community
+Prebbleton Pharmacy,47.5,True,Canterbury,-43.5800923,172.5136887,Community
+Royal Road Pharmacy,46.0,True,Waitematā,-36.83020339999999,174.609995,Community
+Unichem Marshalls Pharmacy Te Awamutu,54.0,True,Waikato,-38.01039170000001,175.32181519999995,Community
+Unichem Marshalls Medical Pharmacy,40.0,True,Waikato,-38.0112891,175.32248479999998,Community
+Woodville Medicine Depot,40.0,False,MidCentral,-40.3373811,175.86719790000006,Depot
+Botanical Road Pharmacy,43.75,True,MidCentral,-40.3568109,175.5895756,Community
+Vautier Pharmacy Summerhill Village,47.5,True,MidCentral,-40.3871711,175.6391573,Community
+Vautier Pharmacy Pioneer Village,42.5,True,MidCentral,-40.3620835,175.598379,Community
+Searles Allenton Pharmacy (Ash) Ltd,45.0,True,Canterbury,-43.8872655,171.7427728,Community
+Three Rivers Pharmacy - Ashburton,42.5,True,Canterbury,-43.8887696,171.73855479999997,Community
+Windsor Medical Pharmacy,50.0,True,Waitematā,-36.73261899999999,174.714609,Community
+Westshore Pharmacy,43.0,True,Hawke's Bay,-39.4775552,176.88156449999997,Community
+Andrew Spence Pharmacy,52.0,True,Hawke's Bay,-39.5083352,176.8871347,Community
+Greenmeadows Pharmacy,46.5,True,Hawke's Bay,-39.5265849,176.861155,Community
+Marewa Pharmacy,42.5,True,Hawke's Bay,-39.5000446,176.9034573,Community
+Raureka Pharmacy,42.5,False,Hawke's Bay,-39.6390335,176.8256407,Community
+Barrington Medical Centre Pharmacy,50.0,True,Canterbury,-43.5571715,172.6203681,Community
+Unichem Kiripaka Buchanans Pharmacy,45.0,True,Northland,-35.6873131,174.32664139999997,Community
+Unichem Otahuhu Health Centre Pharmacy,46.5,True,Auckland,-36.94697459999999,174.84563690000004,Community
+Woolworths Pharmacy Lincoln Road,77.0,True,Waitematā,-36.857244,174.63114870000004,Community
+Smartcare Pharmacy,45.75,True,Auckland,-36.9004,174.85550050000006,Community
+Highland Pharmacy Depot,40.0,False,Southern,-45.91281300000001,169.68738929999995,Depot
+Highland Pharmacy Central,52.0,True,Southern,-45.5408876,169.31475269999999,Community
+Woolworths Pharmacy Highland Park ,59.0,True,Counties Manukau,-36.8986258,174.9082739,Community
+Gladstone Pharmacy (Parnell),52.0,True,Auckland,-36.8525864,174.78611039999998,Community
+Kiwi Pharmacy Highsted,42.5,True,Canterbury,-43.4733475,172.5950719,Community
+Mt Eden Pharmacy,61.0,True,Auckland,-36.881885,174.76196400000003,Community
+Pharmacy 455,45.0,True,Auckland,-36.8832403,174.76169240000002,Community
+Pharmacy Three Rivers - Gisborne,58.0,True,Tairāwhiti,-38.6699891,178.025246,Community
+Unichem Awapuni Pharmacy,42.5,True,MidCentral,-40.3735806,175.5923104,Community
+Life Pharmacy Queensgate,64.5,True,"Capital, Coast and Hutt Valley",-41.2099569,174.9064448,Community
+Marchwiel Pharmacy,42.5,True,South Canterbury,-44.3788802,171.2294121,Community
+Life Pharmacy Nelson City,55.5,True,Nelson Marlborough,-41.27300319999999,173.28421990000004,Community
+The Pharmacy @ The Hastings Health Centre,84.0,True,Hawke's Bay,-39.6374993,176.8443675,Community
+Oakura Pharmacy,48.0,True,Taranaki,-39.11554870000001,173.9569765,Community
+Wises Pharmacy,54.5,True,Canterbury,-43.90251,171.75166869999998,Community
+Taita Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.1795419,174.96045290000006,Community
+Cannons Creek Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.142415,174.8650364,Community
+Unichem Orrs Pharmacy Dargaville,52.0,True,Northland,-35.9421732,173.8695282,Community
+Antidote North,42.5,True,Southern,-45.8633913,170.5099116,Community
+Mount Pharmacy,52.0,False,Bay of Plenty,-37.6374997,176.18290179999997,Community
+Wellworks Pharmacy Boulcott,61.0,True,"Capital, Coast and Hutt Valley",-41.2049105,174.92669039999998,Community
+Central Otago Pharmacy Cromwell,45.5,True,Southern,-45.0496762,169.19456679999996,Community
+Pharmacy Over East,44.5,True,Whanganui,-39.9171495,175.05959689999997,Community
+Manukau Medical Pharmacy,60.0,True,Counties Manukau,-36.9932454,174.88261620000003,Community
+Bargain Chemist Hornby,84.0,True,Canterbury,-43.5426849,172.5302507,Community
+Bargain Chemist Eastgate,70.0,True,Canterbury,-43.53242170908535,172.67531937196225,Community
+Bargain Chemist New Plymouth Central,70.0,True,Taranaki,-39.0562285,174.0825008,Community
+Bargain Chemist Mt Roskill,84.0,False,Auckland,-36.9148499,174.7552095,Community
+Bargain Chemist Northwood,84.0,True,Canterbury,-43.4603122,172.6237238,Community
+Bargain Chemist Papanui,84.0,True,Canterbury,-43.4910028,172.602291,Community
+Bargain Chemist Pinehill,84.0,True,Waitematā,-36.731784899999994,174.72065192192835,Community
+Bargain Chemist Porirua,78.0,True,"Capital, Coast and Hutt Valley",-41.1306261,174.8390671,Community
+Bargain Chemist Rangiora,62.0,True,Canterbury,-43.3056348,172.5946384,Community
+Bargain Chemist Pukekohe,77.0,True,Counties Manukau,-37.2113873,174.9109722,Community
+Bargain Chemist Shirley,84.0,True,Canterbury,-43.4938866,172.66012890000002,Community
+Bargain Chemist Te Awamutu,68.0,True,Waikato,-38.0092494,175.3209374,Community
+Bargain Chemist Tower Junction,80.0,True,Canterbury,-43.5401978,172.6054558,Community
+Bargain Chemist Wellington,78.0,True,"Capital, Coast and Hutt Valley",-41.29082319999999,174.77652369999998,Community
+Bargain Chemist Whanganui,64.0,False,Whanganui,-39.9361555,175.0535241025208,Community
+Te Ngae Pharmacy,45.0,True,Lakes,-38.1484536,176.27641960000005,Community
+Devonport Health Centre Pharmacy,48.0,True,Waitematā,-36.8300638,174.7981033,Community
+North Otago Pharmacy,57.0,True,Southern,-45.0960529,170.97216950000006,Community
+Collingwood Street Pharmacy,40.0,False,Nelson Marlborough,-41.2749672,173.2865994,Community
+Caversham Pharmacy,42.5,True,Southern,-45.8963282,170.48063049999996,Community
+Lifeline Pharmacy,57.0,True,Auckland,-36.9419982,174.8417963,Community
+John's Stoke Pharmacy,40.0,True,Nelson Marlborough,-41.3120108,173.2337693,Community
+Hillcrest Central Pharmacy,50.0,True,Waitematā,-36.799096,174.73047369999995,Community
+ProHealth Papatoetoe Pharmacy,37.5,True,Counties Manukau,-36.9705075,174.8620062,Community
+Picton Healthcare Pharmacy,55.0,True,Nelson Marlborough,-41.2890175,174.00714389999996,Community
+Balmac Pharmacy,42.5,True,Southern,-45.8573735,170.47819819999995,Community
 Unichem Waikanae Health Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-40.87607749999999,175.06364029999997,Community
-Woolworths Pharmacy Greville Road,59.0,True,Waitematā,-36.7307367,174.7228001,Community
-Woolworths Pharmacy Invercargill,69.0,True,Southern,-46.4127714,168.3577797,Community
-Woolworths Pharmacy Te Rapa,59.0,True,Waikato,-37.746476,175.2338339,Community
-Woolworths Pharmacy Whangarei - Okara Park,51.0,True,Northland,-35.7308613,174.3262351,Community
-Unichem Huntly Pharmacy (formerly Pharmacy on Main Ltd),41.75,True,Waikato,-37.5578747,175.15855269999997,Community
-Unichem Parklands Medical Pharmacy,47.5,True,Canterbury,-43.4792332,172.69102199999998,Community
-Unichem Moorhouse Pharmacy,51.0,True,Canterbury,-43.5409237,172.6397687,Community
-Unichem Otumoetai Pharmacy,42.5,True,Bay of Plenty,-37.6666236,176.1394904,Community
-Gees Pharmacy,52.0,True,Hawke's Bay,-39.53599699999999,176.8480463,Community
-Bargain Chemist Mt Wellington,84.0,True,Auckland,-36.90837610000001,174.83738790000007,Community
-Unichem Harbour View Pharmacy,44.5,True,Waitematā,-36.85454420000001,174.65095729999996,Community
-Unichem Peninsula Pharmacy,56.5,True,Waitematā,-36.8421999,174.6514783,Community
-Maraenui Pharmacy,42.5,False,Hawke's Bay,-39.5153329,176.90559870000004,Community
-Highbrook Pharmacy,45.0,True,Counties Manukau,-36.9369806,174.8802871,Community
-SaveMart Pharmacy,52.5,True,Auckland,-36.9025975,174.7423675,Community
-Owhata Medical Centre Pharmacy,45.0,True,Lakes,-38.1308092,176.30012540000007,Community
-Roses Unichem Pharmacy,47.5,True,MidCentral,-40.3492282,175.6235943,Community
-Life Pharmacy Prices,61.5,True,Nelson Marlborough,-41.27456129999999,173.28703810000002,Community
-Unichem Marsden Village Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.282739,174.74540690000003,Community
-Alexander Pharmacy,50.0,True,"Capital, Coast and Hutt Valley",-41.2915274,174.77357670000004,Community
+Addington Pharmacy,47.5,True,Canterbury,-43.5424395,172.61404330000005,Community
+Kelburn Pharmacy,55.0,True,"Capital, Coast and Hutt Valley",-41.285637,174.76765899999998,Community
+St Martins Pharmacy,48.5,True,Canterbury,-43.5584292,172.65425389999996,Community
+Milton Pharmacy Ltd,43.0,True,Southern,-46.12129119999999,169.95900270000004,Community
+Mangere Health Centre Pharmacy,47.5,True,Counties Manukau,-36.9715412,174.7986923,Community
+Mangere Pharmacy,51.5,True,Counties Manukau,-36.96960809999999,174.79887789999998,Community
+Unichem Remarkables Pharmacy,65.5,True,Southern,-45.02657869999999,168.74221349999993,Community
+Unichem Jack's Point Pharmacy,42.5,True,Southern,-45.07549051261395,168.74519348144534,Community
+Unichem Rolleston Village Pharmacy,49.0,True,Canterbury,-43.5967006,172.3824743,Community
+Kaeo Chemist Ltd,25.5,True,Northland,-35.0998666,173.7789259,Community
+Hinemoa Pharmacy,46.5,True,Lakes,-38.1378563,176.24799380000002,Community
+Unichem Upper Hutt Pharmacy,57.0,False,"Capital, Coast and Hutt Valley",-41.1254813,175.058222,Community
+Vogel Street Pharmacy,61.5,True,MidCentral,-40.3315054,175.6313169,Community
+Russell Health - Pharmacy Depot,38.0,False,Northland,-35.2624695,174.122585,Depot
+Woolston Pharmacy,42.5,True,Canterbury,-43.5489924,172.68288529999995,Community
+Unichem Grey Street Pharmacy,46.5,True,Waikato,-37.7929653,175.2934705,Community
+Ranolf Pharmacy,46.25,True,Lakes,-38.14125629999999,176.2465092,Community
+Unichem Redwoodtown Pharmacy,49.0,True,Nelson Marlborough,-41.5300482,173.95589280000002,Community
+Unichem Eden Quarter Pharmacy,59.5,True,Auckland,-36.8778145,174.75062309999998,Community
+Bruce Amies Pharmacy,45.5,True,Auckland,-36.887636,174.68439009999997,Community
+Pahurehure Pharmacy,37.0,True,Counties Manukau,-37.067553,174.93090900000004,Community
+Pyes Pa Pharmacy,45.0,True,Bay of Plenty,-37.7424922,176.12280859999998,Community
+Connolly Street Pharmacy,94.5,True,"Capital, Coast and Hutt Valley",-41.20396390000001,174.91205749999995,Community
 Robertsons Strandon Pharmacy,42.5,True,Taranaki,-39.051058,174.09764369999994,Community
 Unichem Bramwells Pharmacy,55.0,True,Tairāwhiti,-38.6643364,178.02274310000007,Community
 My Pharmacy Te Puke,42.5,True,Bay of Plenty,-37.7844015,176.327587,Community
@@ -66,8 +176,6 @@ Urban Pharmacy Papakura,42.5,True,Counties Manukau,-37.0636675,174.9427854000000
 Lincoln Mall Pharmacy,53.5,True,Waitematā,-36.8566378,174.62956410000004,Community
 Raglan Pharmacy,44.0,True,Waikato,-37.7996553,174.86859359999994,Community
 Ngaruawahia Pharmacy,40.0,True,Waikato,-37.6661066,175.1488789,Community
-Sanders Pharmacy,64.5,True,Waikato,-38.0067611,175.3388251,Community
-Bay Pharmacy Motueka,52.0,True,Nelson Marlborough,-41.1103682,173.01140869999995,Community
 Woolworths Pharmacy Church Corner,77.0,True,Canterbury,-43.5327247,172.57301710000002,Community
 The Capsule Pharmacy,43.0,False,Counties Manukau,-37.1025629,174.95136950000006,Community
 Unichem Mangere East Pharmacy,62.0,True,Counties Manukau,-36.9665258,174.82512250000002,Community
@@ -77,791 +185,37 @@ Unichem Quins Gore Pharmacy,48.0,True,Southern,-46.10132460000001,168.9438404,Co
 Edgecumbe Pharmacy,42.0,True,Bay of Plenty,-37.9747848,176.82757349999997,Community
 Unichem Mt Smart Pharmacy,41.25,True,Auckland,-36.9148413,174.80111750000003,Community
 Central Feilding Pharmacy,48.0,True,MidCentral,-40.2270525,175.56358,Community
-Pharmacy Over East,44.5,True,Whanganui,-39.9171495,175.05959689999997,Community
-Manukau Medical Pharmacy,60.0,True,Counties Manukau,-36.9932454,174.88261620000003,Community
-Bargain Chemist Hornby,84.0,True,Canterbury,-43.5426849,172.5302507,Community
-Bargain Chemist Eastgate,70.0,True,Canterbury,-43.53242170908535,172.67531937196225,Community
-Bargain Chemist New Plymouth Central,70.0,True,Taranaki,-39.0562285,174.0825008,Community
-Bargain Chemist Mt Roskill,84.0,False,Auckland,-36.9148499,174.7552095,Community
-Bargain Chemist Northwood,84.0,True,Canterbury,-43.4603122,172.6237238,Community
-Bargain Chemist Papanui,84.0,True,Canterbury,-43.4910028,172.602291,Community
-Bargain Chemist Pinehill,84.0,True,Waitematā,-36.731784899999994,174.72065192192835,Community
-Bargain Chemist Porirua,78.0,True,"Capital, Coast and Hutt Valley",-41.1306261,174.8390671,Community
-Bargain Chemist Rangiora,62.0,True,Canterbury,-43.3056348,172.5946384,Community
-Bargain Chemist Pukekohe,77.0,True,Counties Manukau,-37.2113873,174.9109722,Community
-Bargain Chemist Shirley,84.0,True,Canterbury,-43.4938866,172.66012890000002,Community
-Bargain Chemist Te Awamutu,68.0,True,Waikato,-38.0092494,175.3209374,Community
-Bargain Chemist Tower Junction,80.0,True,Canterbury,-43.5401978,172.6054558,Community
-Bargain Chemist Wellington,78.0,True,"Capital, Coast and Hutt Valley",-41.29082319999999,174.77652369999998,Community
-Bargain Chemist Whanganui,64.0,False,Whanganui,-39.9361555,175.0535241025208,Community
-Unichem Bealey Avenue Pharmacy,91.0,True,Canterbury,-43.5211494,172.64190259999998,Community
-Tairua-Pauanui Pharmacy,49.0,True,Waikato,-37.00206420000001,175.84881540000003,Community
-Gonville Health Pharmacy,42.5,True,Whanganui,-39.9423778,175.02298259999998,Community
-Eastfield Pharmacy (formerly Tancred Street Dispensary),43.75,True,Canterbury,-43.9062192,171.7481344,Community
-Hospital Pharmacy | Counties Manukau,0.0,False,Counties Manukau,-36.96290183127625,174.8401004076004,Community
-Unichem Tūrangi Pharmacy,50.5,True,Lakes,-38.9910452,175.80918039252592,Community
-Unichem Miramar Pharmacy,54.5,True,"Capital, Coast and Hutt Valley",-41.31600770000001,174.81504240000004,Community
-Whangamata Pharmacy,54.0,True,Waikato,-37.2068112,175.87129230000005,Community
-Chemist Warehouse The Base,98.0,True,Waikato,-37.74946713268229,175.23473381996155,Community
-Geraldine Pharmacy,54.5,True,South Canterbury,-44.09114359999999,171.24367200000006,Community
-Woolworths Pharmacy Belfast,71.0,True,Canterbury,-43.4482854,172.6297527,Community
-Ranolf Pharmacy,46.25,True,Lakes,-38.14125629999999,176.2465092,Community
-Unichem Redwoodtown Pharmacy,49.0,True,Nelson Marlborough,-41.5300482,173.95589280000002,Community
-Unichem Eden Quarter Pharmacy,59.5,True,Auckland,-36.8778145,174.75062309999998,Community
-After Hours Pharmacy,84.0,True,"Capital, Coast and Hutt Valley",-41.302008,174.7797243,Community
-Unichem Cuba Mall Pharmacy,65.0,True,"Capital, Coast and Hutt Valley",-41.2928652,174.77571880000005,Community
-Unichem Apollo Drive Pharmacy,40.0,True,Waitematā,-36.735662,174.72740699999997,Community
-Five Mile Pharmacy Queenstown,63.0,True,Southern,-45.0120767,168.7430109,Community
-Unichem Buchanans Pharmacy,49.0,True,Northland,-35.68292889999999,174.32198019999998,Community
-Unichem Lincoln Road Pharmacy,49.5,True,Canterbury,-43.5528734,172.5965675,Community
-Unichem Knox Pharmacy,58.0,True,Southern,-45.8678529,170.5073532,Community
-James Village Pharmacy (previously Girven Road Pharmacy),46.0,True,Bay of Plenty,-37.6871252,176.2447017,Community
-Auckland Central Pharmacy ,60.0,True,Auckland,-36.8487579,174.748918,Community
-Unichem Neills Pharmacy,55.75,True,Auckland,-36.90837610000001,174.83738790000007,Community
-St Lukes Medical Pharmacy,62.0,True,Auckland,-36.88177290000001,174.7315122,Community
-Unichem Munroe St. Pharmacy,66.0,True,Hawke's Bay,-39.4941981,176.9149348,Community
-Waitakere Hospital Outpatients Pharmacy,45.0,True,Waitematā,-36.869304944873,174.6293592453003,Community
-Unichem Maidstone Pharmacy,58.0,True,"Capital, Coast and Hutt Valley",-41.124592,175.0680507,Community
-Unichem Medical Corner Pharmacy,60.0,True,Canterbury,-43.304131,172.5919847,Community
-Bentley Ave Pharmacy,59.0,True,Waitematā,-36.7810017,174.7219662,Community
-Life Pharmacy Manukau,67.5,True,Counties Manukau,-36.990874450361204,174.88170644254473,Community
-University Pharmacy Canterbury,45.0,True,Canterbury,-43.5237542,172.58274200000005,Community
-Unichem Molesworth Pharmacy,47.5,True,"Capital, Coast and Hutt Valley",-41.2758256,174.77822179999998,Community
-Unichem Kope Pharmacy,44.5,True,Bay of Plenty,-37.9617659,176.98199350000004,Community
-Pharmacy at Quay Park,56.0,True,Auckland,-36.8476598,174.77435220000007,Community
-Millhouse Pharmacy,54.0,True,Counties Manukau,-36.9190524,174.91793159999997,Community
-Marshlands Family Pharmacy,45.0,True,Canterbury,-43.4748818,172.65925219999997,Community
-Life Pharmacy Eastridge,64.0,True,Auckland,-36.8600658,174.8303719,Community
-Unichem Highfield Mall Pharmacy,51.0,True,South Canterbury,-44.3901301,171.22647959999995,Community
-Forrest Hill Family Pharmacy,46.5,True,Waitematā,-36.76048859999999,174.74672150000004,Community
-Hobson Street Pharmacy,43.0,True,Auckland,-36.8507998,174.7606103,Community
-Unichem Central Pharmacy Rotorua,59.5,True,Lakes,-38.1355099,176.24836789999995,Community
-Antidote Mornington,46.0,True,Southern,-45.8822846,170.4826778,Community
-Alexandra Pharmacy,46.0,True,Southern,-45.252134,169.38873549999994,Community
-Bargain Chemist Westgate,84.0,True,Waitematā,-36.8128136,174.6010766,Community
-Freemans Bay Pharmacy,46.0,True,Auckland,-36.8520937,174.75105310000004,Community
-Henderson Valley Pharmacy,45.0,True,Waitematā,-36.8974788,174.6137612,Community
-Glen Eden Pharmacy,49.0,True,Waitematā,-36.91029229999999,174.65176109999993,Community
-Unichem Ponsonby Pharmacy,63.5,True,Auckland,-36.84825850000001,174.74431019999997,Community
-Chemist Warehouse Sylvia Park,84.0,True,Auckland,-36.9135005,174.8407995,Community
-Airport Oaks Pharmacy,62.5,True,Counties Manukau,-36.9714065,174.785845,Community
-Life Pharmacy Masterton,53.0,True,Wairarapa,-40.9499064,175.66120780000006,Community
-Unichem Botany Junction Pharmacy,59.0,True,Counties Manukau,-36.9650376,174.90342280000004,Community
-Pharmacy On Shakespeare,47.5,True,Waitematā,-36.7814666,174.75346460000003,Community
-New Lynn West Pharmacy,49.0,True,Waitematā,-36.9144178,174.67128630000002,Community
-Woolworths Pharmacy Hobsonville,77.0,True,Waitematā,-36.7979235,174.6485436,Community
-Unichem Roskill Village Pharmacy,50.5,True,Auckland,-36.92089550000001,174.7362352,Community
-Unichem One Tree Hill Pharmacy,35.0,True,Auckland,-36.8995031,174.80347299999994,Community
-Unichem Martinborough Pharmacy,51.5,True,Wairarapa,-41.2194696,175.46071129999996,Community
-Unichem Weiti Pharmacy,55.0,True,Waitematā,-36.6204213,174.6715545,Community
-Johnsonville Medical Centre Pharmacy,56.5,True,"Capital, Coast and Hutt Valley",-41.2218158,174.8062552,Community
-Parkside Pharmacy on Oxford Terrace,42.5,True,Canterbury,-43.5350229,172.629471,Community
-Unichem Glenview Pharmacy,48.0,False,Waikato,-37.8173419,175.28261199999997,Community
-Unichem Johns Photo Pharmacy,62.0,True,Bay of Plenty,-37.6891696,176.16524900000002,Community
-West Harbour Pharmacy,45.0,False,Waitematā,-36.81850929999999,174.62911680000002,Community
-Bargain Chemist Manukau,84.0,True,Counties Manukau,-36.990080788675776,174.87258048347803,Community
-Life Pharmacy - Wilkinsons,94.5,True,Southern,-45.0326905,168.6604061,Community
-Ngongotaha Pharmacy,45.0,True,Lakes,-38.0808233,176.213585,Community
-Royal Oak Pharmacy,94.5,True,Auckland,-36.9112206,174.77569489999996,Community
-Medplus Pharmacy,53.0,True,Waitematā,-36.7976547,174.77908360000004,Community
-Paihia Pharmacy,54.5,True,Northland,-35.282111,174.09110050000004,Community
-Hunters Corner Medical Centre Pharmacy,45.5,True,Counties Manukau,-36.9696948,174.86272239999994,Community
-Owles Unichem Pharmacy - Naenae,51.5,True,"Capital, Coast and Hutt Valley",-41.1986618,174.94873229999996,Community
-Wanacare Pharmacy,50.5,True,Southern,-44.7092015,169.1361175,Community
-Unichem Pakuranga Pharmacy,52.5,True,Counties Manukau,-36.91531839999999,174.8728314,Community
-Botany Superclinic Pharmacy Kiwi Chemist,98.0,True,Counties Manukau,-36.9223969,174.91370040000004,Community
-Christchurch South Pharmacy (Hardings Pharmacy),46.25,True,Canterbury,-43.5560969,172.63659719999998,Community
-Panmure Pharmacy,45.0,True,Auckland,-36.9009279,174.85735060000002,Community
-Unichem Kauri Healthcare Pharmacy,45.0,True,MidCentral,-40.33812950000001,175.6318437,Community
-Life Pharmacy Birkenhead,62.0,True,Waitematā,-36.81225850000001,174.72502889999998,Community
-Chemist Warehouse Bayfair,91.0,True,Bay of Plenty,-37.674788820835964,176.22412778558203,Community
-Unichem Manly Pharmacy,52.5,True,Waitematā,-36.63142500000001,174.76342499999998,Community
-Unichem Tuakau Pharmacy,48.5,True,Waikato,-37.2601873,174.94639670000004,Community
-Unichem Torbay Pharmacy,54.0,True,Waitematā,-36.6954981,174.7515494,Community
-Tui Pharmacy Te Rapa,84.0,True,Waikato,-37.7576428,175.24689890000002,Community
-Unichem Chemist Shop,60.0,True,MidCentral,-40.35956530000001,175.61116470000002,Community
-Woolworths Pharmacy Rototuna,59.0,True,Waikato,-37.7225037,175.2583417,Community
-Unichem Russell Street Pharmacy,67.0,True,Hawke's Bay,-39.64262540000001,176.8428173,Community
-Richmond Road Pharmacy,54.0,True,Auckland,-36.8588823,174.73139089999995,Community
-Woolworths Pharmacy Dunedin Central,77.0,True,Southern,-45.87383479999999,170.5062964,Community
-Chemist Warehouse Milford,75.0,True,Waitematā,-36.7720008,174.7661176,Community
-John Poswillo Pharmacy Ltd,51.5,True,Nelson Marlborough,-41.517338,173.95766300000003,Community
-Henderson Medical Centre Pharmacy,58.0,True,Waitematā,-36.8809061,174.6377966,Community
-Raumati Road Pharmacy Ltd,49.0,True,"Capital, Coast and Hutt Valley",-40.9191468,174.98178329999996,Community
-Chemist Warehouse Auckland - Lower Queen St,91.0,True,Auckland,-36.84754,174.7654835,Community
-RedHills Pharmacy,42.5,False,Waitematā,-36.8365382,174.6011209,Community
-Harts Pharmacy,45.0,True,Waitematā,-36.3976205,174.66426769999998,Community
-Woolworths Pharmacy Lynfield,77.0,True,Auckland,-36.92473469999999,174.72235460000002,Community
-Unichem Motueka Pharmacy,48.5,True,Nelson Marlborough,-41.1112562,173.01082180000003,Community
-Chemist Warehouse Lambton Quay,87.0,True,"Capital, Coast and Hutt Valley",-41.2839605,174.7751931,Community
-Marsden Cove Pharmacy,48.0,True,Northland,-35.8391824,174.4664333,Community
-Hillcrest Healthcare Pharmacy,50.5,True,Waikato,-37.7990315,175.3164842,Community
-Unichem Wellington Central Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.2823898,174.77536759999998,Community
-Chemist Warehouse Chartwell,79.0,True,Waikato,-37.750353,175.2788163,Community
-Chemist Warehouse Hastings,91.0,True,Hawke's Bay,-39.6417861,176.8493814,Community
-Chemist Warehouse Henderson,91.0,True,Waitematā,-36.8818969,174.6351565,Community
-Chemist Warehouse Kilbirnie,91.0,True,"Capital, Coast and Hutt Valley",-41.3185228,174.7950308,Community
-Chemist Warehouse Nelson Junction,84.0,True,Nelson Marlborough,-41.2992466,173.2399233,Community
-Woolworths Pharmacy Petone,42.5,True,"Capital, Coast and Hutt Valley",-41.22327990000001,174.87196070000005,Community
-Chemist Warehouse Pakuranga,72.5,True,Counties Manukau,-36.91082370000001,174.8715457,Community
-Chemist Warehouse Papanui,91.0,True,Canterbury,-43.4937129,172.6066281,Community
-Chemist Warehouse Porirua,91.0,True,"Capital, Coast and Hutt Valley",-41.1300105,174.838066,Community
-Chemist Warehouse Pukekohe Town Centre,71.5,True,Counties Manukau,-37.1987769,174.9036228,Community
-Chemist Warehouse Silverdale,70.5,True,Waitematā,-36.6136569,174.67908490000002,Community
-Chemist Warehouse Rotorua ,84.0,True,Lakes,-38.139667,176.2485532,Community
-Chemist Warehouse South City Shopping Centre,91.0,True,Canterbury,-43.53836699999999,172.63529500000004,Community
-Chemist Warehouse The Valley,91.0,True,Taranaki,-39.0468955,174.1158224,Community
-Chemist Warehouse Wairau Valley,75.0,True,Waitematā,-36.77902960000001,174.742146,Community
-Chemist Warehouse Warkworth ,77.0,False,Waitematā,-36.4420509,174.5820466,Community
-Chemist Warehouse Whanganui,70.5,True,Whanganui,-39.9348178,175.0552524,Community
-Bruce Amies Pharmacy,45.5,True,Auckland,-36.887636,174.68439009999997,Community
-Pahurehure Pharmacy,37.0,True,Counties Manukau,-37.067553,174.93090900000004,Community
-Dispensary Plus Pharmacy Birkenhead,40.0,True,Waitematā,-36.8135292,174.72638059999997,Community
-Gladstone Pharmacy (Invercargill),42.5,True,Southern,-46.394977,168.34775739999998,Community
-West Hamilton Pharmacy,46.5,True,Waikato,-37.7808801,175.2362428,Community
-Unichem Flagstaff Pharmacy,49.0,True,Waikato,-37.738107,175.25274379999996,Community
-Unichem Invercargill Pharmacy,61.0,True,Southern,-46.4120394,168.3482993,Community
-Ngatea Pharmacy Ltd,40.0,True,Waikato,-37.2759155,175.496446,Community
-Chemist Warehouse Taupō,91.0,True,Lakes,-38.686279714607956,176.07490897178653,Community
-Crofton Downs Pharmacy,54.0,True,"Capital, Coast and Hutt Valley",-41.2570354,174.76578900000004,Community
-Downtown Pharmacy Mt Maunganui,52.0,False,Bay of Plenty,-37.638105,176.18335460000003,Community
-Chemist Warehouse Albany,91.0,True,Waitematā,-36.730771,174.70585700000004,Community
-Hill Road Pharmacy,40.0,True,Counties Manukau,-37.02049969999999,174.8971001,Community
-Dunedin City Pharmacy,42.5,True,Southern,-45.8746638,170.50330180000003,Community
-Glengarry Pharmacy,48.5,True,Southern,-46.40237920000001,168.38512409999998,Community
-Selwyn Community Pharmacy,48.0,True,Canterbury,-43.6404544,172.48476140000002,Community
-McNaughton's Pharmacy,43.75,True,Southern,-45.897729,170.5017315,Community
-Library Lane Pharmacy,48.0,True,Waitematā,-36.7262924,174.69611229999998,Community
-Westbury Pharmacy,57.0,True,"Capital, Coast and Hutt Valley",-40.8767585,175.06411809999997,Community
-Dominion Road Pharmacy,40.0,True,Auckland,-36.87258219999999,174.75188549999996,Community
-Life Pharmacy Donna Kerr,75.5,True,Southern,-46.39593,168.36537910000004,Community
-Unichem Davies Corner Pharmacy,50.0,True,Waikato,-37.7617899,175.28735889999996,Community
-Mercury Bay Pharmacy,49.5,True,Waikato,-36.8335805,175.70492539999998,Community
-Unichem Dinsdale Pharmacy,49.0,True,Waikato,-37.79526579999999,175.24668129999998,Community
-Costco Pharmacy Westgate,70.0,True,Waitematā,-36.811097869951475,174.60627945258852,Community
-Bargain Chemist Rolleston ,73.0,True,Canterbury,-43.59250374138958,172.38432676115656,Community
-Frankton Pharmacy,49.0,True,Waikato,-37.7879024,175.2651687,Community
-Unichem Mairangi Bay Pharmacy,55.5,True,Waitematā,-36.7383326,174.75349719999997,Community
-Unichem Remuera,54.5,True,Auckland,-36.8807791,174.7967478,Community
-Life Pharmacy Motueka,49.0,True,Nelson Marlborough,-41.1117319,173.01131179999993,Community
-Clinic Pharmacy,61.0,True,Auckland,-36.8738338,174.7838921,Community
-Life Pharmacy Takapuna,65.0,True,Waitematā,-36.7875749,174.7700345,Community
-Unichem Simon's Pharmacy,49.0,True,"Capital, Coast and Hutt Valley",-41.16983219999999,174.82458129999998,Community
-Botany Road Pharmacy,47.5,True,Counties Manukau,-36.92474869999999,174.91280400000005,Community
-Unichem Aviemore Pharmacy,50.0,True,Counties Manukau,-36.89961399999999,174.90510140000004,Community
-MaxCare Pharmacy Ltd,47.5,True,Auckland,-36.94132569999999,174.84047839999994,Community
-Taradale Medical Pharmacy,45.0,True,Hawke's Bay,-39.5370826,176.8459068,Community
-Unichem Long Bay Pharmacy,49.0,True,Waitematā,-36.6854106,174.73800570000003,Community
-Unichem Tamahere Pharmacy,47.5,True,Waikato,-37.8290587,175.3540047,Community
-Woolworths Pharmacy Northlands,59.0,True,Canterbury,-43.4931191,172.6095818,Community
-Rauru Pharmacy,37.5,True,Tairāwhiti,-38.6740758,178.051088,Community
-Fiordland Community Pharmacy,50.0,True,Southern,-45.41600709999999,167.71481389999997,Community
-White Swan Pharmacy,47.0,True,Auckland,-36.9124167,174.72795789999998,Community
-Unichem Matamata Pharmacy,43.5,True,Waikato,-37.8092398,175.77842729999998,Community
-Henderson Discount Pharmacy,48.0,True,Waitematā,-36.87894779999999,174.6318222,Community
-Pohutukawa Coast Pharmacy,64.5,True,Counties Manukau,-36.88976820000001,175.0111382,Community
-McLaren Park Pharmacy,51.5,True,Waitematā,-36.8965393,174.6265667,Community
-Riverton Pharmacy,42.5,True,Southern,-46.3517829,168.0137522,Community
-Unichem Brookfield Pharmacy,49.0,True,Bay of Plenty,-37.6898366,176.1350264,Community
-Woolworths Pharmacy Waiata Shores,77.0,True,Counties Manukau,-37.0360492,174.9078536,Community
-Unichem Otahuhu Mainstreet Pharmacy,46.5,True,Auckland,-36.94542149999999,174.84453439999993,Community
-Royal Oak Unichem Pharmacy (By Pak'n Save),59.0,True,Auckland,-36.9104783,174.77481910000006,Community
-Titirangi Pharmacy,52.0,True,Waitematā,-36.937908,174.65662129999998,Community
-Cavendish Drive Pharmacy,47.5,True,Counties Manukau,-36.992938038023404,174.860919713974,Community
-Unichem Walls and Roche Pharmacy,47.5,True,Auckland,-36.91159359999999,174.7762679,Community
-Newton Pharmacy,65.0,True,Auckland,-36.8574319,174.7580051,Community
-Chemist Warehouse Birkenhead,77.5,True,Waitematā,-36.81095980000001,174.7247724,Community
-Chemist Warehouse Westfield Newmarket,91.0,True,Auckland,-36.871756,174.77673779999998,Community
-Bargain Chemist Pakuranga,84.0,True,Counties Manukau,-36.91331350000001,174.8712569,Community
-CityMed Pharmacy,54.0,True,Auckland,-36.84498,174.76534700000002,Community
-Onehunga Family Pharmacy,46.5,True,Auckland,-36.9234708,174.78566980000005,Community
-Royal Heights Pharmacy,49.0,True,Waitematā,-36.8328634,174.62307080000005,Community
-Family Health Pharmacy (Tuakau),47.5,True,Waikato,-37.257874,174.94671070000004,Community
-Unichem Petone Pharmacy,53.5,True,"Capital, Coast and Hutt Valley",-41.2253125,174.87846850000005,Community
-Community Pharmacy Linwood,42.5,True,Canterbury,-43.53243399999999,172.6714,Community
-Unichem Cashel Pharmacy,59.0,True,Canterbury,-43.53277629999999,172.63583140000003,Community
-Unichem Newtown Mall Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.3145107,174.78030089999993,Community
-Ranui Pharmacy,51.0,True,Waitematā,-36.8637145,174.60274890000005,Community
-Bargain Chemist George Street (Dunedin),84.0,True,Southern,-45.8699743,170.5061753,Community
-Wakefield Pharmacy,47.5,True,Nelson Marlborough,-41.4058809,173.0425288,Community
-Queenstown Pharmacy,61.5,True,Southern,-45.0304524,168.6578617,Community
-Unichem Jack's Point Pharmacy,42.5,True,Southern,-45.07549051261395,168.74519348144534,Community
-Unichem Rolleston Village Pharmacy,49.0,True,Canterbury,-43.5967006,172.3824743,Community
-Kaeo Chemist Ltd,25.5,True,Northland,-35.0998666,173.7789259,Community
-Chemist Warehouse Fraser Cove,83.0,True,Bay of Plenty,-37.711808018422275,176.15213814472082,Community
-Hinemoa Pharmacy,46.5,True,Lakes,-38.1378563,176.24799380000002,Community
-Unichem Upper Hutt Pharmacy,57.0,False,"Capital, Coast and Hutt Valley",-41.1254813,175.058222,Community
-Vogel Street Pharmacy,61.5,True,MidCentral,-40.3315054,175.6313169,Community
-Chemist Warehouse Ormiston,72.5,True,Counties Manukau,-36.96472610000001,174.9127031,Community
-Russell Health - Pharmacy Depot,38.0,False,Northland,-35.2624695,174.122585,Depot
-Coast Care Pharmacy,52.5,True,Waitematā,-36.7687081,174.7580438,Community
-Woolston Pharmacy,42.5,True,Canterbury,-43.5489924,172.68288529999995,Community
-Bastins Pharmacy,45.0,True,Canterbury,-43.5019542,172.633446,Community
-Unichem Grey Street Pharmacy,46.5,True,Waikato,-37.7929653,175.2934705,Community
-Takanini Urgent Pharmacy,60.0,True,Counties Manukau,-37.0395903,174.9148348,Community
-North Avon Pharmacy,47.5,True,Canterbury,-43.5177969,172.65391650000004,Community
-Unichem Karaka Pharmacy,51.5,True,Counties Manukau,-37.0740095,174.92298030000006,Community
-Tahunanui Pharmacy,47.0,True,Nelson Marlborough,-41.2811762,173.24970859999996,Community
-Langs Pharmacy,42.5,True,Wairarapa,-41.116791,175.32387749999998,Community
-Unichem Huapai Pharmacy,51.5,True,Waitematā,-36.7726015,174.5455121,Community
-Greenlane Care Pharmacy,42.5,True,Auckland,-36.8904644,174.7936289,Community
-Great Barrier Island Pharmacy,20.0,True,Auckland,-36.243011,175.46353190000002,Community
-Life Pharmacy Orrs,54.25,True,Northland,-35.725773,174.32092439999997,Community
-Birkenhead 7 Day Pharmacy,77.5,True,Waitematā,-36.81234413933998,174.72591340541842,Community
-Unichem Shotover Pharmacy,45.0,True,Southern,-45.0018828,168.7817782,Community
-Te Rau Rongoā ki Ruahine - Pharmacy on Ruahine (Palmerston North Hospital Pharmacy),45.5,True,MidCentral,-40.33893860000001,175.62062079999998,Community
-Belmont Pharmacy,49.0,True,Waitematā,-36.8078702,174.78973930000006,Community
-Linwood Village Pharmacy,40.0,True,Canterbury,-43.53106664832302,172.65679998710254,Community
-Westmere Pharmacy,52.5,True,Auckland,-36.8544745,174.7184784,Community
-Unichem Wynyard Pharmacy,42.5,True,Auckland,-36.8446092,174.75483459999998,Community
-Newton A-Z Pharmacy,42.0,True,Auckland,-36.8579533,174.75688560000003,Community
-Takapuna Pharmacy,42.5,True,Waitematā,-36.7898548,174.7726303,Community
-Allen's Village Pharmacy,51.5,True,Waitematā,-36.7759751,174.55597179999995,Community
-Unichem Campus Pharmacy,47.0,True,Auckland,-36.85202199999999,174.76990769999998,Community
-Chemist Warehouse Glenfield Mall,91.0,False,Waitematā,-36.78204139999999,174.7220515,Community
-Maunganui Road Pharmacy,44.75,True,Bay of Plenty,-37.644999,176.1899352,Community
-Chemist Warehouse Westfield Manukau,91.0,True,Counties Manukau,-36.990874450361204,174.88170644254473,Community
-Epsom Pharmacy 2008 Ltd,54.25,True,Auckland,-36.90601319999999,174.7742012,Community
-Newlands Pharmacy,49.5,True,"Capital, Coast and Hutt Valley",-41.2232664,174.82265170000005,Community
-Life Pharmacy St Heliers (Formerly known as St Heliers Bay Pharmacy),60.5,True,Auckland,-36.8510109,174.85752389999993,Community
-Glenfield 7 Day Pharmacy Ltd,92.0,True,Waitematā,-36.7811474,174.72168729999999,Community
-Unichem Pāpāmoa Pharmacy,42.5,True,Bay of Plenty,-37.7013066,176.282366,Community
-Vivian Pharmacy,68.5,True,Taranaki,-39.0618726,174.06800380000004,Community
-St Albans Pharmacy,42.5,True,Canterbury,-43.5135859,172.6363917,Community
-Mountainview Pharmacy,48.0,True,Taranaki,-39.5873099,174.28044260000001,Community
-Tui Pharmacy Parkwood ,42.5,True,Waikato,-37.748637,175.29345020000005,Community
-Life Pharmacy Rangiora,55.5,True,Canterbury,-43.3035944,172.59362099999998,Community
-Life Pharmacy Meadowbank,56.5,True,Auckland,-36.87587749999999,174.82816460000004,Community
-Life Pharmacy Albany,67.5,True,Waitematā,-36.7281522,174.7079397,Community
-Life Pharmacy Tauranga,56.0,True,Bay of Plenty,-37.6857803,176.16923999999995,Community
-Duncan's Pharmacy,66.0,True,Wairarapa,-40.9584899,175.6482752,Community
-Unichem Stokes Valley Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.17385959999999,174.9819066,Community
-Albany St Pharmacy,48.0,True,Southern,-45.8661204,170.5087744,Community
-Chemist Warehouse Meridian Mall,82.0,True,Southern,-45.87021809999999,170.505518,Community
-Amberley Pharmacy,48.75,True,Canterbury,-43.1568177,172.73038580000002,Community
-Maunu Pharmacy Limited,49.0,True,Northland,-35.7342485,174.30571510000004,Community
-Unichem Main Street Pharmacy,60.5,True,Counties Manukau,-36.8936851,174.93084010000007,Community
-Waitara Pharmacy,48.0,True,Taranaki,-39.0015575,174.23644420000005,Community
-Life Pharmacy Centre City,62.5,True,Southern,-45.8720041,170.5074182,Community
-Buller Pharmacy,45.5,True,West Coast,-41.7545327,171.59845270000005,Community
-Unichem Te Kuiti Pharmacy,43.0,True,Waikato,-38.3339748,175.16491989999997,Community
-Akaroa Pharmacy,47.5,True,Canterbury,-43.8084776,172.9635422,Community
-John Hogg Pharmacy 2015,50.5,True,Counties Manukau,-36.9690078,174.79892770000004,Community
-Lumsden Prescription and Gift Centre,35.0,False,Southern,-45.7393325,168.44161140000006,Community
-Unichem Peter Boles Pharmacy,42.5,True,Counties Manukau,-37.020485685455874,174.86460506916046,Community
-Avonhead Pharmacy,59.0,True,Canterbury,-43.5110614,172.55607380000004,Community
-Pukekohe South Pharmacy,42.5,True,Counties Manukau,-37.2143371,174.91007360000003,Community
-Wellington Compounding Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.31598,174.81610720000003,Community
-Hanafins Pharmacy,45.0,False,Canterbury,-43.5289709,172.60520689999998,Community
-Gimbletts Pharmacy,45.83333333333333,True,MidCentral,-40.4728251,175.28125439999997,Community
-Mangakino Pharmacy Depot,39.0,False,Lakes,-38.37063570000001,175.77413909999996,Depot
-South Seas Pharmacy,0.0,True,Counties Manukau,-36.9598671,174.87431430000004,Community
-Life Pharmacy Milford,58.0,True,Waitematā,-36.7720008,174.7661176,Community
-Pharmacy on Dominion,52.75,True,Auckland,-36.8846257,174.74864730000002,Community
-Otahuhu 7 Day Chemist,63.0,True,Auckland,-36.9426401,174.8404322,Community
-Western Heights Pharmacy,52.0,True,Lakes,-38.1285517,176.2191023,Community
-Life Pharmacy Newmarket,73.0,True,Auckland,-36.8710078,174.7770568,Community
-Kenepuru Pharmacy,72.0,True,"Capital, Coast and Hutt Valley",-41.14635826073668,174.8348593711853,Community
-Unichem Parklands Pharmacy,45.0,True,Canterbury,-43.48107049999999,172.70517940000002,Community
-Central Drive-In Pharmacy,45.0,True,MidCentral,-40.3522313,175.6014106,Community
-Milford Nutritional Pharmacy,44.0,True,Waitematā,-36.7727184,174.7658619,Community
-Wiri Health Pharmacy,46.5,True,Counties Manukau,-37.000885,174.88931389999993,Community
-Milson Pharmacy,45.0,True,MidCentral,-40.3298876,175.6133408,Community
-Bureta Pharmacy,42.5,True,Bay of Plenty,-37.6711861,176.15265369999997,Community
-Baylis The Chemist,48.5,True,Southern,-45.8961175,170.50040820000004,Community
-Qualmed,49.0,False,Canterbury,-43.5338526,172.6084538,Community
-Nga Kete Pharmacy,40.0,True,Southern,-46.4095554,168.34826339999995,Community
-Bethlehem Dispensary,42.5,True,Bay of Plenty,-37.69355160000001,176.11122999999998,Community
-Parkside Pharmacy Auckland,51.5,False,Auckland,-36.8463576,174.76903670000002,Community
-Unichem Mackays Pharmacy,46.5,True,Taranaki,-39.34026149999999,174.2847339,Community
-Horotiu Hauora Pharmacy ,37.5,True,Waikato,-37.700801,175.2034035,Community
-Unichem Levin Pharmacy,61.5,True,MidCentral,-40.6225036,175.28558299999997,Community
-Ormiston Hospital Pharmacy,40.0,True,Counties Manukau,-36.96458228087482,174.90523045767213,Community
-North Harbour Pharmacy,52.5,True,Waitematā,-36.74718050000001,174.7395395,Community
-Hei Hei Pharmacy (2019) Ltd,42.5,True,Canterbury,-43.5355563,172.52084579999996,Community
-Otaika Pharmacy,48.5,True,Northland,-35.7422983,174.3084629,Community
-Urgent Pharmacy Dunedin,84.0,True,Southern,-45.8720769,170.50262939999993,Community
-Remedy Pharmacy St Albans (formerly McIntosh Pharmacy),48.75,True,Canterbury,-43.5094813,172.63048019999997,Community
-Clive Pharmacy,47.5,True,Hawke's Bay,-39.5840916,176.9158049,Community
-Remedy Pharmacy - St George's Hospital (Christchurch),47.5,True,Canterbury,-43.50991349999999,172.61934759999997,Community
-David's Pharmacy,49.25,True,Northland,-35.6830771,174.29935339999997,Community
-Your Health Centre Pharmacy Papatoetoe,40.0,True,Counties Manukau,-36.977737,174.87159080000004,Community
-Woolworths Pharmacy Pukekohe South,77.0,True,Counties Manukau,-37.2110701,174.91067799999996,Community
-The Pharmacy @ Phillipstown,45.0,True,Canterbury,-43.54103149999999,172.66010570000003,Community
-St George Pharmacy,42.5,True,Counties Manukau,-36.9795301,174.85248869999998,Community
-Best Care Pharmacy,46.5,True,Counties Manukau,-36.9118342,174.8712361,Community
-Unichem Whangarei Pharmacy,84.0,True,Northland,-35.72719319999999,174.3265503,Community
-Bargain Chemist Birkenhead ,70.0,True,Waitematā,-36.811203,174.7257211,Community
-Family Care Pharmacy,42.5,True,Counties Manukau,-36.9000737,174.90868,Community
-Unichem Hickeys Pharmacy,57.5,True,Waitematā,-36.5868111,174.69396210000002,Community
-Unichem Rangatira Pharmacy,46.0,True,Waitematā,-36.7926401,174.6877955,Community
-Cook Street Pharmacy,45.0,True,MidCentral,-40.3660107,175.6069971,Community
-Central Parade & Dee Street Pharmacy Ltd,45.0,True,Bay of Plenty,-37.6561345,176.20066710000003,Community
-Pharmacy Plus,46.0,True,Counties Manukau,-37.0626431,174.94201969999995,Community
-Glenns Pharmacy,40.0,False,Hawke's Bay,-39.535198,176.848406,Community
-Vogeltown Pharmacy,48.5,True,Taranaki,-39.0790869,174.0803949,Community
-Woolworths Pharmacy Victoria Avenue (Whanganui),55.0,True,Whanganui,-39.92528069999999,175.03851080000004,Community
-Bay View Village Pharmacy,43.0,True,Hawke's Bay,-39.4197328,176.8661124,Community
-Woolworths Pharmacy Ferrymead,77.0,True,Canterbury,-43.5564314,172.70037100000002,Community
-Ihakara Pharmacy Ltd,45.0,True,"Capital, Coast and Hutt Valley",-40.9170014,174.99737349999998,Community
-Life Pharmacy Riccarton,68.0,True,Canterbury,-43.5310205,172.597776,Community
-Shirley Dispensary,48.75,True,Canterbury,-43.50695410000001,172.66245159999994,Community
-3 Kings Plaza Pharmacy,68.5,True,Auckland,-36.908797482930694,174.75537917672114,Community
-Weymouth Whanau Pharmacy,44.0,True,Counties Manukau,-37.0430362,174.8655899,Community
-Maungaraki Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.2080139,174.87831689999996,Community
-Life Pharmacy Northlands,68.0,True,Canterbury,-43.4943164,172.6097578,Community
-Papakura Marae Pharmacy,38.0,True,Counties Manukau,-37.07020840000001,174.95916680000005,Community
-Village Pharmacy Khandallah,48.5,True,"Capital, Coast and Hutt Valley",-41.2470271,174.79160390000004,Community
-Life Pharmacy Napier City,56.0,True,Hawke's Bay,-39.4906483,176.9168696,Community
-Lambton Square Pharmacy,54.0,True,"Capital, Coast and Hutt Valley",-41.2818124,174.77562549999993,Community
-Woolworths Pharmacy Rolleston,77.0,True,Canterbury,-43.5947243,172.3865479,Community
-Leeston Pharmacy,45.0,True,Canterbury,-43.762551,172.29818,Community
-Care Pharmacy at Totara,40.0,True,Hawke's Bay,-39.6371595,176.8440031,Community
-Devonport 1st Pharmacy (Formerly known as Devonport/Wigmores Pharmacy),61.5,True,Waitematā,-36.8310873,174.79721889999996,Community
-Unichem Orrs Pharmacy Maungaturoto,40.0,True,Northland,-36.11037045723121,174.35408413410187,Community
-Prohealth Panmure Pharmacy (previously known as Health Star Pharmacy Ltd),44.0,True,Auckland,-36.9009216,174.85680909999996,Community
-Woolworths Pharmacy Fraser Cove,59.0,True,Bay of Plenty,-37.71352220000001,176.1517394,Community
-Kaiapoi Crossing Pharmacy,45.0,False,Canterbury,-43.3852513,172.65721600000006,Community
-Pharmville on St Albans Pharmacy,37.5,False,Auckland,-36.88316220000001,174.74846350000007,Community
-Unichem The Palms Pharmacy,50.5,True,MidCentral,-40.3565526,175.61946680000005,Community
-Unichem Wigram Pharmacy,53.0,True,Canterbury,-43.552819,172.5571268,Community
-Taiwhenua Pharmacy,43.75,True,Hawke's Bay,-39.62235069999999,176.8153549,Community
-Sean Shivnan Pharmacy,63.5,True,Tairāwhiti,-38.655503,178.0077256,Community
-Unichem Elmwood Pharmacy,45.0,True,Canterbury,-43.50974979999999,172.6066399,Community
-Pharmacy Now,42.5,True,Canterbury,-43.5477785,172.561616,Community
-Pharmacy on Hurstmere (formerly Takapuna Clinic Pharmacy),45.0,True,Waitematā,-36.7863919,174.77311209999993,Community
-Kawakawa Pharmacy,45.0,True,Northland,-35.380107,174.06775300000004,Community
-Life Pharmacy Kapiti Coast,52.0,True,"Capital, Coast and Hutt Valley",-40.9159633,175.0066267,Community
-Unichem Kopata Pharmacy,42.5,False,"Capital, Coast and Hutt Valley",-41.2088214,174.90865280000003,Community
-Beckford Health Pharmacy,45.0,True,Canterbury,-43.55840155,172.65575502846855,Community
-Unichem Fenwicks Pharmacy,52.5,True,Canterbury,-43.38309719999999,172.65671229999998,Community
-Gonville Pharmacy,42.5,True,Whanganui,-39.9392189,175.03386550000005,Community
-Northcote Family Pharmacy,47.5,False,Waitematā,-36.8011217,174.7457822,Community
-Tarawera Pharmacy,41.25,True,Bay of Plenty,-38.0905239,176.7007655,Community
-Woolworths Pharmacy Browns Bay,63.0,True,Waitematā,-36.7168984,174.7466438,Community
-NorthCare Thomas Road Pharmacy,46.25,True,Waikato,-37.73098749999999,175.27527020000002,Community
-Woolworths Pharmacy Cambridge,59.0,True,Waikato,-37.8924781,175.47002240000006,Community
-Unichem Olsen's Pharmacy,49.0,True,West Coast,-42.4497378,171.2106761,Community
-Liddells Pharmacy,48.5,True,Counties Manukau,-37.2005486,174.90268609999998,Community
-Lakes Care Day Night Pharmacy,91.0,True,Lakes,-38.1351418,176.25131139999996,Community
-K-Town Pharmacy,40.0,True,Bay of Plenty,-38.0861347,176.70316130000003,Community
-Westgate Pharmacy,81.75,True,Waitematā,-36.8212311,174.60950619999994,Community
-CompoundLabs - Compounding Pharmacy,42.5,False,Waitematā,-36.7743863,174.7339307,Community
-Woolworths Pharmacy Porirua,59.0,True,"Capital, Coast and Hutt Valley",-41.13342189999999,174.84146169999997,Community
-Addington Pharmacy,47.5,True,Canterbury,-43.5424395,172.61404330000005,Community
-Kelburn Pharmacy,55.0,True,"Capital, Coast and Hutt Valley",-41.285637,174.76765899999998,Community
-St Martins Pharmacy,48.5,True,Canterbury,-43.5584292,172.65425389999996,Community
-Milton Pharmacy Ltd,43.0,True,Southern,-46.12129119999999,169.95900270000004,Community
-Wicksteed Pharmacy,45.0,True,Whanganui,-39.9291312,175.04802129999996,Community
-Mangere Health Centre Pharmacy,47.5,True,Counties Manukau,-36.9715412,174.7986923,Community
-Mangere Pharmacy,51.5,True,Counties Manukau,-36.96960809999999,174.79887789999998,Community
-Unichem Remarkables Pharmacy,65.5,True,Southern,-45.02657869999999,168.74221349999993,Community
-City Medical Centre Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.282275,174.7756213,Community
-Haumanu Pharmacy,68.0,True,Counties Manukau,-36.96290183127625,174.8401004076004,Community
-Woolworths Pharmacy Silverdale,59.0,True,Waitematā,-36.6136569,174.67908490000002,Community
-Chemist Warehouse The Palms,83.0,True,Canterbury,-43.5065597,172.66396150000003,Community
-Unichem Terrace End Pharmacy,40.0,True,MidCentral,-40.34797460000001,175.6260089,Community
-Waltham Pharmacy,42.5,True,Canterbury,-43.55042579999999,172.6464707,Community
-Peak Pharmacy,49.0,True,Hawke's Bay,-39.66722619999999,176.87965140000006,Community
-Victory Square Pharmacy,42.5,True,Nelson Marlborough,-41.2805215,173.26970589999996,Community
-Life Pharmacy Hornby,65.0,True,Canterbury,-43.5425839,172.5253403,Community
-Wises Pharmacy,54.5,True,Canterbury,-43.90251,171.75166869999998,Community
-Taita Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.1795419,174.96045290000006,Community
-Cannons Creek Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.142415,174.8650364,Community
-Unichem Orrs Pharmacy Dargaville,52.0,True,Northland,-35.9421732,173.8695282,Community
-Antidote North,42.5,True,Southern,-45.8633913,170.5099116,Community
-Mount Pharmacy,52.0,False,Bay of Plenty,-37.6374997,176.18290179999997,Community
-Woolworths Pharmacy Ashburton South,62.0,True,Canterbury,-43.9085124,171.74182159999998,Community
-Aramoho Pharmacy,45.0,True,Whanganui,-39.9094251,175.05329600000005,Community
-Northcross Pharmacy,73.5,True,Waitematā,-36.709549,174.72829660000002,Community
-Health New Lynn 7 Day Pharmacy Ltd,64.5,True,Waitematā,-36.9087926,174.6835453,Community
-Grafton Pharmacy,59.0,True,Auckland,-36.8608309,174.76773649999996,Community
-Woolworths Pharmacy Claudelands,60.0,True,Waikato,-37.778478,175.2989682,Community
-Woolworths Pharmacy Hornby,77.0,True,Canterbury,-43.542853699999995,172.52699691978287,Community
-Oamaru Pharmacy,54.0,True,Southern,-45.09721529999999,170.97161119999998,Community
-Life Pharmacy Barrington,63.5,True,Canterbury,-43.556888,172.61871070000007,Community
-Ohakune Healthcare Depot,41.5,False,Whanganui,-39.4171875,175.39932290000002,Depot
-Greenwood Street Pharmacy,44.0,True,Nelson Marlborough,-41.1098694,173.01212829999997,Community
-Halswell Pharmacy,47.5,True,Canterbury,-43.5743839,172.56777639999996,Community
-Sylvan Bank Pharmacy,45.5,True,Southern,-46.408714,168.36451450000004,Community
-Browns Community Pharmacy Kaitaia,48.0,True,Northland,-35.112382,173.2625974,Community
-Devon West Pharmacy,48.0,True,Taranaki,-39.0615491,174.06279819999997,Community
-Wairau Pharmacy,45.0,True,Nelson Marlborough,-41.515842,173.95715569999993,Community
-Kensington Pharmacy Ltd,77.5,True,Northland,-35.7085691,174.3206953,Community
-Life Pharmacy NorthWest,66.0,True,Waitematā,-36.8185011,174.611662,Community
-Pharmacy @ Bell Block,45.5,True,Taranaki,-39.028794,174.149673,Community
-Tolaga Bay Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-38.37314440000001,178.29706399999998,Depot
-Tokomaru Bay Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-38.1303443,178.3149956,Depot
-"Bramwell's Pharmacy Collection Depot - 59 Cliff Road, Te Karaka",0.0,False,Tairāwhiti,-38.4695384,177.86366599999997,Depot
-Hicks Bay Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.59189789999999,178.2914553,Depot
-Ruatōria Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.89149829999999,178.3178055,Depot
-Te Puia Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-38.05563299999999,178.30494539999995,Depot
-"Bramwell's Pharmacy Collection Depot, 6530 Matawai Road, Matawai",0.0,False,Tairāwhiti,-38.3571236,177.5341021,Depot
-Tikitiki Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.7963114,178.4106613,Depot
-Te Araroa Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.63325099999999,178.3690102,Depot
-Antidote Macandrew,40.0,True,Southern,-45.89713,170.49892599999998,Community
-Antidote Queenstown,61.0,True,Southern,-45.0128748,168.74337689999993,Community
-Antidote Lake Dunstan,40.0,True,Southern,-45.0365052,169.1972962,Community
-Woolworths Pharmacy Greenlane,69.0,True,Auckland,-36.8893605,174.79361159999996,Community
-Life Pharmacy The Plaza,59.5,True,MidCentral,-40.35693450000001,175.61323749999997,Community
-Snells Beach Pharmacy,48.5,True,Waitematā,-36.42438599999999,174.7276455,Community
-Unichem Stantons Pharmacy Halswell,49.0,True,Canterbury,-43.57974859999999,172.56692980000003,Community
-Unichem Richardson Road Pharmacy,56.5,True,Auckland,-36.9132158,174.72797960000003,Community
-Auckland City Hospital Pharmacy,62.0,True,Auckland,-36.86054163337887,174.76943492889404,Community
-Bongard's Pharmacy,42.5,False,Bay of Plenty,-37.7256208,176.13283920000003,Community
-Dannevirke Wellness Pharmacy ,40.0,True,MidCentral,-40.2122754,176.0978538,Community
-Lagans Pharmacy,46.5,True,"Capital, Coast and Hutt Valley",-41.1248732,175.06629280000004,Community
-Unichem Onerahi Pharmacy,48.5,True,Northland,-35.755039,174.36810530000002,Community
-Nawton Pharmacy,43.75,True,Waikato,-37.78046090000001,175.23733779999998,Community
-Tamatea Pharmacy,54.5,True,Hawke's Bay,-39.5106473,176.8695948,Community
-Queen Street Pharmacy (Upper Hutt),84.0,True,"Capital, Coast and Hutt Valley",-41.1227646,175.07371360000002,Community
+Oxford Pharmacy,45.0,True,Canterbury,-43.2982071,172.1925963,Community
+Woolworths Pharmacy Takapuna,77.0,True,Waitematā,-36.7912674,174.7654169,Community
 Unichem Cambridge Pharmacy,50.0,True,Waikato,-37.89428729999999,175.4697387,Community
 Ahuriri Pharmacy,46.5,True,Hawke's Bay,-39.4799909,176.8986603,Community
-Ropata Pharmacy,47.5,True,"Capital, Coast and Hutt Valley",-41.2037162,174.91669520000005,Community
-Larson's Pharmacy,48.25,True,Southern,-45.9022412,170.4290062,Community
-Chemist Warehouse Botany Town Centre ,79.0,True,Counties Manukau,-36.932606781491295,174.9132227897644,Community
-Cranford Pharmacy,54.0,True,Canterbury,-43.5153373,172.63765039999998,Community
-Unichem Family Healthcare Pharmacy,52.5,True,Auckland,-36.92981899999999,174.84260770000003,Community
-Ewart Douglas Pharmacy,42.25,True,Canterbury,-43.5090503,172.5888208,Community
-Roberts Pharmacy,64.5,True,South Canterbury,-44.4014388,171.25162420000004,Community
-Unichem Ti Rakau Drive Pharmacy,50.0,True,Counties Manukau,-36.9265863,174.8978581,Community
-Turuki Pharmacy Panmure,45.0,True,Auckland,-36.8993291,174.85365490000004,Community
-Unichem Burwood Hospital Pharmacy,42.5,True,Canterbury,-43.47935080000001,172.68199170000003,Community
-Bay Health Pharmacy,47.5,True,Bay of Plenty,-37.707921146295746,176.14744228212442,Community
-Woodham Road Pharmacy,45.0,True,Canterbury,-43.52492709999999,172.66167470000005,Community
-North Shore Hospital Outpatients Pharmacy,55.5,True,Waitematā,-36.781103,174.7570023,Community
-Chemist Warehouse St Lukes,91.0,True,Auckland,-36.8844385,174.73187170000006,Community
-Unichem Johnsonville Pharmacy,59.0,True,"Capital, Coast and Hutt Valley",-41.22375789999999,174.80761299999995,Community
-Life Pharmacy Papakura,53.5,True,Counties Manukau,-37.0592735,174.94160250000004,Community
-Unichem Tower Junction Pharmacy,50.5,True,Canterbury,-43.5401978,172.6054558,Community
-Barron's Pharmacy,45.5,True,Waikato,-37.39107,175.84151080000004,Community
-Unichem Grey Lynn Pharmacy,52.5,True,Auckland,-36.86547609999999,174.73727610000003,Community
-Chemist Warehouse Cambridge,82.0,True,Waikato,-37.8906653,175.4711406,Community
-Commodore Pharmacy,57.0,True,Waitematā,-36.7149481,174.7480029,Community
-Chemist Warehouse Timaru Showgrounds,75.0,True,South Canterbury,-44.3717809,171.2423147,Community
-Chemist Warehouse Centre Place,91.0,True,Waikato,-37.785826,175.28026620000003,Community
-Mt Albert Village Pharmacy,45.0,True,Auckland,-36.88385330000001,174.71560650000004,Community
-Clark's Pharmacy Limited,45.5,True,Waikato,-37.3917166,175.84041920000004,Community
-Chemist Warehouse Hunters Plaza,77.0,True,Counties Manukau,-36.9709915,174.86033080000004,Community
-Unichem Pharmacy Lynnmall,69.0,True,Waitematā,-36.9078599,174.6852085,Community
-Hillsborough Pharmacy,70.0,True,Auckland,-36.919512,174.75763110000003,Community
-Clive's Chemist,48.0,True,"Capital, Coast and Hutt Valley",-41.2607131,174.94616999999994,Community
-Cashmere Pharmacy,45.0,True,Canterbury,-43.5667997,172.64677140000003,Community
-Roslyn Pharmacy,52.5,True,Southern,-45.8671052,170.48892420000004,Community
-Chemist Warehouse Westgate,91.0,True,Waitematā,-36.81704690000001,174.6099514,Community
-Flaxmere Pharmacy,56.5,True,Hawke's Bay,-39.62524789999999,176.78800939999996,Community
-Unichem Browns Bay,62.5,True,Waitematā,-36.7144938,174.74821499999996,Community
-Antidote Octagon,42.5,True,Southern,-45.8736001,170.5041463,Community
-Chemist Warehouse Ronwood Centre,87.0,True,Counties Manukau,-36.9894158,174.8794423,Community
-Unichem Richmond Mall Pharmacy,59.0,True,Nelson Marlborough,-41.3402183,173.18608599999993,Community
-Gilmours Pharmacy,53.5,True,Hawke's Bay,-39.6707894,176.8769684,Community
-Chemist Warehouse Bethlehem,91.0,True,Bay of Plenty,-37.6936623,176.10962900000004,Community
-Unichem Morrinsville Pharmacy,48.5,True,Waikato,-37.6574582,175.5280173,Community
-Lockington's Medical Centre Pharmacy,47.5,True,Auckland,-36.9000168,174.72104060000004,Community
-Chemist Warehouse Onehunga,80.0,True,Auckland,-36.9224856,174.7861774,Community
-Lockington's Original Pharmacy,63.0,True,Auckland,-36.9003889,174.72083580000003,Community
-Unichem Leamington Pharmacy,48.0,True,Waikato,-37.9061102,175.4751589,Community
-Unichem Franklin Hospital Pharmacy - Pukekohe,84.0,True,Counties Manukau,-37.207801,174.9082969,Community
-Kingsland Pharmacy,47.5,True,Auckland,-36.8723937,174.74346289999994,Community
-Unichem Orrs Pharmacy Ruakaka,49.0,True,Northland,-35.8743103,174.45566159999998,Community
-Life Pharmacy Chartwell,64.0,True,Waikato,-37.750353,175.2788163,Community
-Unichem New Lynn Pharmacy,51.0,True,Waitematā,-36.9048545,174.68445129999998,Community
-Turuki Pharmacy,45.0,True,Counties Manukau,-36.9720997,174.8035093,Community
-Pharmacy Direct,40.0,True,Waitematā,-36.750592,174.71170510000002,Community
-Eastern Pharmacy Aranui,49.0,True,Canterbury,-43.5172734,172.7021029,Community
-Chemist Warehouse Cameron Road,77.0,True,Bay of Plenty,-37.6884518,176.1655767,Community
-Greenlane Clinical Centre Pharmacy,45.0,True,Auckland,-36.89418340212811,174.7805768251419,Community
-Unichem Onehunga Centre Pharmacy,55.0,True,Auckland,-36.9233319,174.7836727,Community
-Unichem Hobsonville Pharmacy,64.5,True,Waitematā,-36.7979235,174.6485436,Community
-Parkside Pharmacy,53.5,True,Canterbury,-43.5338089,172.62395549999997,Community
-East Tāmaki Pharmacy,45.5,True,Counties Manukau,-36.9609433,174.88799849999998,Community
-ibuy pharmacy,63.0,True,Counties Manukau,-37.1902944,174.9033244,Community
-Ray Pharmacy Meadowbank,57.75,True,Auckland,-36.87587749999999,174.82816460000004,Community
-Hutt City Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.2069807,174.9090734,Community
-Life Pharmacy Commercial Bay,58.0,True,Auckland,-36.8436816,174.7660924,Community
-Methven Pharmacy,49.0,False,Canterbury,-43.63366449999999,171.64693409999995,Community
-Waipapa Unichem Pharmacy,40.0,True,Northland,-35.2105923,173.9182027,Community
-Manurewa Medical Centre Pharmacy,49.0,True,Counties Manukau,-37.020321,174.89554199999998,Community
-Woolworths Pharmacy Newtown,59.0,True,"Capital, Coast and Hutt Valley",-41.3073735,174.7774446,Community
-Unichem The Mall Pharmacy,57.0,True,Lakes,-38.140970986257976,176.2514841556549,Community
-Unichem Rototuna Pharmacy,89.0,True,Waikato,-37.72903700000001,175.274186,Community
-Bargain Chemist Whangaparāoa,84.0,True,Waitematā,-36.6363653,174.74791979999998,Community
-Antidote Cromwell,48.0,True,Southern,-45.0373503,169.19655769999997,Community
-Life Pharmacy Bayfair,69.0,True,Bay of Plenty,-37.67529489999999,176.22276290000002,Community
-Westview Pharmacy,48.5,True,Waitematā,-36.91035369999999,174.64981710000006,Community
-Pollen Street Pharmacy,42.5,True,Waikato,-37.14214209999999,175.54400429999998,Community
-Campus Pharmacy Waikato,51.0,True,Waikato,-37.789244,175.31075429999999,Community
-Phoenix Pharmacy 2001,54.0,True,Bay of Plenty,-37.9543265,176.9936754,Community
-Waipu Pharmacy,47.0,True,Northland,-35.9846759,174.4460508,Community
-Chemist Warehouse Glen Innes,91.0,True,Auckland,-36.8744099,174.85333179999998,Community
-Unichem Mangere Medical Pharmacy,50.0,True,Counties Manukau,-36.9567364,174.83386180000002,Community
-Chemist Warehouse Flat Bush,89.0,True,Counties Manukau,-36.9648928,174.9024469,Community
-Unichem Queen St Pharmacy,66.0,True,Auckland,-36.8501651,174.7649312,Community
-Unichem Point Chevalier Pharmacy,49.0,True,Auckland,-36.8705495,174.7104319,Community
-Waimauku Pharmacy - Silver Fern,61.5,True,Waitematā,-36.766553,174.4945727,Community
-Unichem Hamilton East Pharmacy,50.0,True,Waikato,-37.7896314,175.29238409999994,Community
-Unichem Sunnynook Pharmacy,59.0,True,Waitematā,-36.7587156,174.74128500000006,Community
-Ormiston Kiwi Chemist,46.5,True,Counties Manukau,-36.96631679999999,174.9131364,Community
-Unichem Papakura Pharmacy,49.0,True,Counties Manukau,-37.0651675,174.94372169999997,Community
-Ohope Beach Pharmacy,53.5,True,Bay of Plenty,-37.972356,177.05840090000004,Community
-Wairoa Pharmacy,47.5,True,Hawke's Bay,-39.03411619290385,177.41838455200195,Community
-Silverstream Pharmacy,55.5,True,"Capital, Coast and Hutt Valley",-41.147726,175.01178800000002,Community
-Mahora Pharmacy,45.5,True,Hawke's Bay,-39.6287561,176.8502045,Community
-Unichem Bishopdale Pharmacy,54.0,True,Canterbury,-43.4887925,172.5874003,Community
-Unichem Kerikeri Pharmacy,49.0,True,Northland,-35.2283886,173.94781910000006,Community
-Unichem Kerimed Pharmacy,40.0,True,Northland,-35.2325377,173.9451328,Community
-Woolworths Pharmacy Bayfair,59.0,True,Bay of Plenty,-37.674788820835964,176.22412778558203,Community
-Burns Pharmacy,45.5,False,"Capital, Coast and Hutt Valley",-41.226348,174.88128489999997,Community
-Life Pharmacy Johnsonville,59.0,True,"Capital, Coast and Hutt Valley",-41.2238274,174.8062711,Community
-Alberton Pharmacy,42.5,True,Auckland,-36.8850218,174.73570369999993,Community
-HealthWorks Pharmacy Depot - Hanmer Springs,0.0,False,Canterbury,-42.5201144,172.8291921,Depot
-Life Pharmacy Ashburton,45.5,True,Canterbury,-43.9047352,171.74738330000002,Community
-Unichem Rolleston Central Pharmacy,61.5,True,Canterbury,-43.5938932,172.3874769,Community
-Unichem Brighton Village Pharmacy,53.0,True,Canterbury,-43.50721739999999,172.72672769999997,Community
-Graeme Avenue Pharmacy,51.75,True,Counties Manukau,-36.9725434,174.83410189999995,Community
-Pukekohe Plaza Pharmacy,60.0,True,Counties Manukau,-37.2017804,174.9023068,Community
-HC Pharmacy,40.0,True,Auckland,-36.8623848,174.7345995,Community
-Woolworths Pharmacy Spotswood,45.0,True,Taranaki,-39.0757754,174.03322409999998,Community
-Avondale Pharmacy,84.0,True,Auckland,-36.9020045,174.69247819999998,Community
-Remedy Pharmacy - Riccarton,48.75,True,Canterbury,-43.5309505,172.59281609999994,Community
-Unichem Gateway Pharmacy Takanini,53.5,True,Counties Manukau,-37.03924949999999,174.91452389999995,Community
-Roskill Healthcare Pharmacy,40.5,True,Auckland,-36.9049016,174.74144890000002,Community
-Unichem Forté Pharmacy,45.0,True,Canterbury,-43.5263056,172.6383586,Community
-Kendal Pharmacy,42.5,True,Canterbury,-43.4978182,172.57279130000006,Community
-Unichem Northend Pharmacy,45.0,True,Southern,-45.08087069999999,170.98245099999997,Community
-Queen Street Pharmacy,48.5,True,Nelson Marlborough,-41.33987469999999,173.18501709999998,Community
-Village Pharmacy Ngaio,52.0,True,"Capital, Coast and Hutt Valley",-41.24819049999999,174.7743775,Community
-Unichem Kelston Medical Pharmacy,45.0,True,Waitematā,-36.90562870000001,174.6635986,Community
-Wellworks Pharmacy Boulcott,61.0,True,"Capital, Coast and Hutt Valley",-41.2049105,174.92669039999998,Community
-Central Otago Pharmacy Cromwell,45.5,True,Southern,-45.0496762,169.19456679999996,Community
-Unichem University Pharmacy,35.0,True,"Capital, Coast and Hutt Valley",-41.28848329999999,174.769051,Community
-Unichem Rosedale Pharmacy,60.0,True,Waitematā,-36.74282649999999,174.695961,Community
-Chapel Park Pharmacy,46.75,True,Counties Manukau,-36.9666943,174.90575590000003,Community
-Pharmacy on Meade,52.0,True,Waikato,-37.8050951,175.28246260000003,Community
-Newsham Park Pharmacy,40.0,True,Counties Manukau,-37.1869953,174.922089,Community
-Jaks Pharmacy,66.5,True,Counties Manukau,-36.9893066,174.87496929999998,Community
-Green Bay Pharmacy,55.0,True,Waitematā,-36.9307162,174.6793861,Community
-Renwick Healthcare Depot,45.0,False,Nelson Marlborough,-41.50778029999999,173.826372,Depot
-St Johns Pharmacy,45.0,False,Whanganui,-39.918921,175.0382826,Community
-Civic Health Pharmacy,40.0,True,Nelson Marlborough,-41.5133849,173.9554352,Community
-Unichem Chadwick Pharmacy,45.0,True,Bay of Plenty,-37.7280481,176.1357911,Community
-Unichem Browns Road Pharmacy,84.0,True,Counties Manukau,-37.01775949308733,174.86342936365372,Community
-Maungatapu Pharmacy,43.0,True,Bay of Plenty,-37.7163169,176.17934839999998,Community
-Arrowtown Pharmacy,66.5,True,Southern,-44.9385493,168.83126790000006,Community
-Onslow Pharmacy,40.0,False,"Capital, Coast and Hutt Valley",-41.2294107,174.80073960000004,Community
-Newtown Medical Centre Dispensary,42.5,False,"Capital, Coast and Hutt Valley",-41.3134091,174.7788387,Community
-Grant Irvine Pharmacy,40.0,True,MidCentral,-40.35391569999999,175.6169436,Community
-Goldfields Pharmacy & Photo Centre,58.0,True,Waikato,-37.1397907,175.53952400000003,Community
-Manaia Medicine Health & Beauty,40.0,False,Taranaki,-39.5508597,174.1243882,Community
-Unichem Hurst and Taylor Pharmacy,48.5,True,Nelson Marlborough,-41.3126282,173.23410480000007,Community
-Rangiora Pharmacy,47.5,True,Canterbury,-43.30239580000001,172.59163409999996,Community
-My Pharmacy Whitiora Health Centre,45.0,True,Bay of Plenty,-37.7249761,176.3406067,Community
-Musselburgh Pharmacy,45.0,True,Southern,-45.8976184,170.5154707,Community
-Westend Pharmacy,45.0,True,Waikato,-37.7963644,175.24700359999997,Community
-HealthHub Pharmacy,61.5,True,Waitematā,-36.4114539,174.6549271,Community
-Merivale Medical Pharmacy,40.0,True,Canterbury,-43.5101254,172.62036,Community
-La Hood's Tapanui Depot,37.5,False,Southern,-45.9432059,169.2614994,Depot
-Whitby Pharmacy Ltd,65.5,True,"Capital, Coast and Hutt Valley",-41.11528550000001,174.894971,Community
-MacKenzie Pharmacy,48.0,True,South Canterbury,-44.25716,170.098257,Community
-Pharmacy 145 on Victoria,54.0,True,Whanganui,-39.9319987,175.0498932,Community
-Eltham Pharmacy Depot,37.5,False,Taranaki,-39.43139499999999,174.29956,Depot
-Carleton's Healthcare Depot,35.0,False,Southern,-46.1437675,167.99744310000005,Depot
-South City Health Pharmacy,45.0,True,Waikato,-37.8083426,175.27139239999997,Community
-Unichem Waiuku Medical Pharmacy,51.75,True,Counties Manukau,-37.2526076,174.7254347,Community
-Lincoln Pharmacy,48.5,True,Canterbury,-43.6400886,172.48398729999997,Community
-Catlins Health & Gifts ,40.0,False,Southern,-46.451668,169.6579131,Community
-Lambs Pharmacy & Natural Therapies Centre,52.0,True,Auckland,-36.8578648,174.76025140000002,Community
-Hammersley Pharmacy,46.5,True,Canterbury,-43.5089091,172.65191679999998,Community
-Steeds Pharmacy,42.5,True,MidCentral,-40.6215298,175.2869319,Community
-Woolworths Pharmacy The Palms,77.0,True,Canterbury,-43.5070389,172.663096,Community
-Chemist Warehouse Okara Park,91.0,True,Northland,-35.7317718,174.3267202,Community
-Chemist Warehouse Springlands,80.5,True,Nelson Marlborough,-41.5076895,173.9233506,Community
-Eliza's Pharmacy,40.0,True,Taranaki,-39.7637226,174.63353889999996,Community
-Net Pharmacy,49.0,True,Auckland,-36.8533208,174.7789414,Community
-The Caring Pharmacy ,42.5,False,Waitematā,-36.8777382,174.6306525,Community
-Unichem Ascot Pharmacy,54.0,True,Southern,-46.40591999999999,168.3925772,Community
-Unichem Summerfields Pharmacy,50.0,True,Southern,-45.0160276,168.73101380000003,Community
-Woolworths Pharmacy Dunedin South ,59.0,True,Southern,-45.8921702,170.5031765,Community
-Forbury Pharmacy,42.5,True,Southern,-45.8986427,170.48558230000003,Community
-Unichem Belfast Pharmacy,51.5,True,Canterbury,-43.44468639999999,172.63287760000003,Community
-New Windsor Pharmacy,42.5,True,Auckland,-36.9111937,174.71705529999997,Community
-Woolworths Pharmacy The Valley,61.0,True,Taranaki,-39.0468955,174.1158224,Community
-Wellworks Pharmacy Taranaki Street,50.5,True,"Capital, Coast and Hutt Valley",-41.2936975,174.7786946,Community
-City Health Pharmacy Ltd,69.0,True,MidCentral,-40.3503733,175.61795970000003,Community
-Unichem Willis St Pharmacy,45.0,True,"Capital, Coast and Hutt Valley",-41.28777940000001,174.77545399999997,Community
-Unichem Waiheke Pharmacy,57.5,True,Auckland,-36.7828571,175.00942080000004,Community
-Waimauku Pharmacy - Station Road,45.0,True,Waitematā,-36.76812039999999,174.49287800000002,Community
-Unichem Kamo Pharmacy,48.0,True,Northland,-35.6833483,174.30063559999996,Community
-Unichem Southend Pharmacy,61.0,True,Wairarapa,-40.9519464,175.65789259999997,Community
-Masterton Medical Pharmacy,66.0,True,Wairarapa,-40.94808769999999,175.67772509999998,Community
-Chemist Warehouse Blenheim Square,91.0,False,Canterbury,-43.5385157,172.5895104,Community
-Hillmorton Pharmacy,45.0,True,Canterbury,-43.55428670000001,172.5941057,Community
-Woolworths Pharmacy Mt Eden,77.0,True,Auckland,-36.8763872,174.7522252,Community
-Unichem Tokoroa Pharmacy,49.0,True,Waikato,-38.2183717,175.87271199999998,Community
-Unichem Family Health Pharmacy - Cambridge,45.0,True,Waikato,-37.8895152,175.4539427,Community
-Shorecare Pharmacy,101.5,True,Waitematā,-36.784107938385745,174.7535079717636,Community
-Unichem Cambridge Medical Centre Pharmacy,45.0,True,Waikato,-37.89361799999999,175.46566099999995,Community
-Dawson Road Pharmacy,84.0,True,Counties Manukau,-36.9769806,174.8961312,Community
-Unichem Whanganui Pharmacy,60.0,True,Whanganui,-39.9317726,175.0218188,Community
-Unichem Hamilton Pharmacy,87.5,True,Waikato,-37.7914843,175.2827947,Community
-The Pharmacy @ The Hastings Health Centre,84.0,True,Hawke's Bay,-39.6374993,176.8443675,Community
-Oakura Pharmacy,48.0,True,Taranaki,-39.11554870000001,173.9569765,Community
-Huntly Pharmacy Ltd,45.0,True,Waikato,-37.5591229,175.15902570000003,Community
-Bakerfield Chemist,76.0,True,Counties Manukau,-36.9888011,174.88540579999994,Community
-Merrilands Pharmacy,49.0,True,Taranaki,-39.0665723,174.10286240000005,Community
-Te Awamutu Pharmacy,51.0,True,Waikato,-38.00942560000001,175.32404670000005,Community
-Unichem Ellerslie Pharmacy,42.5,True,Auckland,-36.8981391,174.80961430000002,Community
-Te Hiku Pharmacy,42.5,False,Northland,-35.12017595364606,173.2603919506073,Community
-St Heliers Unichem Pharmacy,45.0,True,Auckland,-36.8503737,174.85862959999997,Community
-Bluff Prescription Centre,34.166666666666664,False,Southern,-46.5990178,168.3420142,Community
-Napier Balmoral Pharmacy,58.5,True,Hawke's Bay,-39.49483159999999,176.91330900000003,Community
-Longhurst Pharmacy Halswell,45.0,True,Canterbury,-43.5761593,172.54616569999996,Community
-Unichem 115 Queen St. Pharmacy,59.0,True,Auckland,-36.8465059,174.7658598,Community
-Tui Pharmacy Borman Road ,40.0,True,Waikato,-37.7198023,175.2413188,Community
-Kaikoura Pharmacy,42.5,True,Canterbury,-42.4005622,173.68144619999998,Community
-Napier Pharmacy,58.0,False,Hawke's Bay,-39.4954142,176.9125887,Community
-Life Pharmacy Taupo,56.0,True,Lakes,-38.6881389,176.07105,Community
-Stonefields Pharmacy,47.0,False,Auckland,-36.8867854,174.84482830000002,Community
-Havelock Healthcare Depot,46.0,False,Nelson Marlborough,-41.2789021,173.76670680000007,Depot
-Mahia Road Pharmacy,42.5,True,Counties Manukau,-37.0374844,174.88871629999994,Community
-Ascot Pharmacy,95.0,True,Auckland,-36.8876102,174.8006452,Community
-Unichem Orrs Pharmacy Tui,45.0,True,Northland,-35.739766,174.2829154,Community
-Pyes Pa Pharmacy,45.0,True,Bay of Plenty,-37.7424922,176.12280859999998,Community
-Strathmore Park Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.32462659999999,174.82085140000004,Community
-Paraparaumu Beach Pharmacy,46.5,True,"Capital, Coast and Hutt Valley",-40.8939678,174.98128210000004,Community
-Te Kauwhata Pharmacy,42.5,True,Waikato,-37.40376020000001,175.14348140000004,Community
-Unichem Orrs Pharmacy Kaikohe,48.5,True,Northland,-35.4050319,173.80464089999998,Community
-Unichem Glendene Pharmacy,50.5,True,Waitematā,-36.8870368,174.64445479999995,Community
-Home Pharmacy Richmond Road,51.0,True,Auckland,-36.8551457,174.7319236,Community
-Blockhouse Bay Pharmacy,50.5,True,Auckland,-36.922244,174.7015963,Community
-Queen St Medical Centre Pharmacy,45.0,True,Counties Manukau,-36.9462635,174.84423449999997,Community
-Unichem Crisps Pharmacy,48.0,True,Canterbury,-43.49957000000001,172.58612549999998,Community
-Unichem Clevedon Road Pharmacy,42.5,True,Counties Manukau,-37.0584052,174.95326239999997,Community
-Te Ngae Pharmacy,45.0,True,Lakes,-38.1484536,176.27641960000005,Community
-Devonport Health Centre Pharmacy,48.0,True,Waitematā,-36.8300638,174.7981033,Community
-North Otago Pharmacy,57.0,True,Southern,-45.0960529,170.97216950000006,Community
-Collingwood Street Pharmacy,40.0,False,Nelson Marlborough,-41.2749672,173.2865994,Community
-Caversham Pharmacy,42.5,True,Southern,-45.8963282,170.48063049999996,Community
-Lifeline Pharmacy,57.0,True,Auckland,-36.9419982,174.8417963,Community
-John's Stoke Pharmacy,40.0,True,Nelson Marlborough,-41.3120108,173.2337693,Community
-Hillcrest Central Pharmacy,50.0,True,Waitematā,-36.799096,174.73047369999995,Community
-ProHealth Papatoetoe Pharmacy,37.5,True,Counties Manukau,-36.9705075,174.8620062,Community
-Picton Healthcare Pharmacy,55.0,True,Nelson Marlborough,-41.2890175,174.00714389999996,Community
-Balmac Pharmacy,42.5,True,Southern,-45.8573735,170.47819819999995,Community
-Bays Health Pharmacy,53.0,True,Waitematā,-36.7140995,174.74629100000004,Community
-Pharmacy @ Ferrymead,54.5,True,Canterbury,-43.5568743,172.70126779999998,Community
-Northcote Unichem Pharmacy,45.0,True,Waitematā,-36.8015949,174.74560380000003,Community
-Unichem Havelock North Pharmacy,45.5,True,Hawke's Bay,-39.6695548,176.87818549999997,Community
-Eastmed Pharmacy,51.0,True,Auckland,-36.8621229,174.8588211,Community
-Unichem Kamo Dispensary,45.0,True,Northland,-35.6830771,174.29935339999997,Community
-Opotiki Pharmacy,57.5,True,Bay of Plenty,-38.00523469999999,177.2847276,Community
-Unichem Waikiwi Pharmacy,48.0,True,Southern,-46.3771612,168.3470402,Community
-Meadowbank Corner Chemist,46.0,True,Auckland,-36.87333599999999,174.82886359999998,Community
-Juliet Ave Pharmacy,45.0,True,Counties Manukau,-36.8949973,174.9170706,Community
-Sunnynook Link Pharmacy,49.0,True,Waitematā,-36.7605487,174.73950360000003,Community
-Stratford Pharmacy,44.5,True,Taranaki,-39.3390255,174.2843037,Community
-Unichem Whangaparāoa Family Pharmacy,47.5,True,Waitematā,-36.6347136,174.739765,Community
-Crawford House Pharmacy,52.5,True,Counties Manukau,-36.8919603,174.92929049999998,Community
-St Heliers Pharmacy,65.0,True,Auckland,-36.8514166,174.85738609999999,Community
-Tui Ora Pharmacy,41.5,True,Taranaki,-39.0686943,174.06794809999997,Community
-Unichem Glenview Medical Pharmacy,42.5,True,Waikato,-37.8168604,175.28300209999998,Community
-Unichem High Street Pharmacy,47.5,True,"Capital, Coast and Hutt Valley",-41.21067300000001,174.9002448,Community
-Kaiapoi North Pharmacy,48.0,True,Canterbury,-43.3814253,172.65806079999993,Community
-Remuera Pharmacy,49.5,True,Auckland,-36.8807607,174.79802829999994,Community
-Patea  Pharmacy,42.5,True,Taranaki,-39.7562441,174.47394310000004,Community
-Unichem Warkworth Pharmacy,51.5,True,Waitematā,-36.3993913,174.66614549999997,Community
-Unichem Brooklyn Pharmacy,52.0,True,"Capital, Coast and Hutt Valley",-41.30539379999999,174.76379799999995,Community
-Unichem Greerton Pharmacy,48.5,True,Bay of Plenty,-37.7263859,176.13331010000002,Community
-Marton Pharmacy,45.0,True,Whanganui,-40.0686732,175.37844280000002,Community
-Unichem Westcity Pharmacy,67.5,True,Waitematā,-36.880822,174.63275999999996,Community
-Anglesea Pharmacy,90.0,True,Waikato,-37.79256728116026,175.28310811667177,Community
-Unichem Manurewa Pharmacy,49.0,True,Counties Manukau,-37.0219826,174.89711179999995,Community
-Pharmacy 547,45.0,True,Waikato,-37.792204,175.2837684,Community
-McGlashen Pharmacy Ltd,48.0,True,Nelson Marlborough,-41.3405817,173.1842105,Community
-Berrys Tararua Pharmacy,45.0,True,MidCentral,-40.623645,175.29071909999993,Community
-Swanson Pharmacy,51.5,True,Waitematā,-36.8658795,174.57986729999993,Community
-Unichem Southcity Pharmacy,45.5,True,Southern,-46.4272605,168.3616579,Community
-Silverstream Kaiapoi Pharmacy,42.5,True,Canterbury,-43.38123969999999,172.6362604,Community
-Pharmacy Westend Ltd,45.0,True,Lakes,-38.1452919,176.2377508,Community
-Unichem Fifth Avenue Pharmacy,50.5,True,Bay of Plenty,-37.69277819999999,176.16391959999999,Community
-Eden Park Pharmacy,44.16666666666667,False,Auckland,-36.8778786,174.74095750000004,Community
-Howick House Pharmacy,47.5,True,Counties Manukau,-36.89577899999999,174.93117830000006,Community
-Chemist Warehouse Auckland Airport Shopping Centre,89.0,True,Counties Manukau,-36.9969282,174.78883199999996,Community
-Robertsons Pharmacy Hawera,45.5,True,Taranaki,-39.5890479,174.2832989,Community
-Five Cross Roads Pharmacy,48.0,True,Waikato,-37.7714286,175.29263689999993,Community
-Berrys Health Centre Pharmacy,48.0,True,MidCentral,-40.6321284,175.28612959999998,Community
-Pharmacy 257,42.5,True,Bay of Plenty,-37.6411737,176.18504970000004,Community
-Waimate Pharmacy,48.0,True,South Canterbury,-44.73334910000001,171.04696669999998,Community
-Unichem Panmure Pharmacy,50.0,True,Auckland,-36.8995836,174.85407570000007,Community
-Fry's Pharmacy,45.0,True,Nelson Marlborough,-41.335131211972275,173.17955717035454,Community
-Unichem Botany Pharmacy,49.5,True,Counties Manukau,-36.932606781491295,174.9132227897644,Community
-Life Pharmacy Franklin's,57.0,True,Waitematā,-36.3974348,174.66404809999995,Community
-Feilding Health Pharmacy,45.0,True,MidCentral,-40.2165855,175.56990700000006,Community
-Pahiatua Pharmacy,45.0,True,MidCentral,-40.4528875,175.84155350000003,Community
-Carterton Pharmacy,47.5,True,Wairarapa,-41.0264073,175.5258202,Community
-Rust Avenue Pharmacy,42.5,True,Northland,-35.7235496,174.31822080000006,Community
-Unichem Medical Centre Pharmacy Taupo,42.5,True,Lakes,-38.68932580000001,176.07655309999996,Community
-Nga Hua Pharmacy,40.0,True,Waikato,-37.7518131,175.2943904,Community
-Unichem Papatoetoe Pharmacy,49.0,True,Counties Manukau,-36.9799477,174.85362110000005,Community
-Unichem Adamson's Pharmacy,53.5,True,Bay of Plenty,-37.9609997,176.9819936,Community
-Mazengarb Pharmacy,44.5,True,"Capital, Coast and Hutt Valley",-40.895528,175.009317,Community
-Porirua Pharmacy,48.0,True,"Capital, Coast and Hutt Valley",-41.1391833,174.85000220000006,Community
-Unichem Taradale Pharmacy,49.0,True,Hawke's Bay,-39.5364805,176.8484948,Community
-Unichem Greenmeadows Pharmacy,45.0,True,Hawke's Bay,-39.52287729999999,176.8687281,Community
-Unichem Kilbirnie Pharmacy,54.0,True,"Capital, Coast and Hutt Valley",-41.3189819,174.79496300000005,Community
-Counties Care Pharmacy,79.5,True,Counties Manukau,-37.0600374,174.9412909,Community
-Avalon Medical Centre Pharmacy,50.5,True,"Capital, Coast and Hutt Valley",-41.19772620000001,174.9376836,Community
-Epsom Kiwi Chemist,40.0,True,Auckland,-36.8862775,174.77579079999998,Community
-Unichem Grays Pharmacy,45.75,True,Southern,-46.2382075,169.7381944,Community
-Te Puna Pharmacy,45.0,True,Bay of Plenty,-37.6954299,176.0731788,Community
-Unichem Otorohanga Pharmacy,48.5,True,Waikato,-38.1867455,175.21131119999995,Community
-Omaka Landing Pharmacy,45.0,True,Nelson Marlborough,-41.5295704,173.9339644,Community
-Village Pharmacy Churton Park,52.5,True,"Capital, Coast and Hutt Valley",-41.2019886,174.80827249999993,Community
-Bargain Chemist South Dunedin ,84.0,True,Southern,-45.8954313,170.5065951,Community
-Antidote Gardens,47.5,True,Southern,-45.8549341,170.5187562,Community
-Otahuhu Community Pharmacy,39.166666666666664,True,Auckland,-36.94441069999999,174.84672969999997,Community
-Wainuiomata Pharmacy & Lotto,62.0,True,"Capital, Coast and Hutt Valley",-41.25979419999999,174.94213309999998,Community
-Unichem Milford Pharmacy,50.0,True,Waitematā,-36.77290120000001,174.76527450000003,Community
-Gopal's Pharmacy,49.0,True,Auckland,-36.86470559999999,174.7376719,Community
-ProHealth Manukau Pharmacy,37.5,True,Counties Manukau,-36.9841389,174.87851920000003,Community
-Your Pharmacy Mount Maunganui,55.0,True,Bay of Plenty,-37.67411999999999,176.22825999999998,Community
-Bates Pharmacy,47.25,True,Southern,-46.23777690000001,169.73927760000004,Community
-Vaiola Pharmacy,48.0,True,Auckland,-36.924081,174.7814513,Community
-Antidote Meridian,56.5,True,Southern,-45.87021809999999,170.505518,Community
-Unichem Health Centre Pharmacy Taupo,42.5,False,Lakes,-38.6892491,176.0761407,Community
-Unichem Beerescourt Pharmacy,42.5,True,Waikato,-37.7701025,175.2635713,Community
-Comins Pharmacy,49.0,True,Waikato,-37.89415169999999,175.46883550000007,Community
-Gate Pa Village Pharmacy,54.0,True,Bay of Plenty,-37.71448150000001,176.1431996,Community
+Woolworths Pharmacy Rotorua,63.0,True,Lakes,-38.14340049999999,176.2541417,Community
+Woolworths Pharmacy St Johns ,59.0,True,Auckland,-36.8792896,174.8517382,Community
+Unichem Island Bay Pharmacy,52.75,True,"Capital, Coast and Hutt Valley",-41.3346575,174.77359679999995,Community
+Woolworths Pharmacy Auckland City,84.0,True,Auckland,-36.8452206,174.77293910000003,Community
+Healthcare Pharmacy,45.5,True,Counties Manukau,-37.0313189,174.8678216,Community
+Life Pharmacy Orewa,61.5,True,Waitematā,-36.58764130000001,174.69533580000007,Community
+Unichem Upper Hutt Health Pharmacy,57.0,True,"Capital, Coast and Hutt Valley",-41.1216639,175.073129,Community
+Kiwi Pharmacy Yaldhurst,45.0,True,Canterbury,-43.51863999114732,172.5251387024446,Community
+Ostend Village Pharmacy,40.0,True,Auckland,-36.7958282,175.0451675,Community
+Unichem Stortford Lodge Pharmacy,51.0,True,Hawke's Bay,-39.6305549,176.8318274,Community
+Woolworths Pharmacy Invercargill,69.0,True,Southern,-46.4127714,168.3577797,Community
+Woolworths Pharmacy Te Rapa,59.0,True,Waikato,-37.746476,175.2338339,Community
 Alabaster's Merivale Pharmacy,49.0,True,Canterbury,-43.511989,172.62189250000006,Community
-Unichem Paeroa Pharmacy,46.0,True,Waikato,-37.3812575,175.67223949999993,Community
-Union Street Pharmacy,47.5,True,Canterbury,-43.5089128,172.72748869999998,Community
 Baillie and Lewis Pharmacy,61.0,True,Southern,-46.42818259999999,168.361805,Community
-Community Care Pharmacy,54.0,True,Nelson Marlborough,-41.51485040000001,173.96005709999997,Community
 Huntly West Pharmacy,40.0,True,Waikato,-37.5611934,175.15137989999994,Community
-Unichem Hillpark Pharmacy,42.5,True,Counties Manukau,-37.01350850000001,174.90041359999998,Community
 Te Puna Hauora Pharmacy,42.5,True,Waitematā,-36.7950117,174.75595139999996,Community
-Unichem Harris Road Pharmacy,42.5,True,Auckland,-36.8960964,174.83244719999993,Community
 Unichem All Seasons Pharmacy,54.0,True,Waitematā,-36.8625893,174.64841230000002,Community
-Westland Pharmacy,47.5,True,West Coast,-42.71741129999999,170.96234479999998,Community
 Clendon Pharmacy,59.0,True,Counties Manukau,-37.03272739999999,174.8680019,Community
-Unichem Eastgate Pharmacy,63.5,True,Canterbury,-43.53242170908535,172.67531937196225,Community
 Opunake Pharmacy,45.5,True,Taranaki,-39.45371,173.86074940000003,Community
-Unichem Highland Park Pharmacy,57.5,True,Counties Manukau,-36.89987999999999,174.90785649999998,Community
 Unichem Central Pharmacy Mosgiel,52.0,True,Southern,-45.8750481,170.34796759999995,Community
 Avalon Pharmacy Hamilton,45.0,True,Waikato,-37.77978799999999,175.24912930000005,Community
-Life Pharmacy Blenheim,46.0,True,Nelson Marlborough,-41.5136304,173.9569295,Community
 Port Chalmers Pharmacy,50.0,True,Southern,-45.8158146,170.62125620000006,Community
-Unichem MainStreet Taupo Pharmacy,58.0,True,Lakes,-38.6874276,176.06970590000003,Community
 Life Pharmacy Coastlands,61.5,True,"Capital, Coast and Hutt Valley",-40.9170343,175.00331519999997,Community
-Platt's Pharmacy Ltd,48.0,True,Whanganui,-40.1739202,175.38616679999996,Community
 Unichem Manukau Pharmacy,63.0,True,Counties Manukau,-36.98714239999999,174.8837072,Community
-Anderson's Exchange Pharmacy,47.5,True,Southern,-45.87751669999999,170.50015859999996,Community
 Brockville Pharmacy,44.5,True,Southern,-45.8673921,170.4570132,Community
-Unichem Marina Pharmacy,59.0,True,Counties Manukau,-36.8809843,174.89905199999998,Community
 Life Pharmacy Matamata,47.75,True,Waikato,-37.8103937,175.77309620000005,Community
-My Pharmacy Pāpāmoa Plaza,66.0,True,Bay of Plenty,-37.7005774,176.2837895,Community
 Unichem Massey Pharmacy,62.5,True,Waitematā,-36.834692,174.60250689999998,Community
-Omokoroa Pharmacy,45.5,True,Bay of Plenty,-37.6422072,176.03796620000003,Community
 Waihi Beach Chemist,52.0,True,Bay of Plenty,-37.4121772,175.94399299999998,Community
 Mangawhai Pharmacy,51.5,True,Northland,-36.094948,174.58742800000005,Community
 Horouta Pharmacy,40.0,True,Tairāwhiti,-38.668677,178.04785590000006,Community
@@ -869,9 +223,7 @@ Unichem Excelsa Pharmacy,49.75,True,Bay of Plenty,-37.7182062,176.3425531,Commun
 Robertsons Hunter Street Pharmacy,42.5,True,Taranaki,-39.5863523,174.2668625,Community
 Unichem Fifteenth Avenue Pharmacy,60.0,True,Bay of Plenty,-37.70920600000001,176.16371749999996,Community
 Tara Road Pharmacy,45.0,True,Bay of Plenty,-37.7145271,176.3066271,Community
-Connolly Street Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.20396390000001,174.91205749999995,Community
 Hobsonville Point Pharmacy,50.5,True,Waitematā,-36.7928138,174.6609396,Community
-Unichem Greenlane Pharmacy,51.5,True,Auckland,-36.8916055,174.79499450000003,Community
 Wellsford Pharmacy,49.5,True,Waitematā,-36.2951177,174.5233285,Community
 Pharmacy On Cameron,45.0,True,Bay of Plenty,-37.7085327,176.14911559999996,Community
 Unichem Thames,49.0,True,Waikato,-37.1386916,175.54238250000003,Community
@@ -928,94 +280,682 @@ Bethlehem Pharmacy,49.0,True,Bay of Plenty,-37.6957574,176.11016159999997,Commun
 Unichem UFS Pharmacy,42.5,True,Southern,-46.412847,168.35129940000002,Community
 Northcare Pukete Pharmacy,48.0,True,Waikato,-37.7506675,175.2411909,Community
 Welcome Bay Pharmacy,45.0,True,Bay of Plenty,-37.7256849,176.19264109999995,Community
+Aramoho Pharmacy,45.0,True,Whanganui,-39.9094251,175.05329600000005,Community
+Northcross Pharmacy,73.5,True,Waitematā,-36.709549,174.72829660000002,Community
+Health New Lynn 7 Day Pharmacy Ltd,64.5,True,Waitematā,-36.9087926,174.6835453,Community
+Grafton Pharmacy,59.0,True,Auckland,-36.8608309,174.76773649999996,Community
+Woolworths Pharmacy Claudelands,60.0,True,Waikato,-37.778478,175.2989682,Community
+Woolworths Pharmacy Hornby,77.0,True,Canterbury,-43.542853699999995,172.52699691978287,Community
+Oamaru Pharmacy,54.0,True,Southern,-45.09721529999999,170.97161119999998,Community
+Life Pharmacy Barrington,63.5,True,Canterbury,-43.556888,172.61871070000007,Community
+Life Pharmacy Prices,61.5,True,Nelson Marlborough,-41.27456129999999,173.28703810000002,Community
+Chemist Warehouse Queenstown Town Centre,98.0,True,Southern,-45.0320268,168.6591359,Community
+Life Pharmacy - Wilkinsons,94.5,True,Southern,-45.0326905,168.6604061,Community
+Kensington Pharmacy Ltd,77.5,True,Northland,-35.7085691,174.3206953,Community
+Unichem Greenlane Pharmacy,51.5,True,Auckland,-36.8916055,174.79499450000003,Community
+Unichem Gateway Pharmacy Takanini,53.5,True,Counties Manukau,-37.03924949999999,174.91452389999995,Community
+Taiwhenua Pharmacy,43.75,True,Hawke's Bay,-39.62235069999999,176.8153549,Community
+Hobson Street Pharmacy,43.0,True,Auckland,-36.8507998,174.7606103,Community
+Bargain Chemist Mt Wellington,84.0,True,Auckland,-36.90837610000001,174.83738790000007,Community
+Unichem Te Nikau Pharmacy,47.0,True,West Coast,-42.4632728,171.1920973,Community
+Chemist Warehouse Auckland - Victoria Street,80.0,False,Auckland,-36.8486588,174.7647089,Community
+Bay Pharmacy Motueka,52.0,True,Nelson Marlborough,-41.1103682,173.01140869999995,Community
+Chemist Warehouse Okara Park,91.0,True,Northland,-35.7317718,174.3267202,Community
+Woolworths Pharmacy The Valley,61.0,True,Taranaki,-39.0468955,174.1158224,Community
+Sanders Pharmacy,64.5,True,Waikato,-38.0067611,175.3388251,Community
+Pharmacy on Meade,52.0,True,Waikato,-37.8050951,175.28246260000003,Community
+Newsham Park Pharmacy,40.0,True,Counties Manukau,-37.1869953,174.922089,Community
+Jaks Pharmacy,66.5,True,Counties Manukau,-36.9893066,174.87496929999998,Community
+Green Bay Pharmacy,55.0,True,Waitematā,-36.9307162,174.6793861,Community
+Renwick Healthcare Depot,45.0,False,Nelson Marlborough,-41.50778029999999,173.826372,Depot
+St Johns Pharmacy,45.0,False,Whanganui,-39.918921,175.0382826,Community
+Civic Health Pharmacy,40.0,True,Nelson Marlborough,-41.5133849,173.9554352,Community
+Unichem Chadwick Pharmacy,45.0,True,Bay of Plenty,-37.7280481,176.1357911,Community
+Unichem Browns Road Pharmacy,84.0,True,Counties Manukau,-37.01775949308733,174.86342936365372,Community
+Maungatapu Pharmacy,43.0,True,Bay of Plenty,-37.7163169,176.17934839999998,Community
+Arrowtown Pharmacy,66.5,True,Southern,-44.9385493,168.83126790000006,Community
+Onslow Pharmacy,40.0,False,"Capital, Coast and Hutt Valley",-41.2294107,174.80073960000004,Community
+Newtown Medical Centre Dispensary,42.5,False,"Capital, Coast and Hutt Valley",-41.3134091,174.7788387,Community
+Grant Irvine Pharmacy,40.0,True,MidCentral,-40.35391569999999,175.6169436,Community
+Goldfields Pharmacy & Photo Centre,58.0,True,Waikato,-37.1397907,175.53952400000003,Community
+Manaia Medicine Health & Beauty,40.0,False,Taranaki,-39.5508597,174.1243882,Community
+Unichem Hurst and Taylor Pharmacy,48.5,True,Nelson Marlborough,-41.3126282,173.23410480000007,Community
+Rangiora Pharmacy,47.5,True,Canterbury,-43.30239580000001,172.59163409999996,Community
+My Pharmacy Whitiora Health Centre,45.0,True,Bay of Plenty,-37.7249761,176.3406067,Community
+Musselburgh Pharmacy,45.0,True,Southern,-45.8976184,170.5154707,Community
+Huntly Pharmacy Ltd,45.0,True,Waikato,-37.5591229,175.15902570000003,Community
+Bakerfield Chemist,76.0,True,Counties Manukau,-36.9888011,174.88540579999994,Community
+Merrilands Pharmacy,49.0,True,Taranaki,-39.0665723,174.10286240000005,Community
+South Seas Pharmacy,0.0,True,Counties Manukau,-36.9598671,174.87431430000004,Community
+Life Pharmacy Milford,58.0,True,Waitematā,-36.7720008,174.7661176,Community
+Pharmacy on Dominion,52.75,True,Auckland,-36.8846257,174.74864730000002,Community
+Otahuhu 7 Day Chemist,63.0,True,Auckland,-36.9426401,174.8404322,Community
+Western Heights Pharmacy,52.0,True,Lakes,-38.1285517,176.2191023,Community
+Life Pharmacy Newmarket,73.0,True,Auckland,-36.8710078,174.7770568,Community
+Kenepuru Pharmacy,72.0,True,"Capital, Coast and Hutt Valley",-41.14635826073668,174.8348593711853,Community
+Unichem Parklands Pharmacy,45.0,True,Canterbury,-43.48107049999999,172.70517940000002,Community
+Central Drive-In Pharmacy,45.0,True,MidCentral,-40.3522313,175.6014106,Community
+Milford Nutritional Pharmacy,44.0,True,Waitematā,-36.7727184,174.7658619,Community
+Wiri Health Pharmacy,46.5,True,Counties Manukau,-37.000885,174.88931389999993,Community
+Milson Pharmacy,45.0,True,MidCentral,-40.3298876,175.6133408,Community
+Bureta Pharmacy,42.5,True,Bay of Plenty,-37.6711861,176.15265369999997,Community
+Westend Pharmacy,45.0,True,Waikato,-37.7963644,175.24700359999997,Community
+HealthHub Pharmacy,61.5,True,Waitematā,-36.4114539,174.6549271,Community
+Merivale Medical Pharmacy,40.0,True,Canterbury,-43.5101254,172.62036,Community
+La Hood's Tapanui Depot,37.5,False,Southern,-45.9432059,169.2614994,Depot
+Whitby Pharmacy Ltd,65.5,True,"Capital, Coast and Hutt Valley",-41.11528550000001,174.894971,Community
+MacKenzie Pharmacy,48.0,True,South Canterbury,-44.25716,170.098257,Community
+Pharmacy 145 on Victoria,54.0,True,Whanganui,-39.9319987,175.0498932,Community
+Eltham Pharmacy Depot,37.5,False,Taranaki,-39.43139499999999,174.29956,Depot
+Carleton's Healthcare Depot,35.0,False,Southern,-46.1437675,167.99744310000005,Depot
+Unichem Rosedale Pharmacy,60.0,True,Waitematā,-36.74282649999999,174.695961,Community
+Chapel Park Pharmacy,46.75,True,Counties Manukau,-36.9666943,174.90575590000003,Community
+Snells Beach Pharmacy,48.5,True,Waitematā,-36.42438599999999,174.7276455,Community
+Unichem Stantons Pharmacy Halswell,49.0,True,Canterbury,-43.57974859999999,172.56692980000003,Community
+Unichem Richardson Road Pharmacy,56.5,True,Auckland,-36.9132158,174.72797960000003,Community
+Chemist Warehouse Ormiston,72.5,True,Counties Manukau,-36.96472610000001,174.9127031,Community
+Coast Care Pharmacy,52.5,True,Waitematā,-36.7687081,174.7580438,Community
+Bastins Pharmacy,45.0,True,Canterbury,-43.5019542,172.633446,Community
+Westgate Pharmacy,81.75,True,Waitematā,-36.8212311,174.60950619999994,Community
+Te Awamutu Pharmacy,51.0,True,Waikato,-38.00942560000001,175.32404670000005,Community
+CompoundLabs - Compounding Pharmacy,42.5,False,Waitematā,-36.7743863,174.7339307,Community
+Unichem Ellerslie Pharmacy,42.5,True,Auckland,-36.8981391,174.80961430000002,Community
+Te Hiku Pharmacy,42.5,False,Northland,-35.12017595364606,173.2603919506073,Community
+St Heliers Unichem Pharmacy,45.0,True,Auckland,-36.8503737,174.85862959999997,Community
+Bluff Prescription Centre,34.166666666666664,False,Southern,-46.5990178,168.3420142,Community
+Napier Balmoral Pharmacy,58.5,True,Hawke's Bay,-39.49483159999999,176.91330900000003,Community
+Longhurst Pharmacy Halswell,45.0,True,Canterbury,-43.5761593,172.54616569999996,Community
+Unichem 115 Queen St. Pharmacy,59.0,True,Auckland,-36.8465059,174.7658598,Community
+Woolworths Pharmacy Porirua,59.0,True,"Capital, Coast and Hutt Valley",-41.13342189999999,174.84146169999997,Community
+Tui Pharmacy Borman Road ,40.0,True,Waikato,-37.7198023,175.2413188,Community
+Kaikoura Pharmacy,42.5,True,Canterbury,-42.4005622,173.68144619999998,Community
+Napier Pharmacy,58.0,False,Hawke's Bay,-39.4954142,176.9125887,Community
+Life Pharmacy Taupo,56.0,True,Lakes,-38.6881389,176.07105,Community
+Stonefields Pharmacy,47.0,False,Auckland,-36.8867854,174.84482830000002,Community
+Havelock Healthcare Depot,46.0,False,Nelson Marlborough,-41.2789021,173.76670680000007,Depot
+Mahia Road Pharmacy,42.5,True,Counties Manukau,-37.0374844,174.88871629999994,Community
+Ascot Pharmacy,95.0,True,Auckland,-36.8876102,174.8006452,Community
+Unichem Orrs Pharmacy Tui,45.0,True,Northland,-35.739766,174.2829154,Community
+Strathmore Park Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.32462659999999,174.82085140000004,Community
+Paraparaumu Beach Pharmacy,46.5,True,"Capital, Coast and Hutt Valley",-40.8939678,174.98128210000004,Community
+Te Kauwhata Pharmacy,42.5,True,Waikato,-37.40376020000001,175.14348140000004,Community
+Unichem Orrs Pharmacy Kaikohe,48.5,True,Northland,-35.4050319,173.80464089999998,Community
+Unichem Glendene Pharmacy,50.5,True,Waitematā,-36.8870368,174.64445479999995,Community
+John Hogg Pharmacy 2015,50.5,True,Counties Manukau,-36.9690078,174.79892770000004,Community
+Lumsden Prescription and Gift Centre,35.0,False,Southern,-45.7393325,168.44161140000006,Community
+Unichem Peter Boles Pharmacy,42.5,True,Counties Manukau,-37.020485685455874,174.86460506916046,Community
+Avonhead Pharmacy,59.0,True,Canterbury,-43.5110614,172.55607380000004,Community
+Pukekohe South Pharmacy,42.5,True,Counties Manukau,-37.2143371,174.91007360000003,Community
+Wellington Compounding Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.31598,174.81610720000003,Community
+Hanafins Pharmacy,45.0,False,Canterbury,-43.5289709,172.60520689999998,Community
+Gimbletts Pharmacy,45.83333333333333,True,MidCentral,-40.4728251,175.28125439999997,Community
+Mangakino Pharmacy Depot,39.0,False,Lakes,-38.37063570000001,175.77413909999996,Depot
+City Medical Centre Pharmacy,58.0,True,"Capital, Coast and Hutt Valley",-41.282275,174.7756213,Community
+Chemist Warehouse Westgate,91.0,True,Waitematā,-36.81704690000001,174.6099514,Community
+Ropata Pharmacy,45.0,True,"Capital, Coast and Hutt Valley",-41.2037162,174.91669520000005,Community
+Moera Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.2261609,174.9055786,Community
+Woolworths Pharmacy Grey Lynn,59.0,True,Auckland,-36.853614,174.733161,Community
+Eliza's Pharmacy,40.0,True,Taranaki,-39.7637226,174.63353889999996,Community
+Wicksteed Pharmacy,45.0,True,Whanganui,-39.9291312,175.04802129999996,Community
+Unichem Harbour View Pharmacy,44.5,True,Waitematā,-36.85454420000001,174.65095729999996,Community
+Unichem Peninsula Pharmacy,56.5,True,Waitematā,-36.8421999,174.6514783,Community
+Maraenui Pharmacy,42.5,False,Hawke's Bay,-39.5153329,176.90559870000004,Community
+Woolworths Pharmacy Eastgate,59.0,True,Canterbury,-43.5331246,172.67451210000002,Community
+Woolworths Pharmacy Hastings,59.5,True,Hawke's Bay,-39.6389577,176.8425046,Community
+Chemist Warehouse Ashburton,74.0,True,Canterbury,-43.9056965,171.7428588,Community
+Unichem Cherrywood Pharmacy,49.5,True,Bay of Plenty,-37.668327815126354,176.1399096250534,Community
+Omokoroa Pharmacy,45.5,True,Bay of Plenty,-37.6422072,176.03796620000003,Community
+Glengarry Pharmacy,48.5,True,Southern,-46.40237920000001,168.38512409999998,Community
+Selwyn Community Pharmacy,48.0,True,Canterbury,-43.6404544,172.48476140000002,Community
+McNaughton's Pharmacy,43.75,True,Southern,-45.897729,170.5017315,Community
+Library Lane Pharmacy,48.0,True,Waitematā,-36.7262924,174.69611229999998,Community
+Westbury Pharmacy,57.0,True,"Capital, Coast and Hutt Valley",-40.8767585,175.06411809999997,Community
+Dominion Road Pharmacy,40.0,True,Auckland,-36.87258219999999,174.75188549999996,Community
+Life Pharmacy Donna Kerr,75.5,True,Southern,-46.39593,168.36537910000004,Community
+Unichem Davies Corner Pharmacy,50.0,True,Waikato,-37.7617899,175.28735889999996,Community
+Mercury Bay Pharmacy,49.5,True,Waikato,-36.8335805,175.70492539999998,Community
+Unichem Dinsdale Pharmacy,49.0,True,Waikato,-37.79526579999999,175.24668129999998,Community
+Costco Pharmacy Westgate,70.0,True,Waitematā,-36.811097869951475,174.60627945258852,Community
+Bargain Chemist Rolleston ,73.0,True,Canterbury,-43.59250374138958,172.38432676115656,Community
+Frankton Pharmacy,49.0,True,Waikato,-37.7879024,175.2651687,Community
+Unichem Mairangi Bay Pharmacy,55.5,True,Waitematā,-36.7383326,174.75349719999997,Community
+Unichem Remuera,54.5,True,Auckland,-36.8807791,174.7967478,Community
+Life Pharmacy Motueka,49.0,True,Nelson Marlborough,-41.1117319,173.01131179999993,Community
+Clinic Pharmacy,61.0,True,Auckland,-36.8738338,174.7838921,Community
+Life Pharmacy Takapuna,65.0,True,Waitematā,-36.7875749,174.7700345,Community
+Unichem Simon's Pharmacy,49.0,True,"Capital, Coast and Hutt Valley",-41.16983219999999,174.82458129999998,Community
+Botany Road Pharmacy,47.5,True,Counties Manukau,-36.92474869999999,174.91280400000005,Community
+Unichem Aviemore Pharmacy,50.0,True,Counties Manukau,-36.89961399999999,174.90510140000004,Community
+MaxCare Pharmacy Ltd,47.5,True,Auckland,-36.94132569999999,174.84047839999994,Community
+Taradale Medical Pharmacy,45.0,True,Hawke's Bay,-39.5370826,176.8459068,Community
+Unichem Long Bay Pharmacy,49.0,True,Waitematā,-36.6854106,174.73800570000003,Community
+Unichem Tamahere Pharmacy,47.5,True,Waikato,-37.8290587,175.3540047,Community
+Woolworths Pharmacy Northlands,59.0,True,Canterbury,-43.4931191,172.6095818,Community
+Rauru Pharmacy,37.5,True,Tairāwhiti,-38.6740758,178.051088,Community
+Fiordland Community Pharmacy,50.0,True,Southern,-45.41600709999999,167.71481389999997,Community
+White Swan Pharmacy,47.0,True,Auckland,-36.9124167,174.72795789999998,Community
+Unichem Matamata Pharmacy,43.5,True,Waikato,-37.8092398,175.77842729999998,Community
+Henderson Discount Pharmacy,48.0,True,Waitematā,-36.87894779999999,174.6318222,Community
+Pohutukawa Coast Pharmacy,64.5,True,Counties Manukau,-36.88976820000001,175.0111382,Community
+McLaren Park Pharmacy,51.5,True,Waitematā,-36.8965393,174.6265667,Community
+Riverton Pharmacy,42.5,True,Southern,-46.3517829,168.0137522,Community
+Unichem Brookfield Pharmacy,49.0,True,Bay of Plenty,-37.6898366,176.1350264,Community
+Woolworths Pharmacy Waiata Shores,77.0,True,Counties Manukau,-37.0360492,174.9078536,Community
+Unichem Otahuhu Mainstreet Pharmacy,46.5,True,Auckland,-36.94542149999999,174.84453439999993,Community
+Royal Oak Unichem Pharmacy (By Pak'n Save),59.0,True,Auckland,-36.9104783,174.77481910000006,Community
+Titirangi Pharmacy,52.0,True,Waitematā,-36.937908,174.65662129999998,Community
+Cavendish Drive Pharmacy,47.5,True,Counties Manukau,-36.992938038023404,174.860919713974,Community
+Unichem Walls and Roche Pharmacy,47.5,True,Auckland,-36.91159359999999,174.7762679,Community
+Newton Pharmacy,65.0,True,Auckland,-36.8574319,174.7580051,Community
+Chemist Warehouse Birkenhead,77.5,True,Waitematā,-36.81095980000001,174.7247724,Community
+Chemist Warehouse Westfield Newmarket,91.0,True,Auckland,-36.871756,174.77673779999998,Community
+Bargain Chemist Pakuranga,84.0,True,Counties Manukau,-36.91331350000001,174.8712569,Community
+CityMed Pharmacy,54.0,True,Auckland,-36.84498,174.76534700000002,Community
+Onehunga Family Pharmacy,46.5,True,Auckland,-36.9234708,174.78566980000005,Community
+Royal Heights Pharmacy,49.0,True,Waitematā,-36.8328634,174.62307080000005,Community
+Family Health Pharmacy (Tuakau),47.5,True,Waikato,-37.257874,174.94671070000004,Community
+Unichem Petone Pharmacy,53.5,True,"Capital, Coast and Hutt Valley",-41.2253125,174.87846850000005,Community
+Community Pharmacy Linwood,42.5,True,Canterbury,-43.53243399999999,172.6714,Community
+Unichem Cashel Pharmacy,59.0,True,Canterbury,-43.53277629999999,172.63583140000003,Community
+Unichem Newtown Mall Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.3145107,174.78030089999993,Community
+Ranui Pharmacy,51.0,True,Waitematā,-36.8637145,174.60274890000005,Community
+Bargain Chemist George Street (Dunedin),84.0,True,Southern,-45.8699743,170.5061753,Community
+Wakefield Pharmacy,47.5,True,Nelson Marlborough,-41.4058809,173.0425288,Community
+After Hours Pharmacy,84.0,True,"Capital, Coast and Hutt Valley",-41.302008,174.7797243,Community
+Unichem Cuba Mall Pharmacy,65.0,True,"Capital, Coast and Hutt Valley",-41.2928652,174.77571880000005,Community
+Unichem Apollo Drive Pharmacy,40.0,True,Waitematā,-36.735662,174.72740699999997,Community
+Five Mile Pharmacy Queenstown,63.0,True,Southern,-45.0120767,168.7430109,Community
+Bay Health Pharmacy,47.5,True,Bay of Plenty,-37.707921146295746,176.14744228212442,Community
+Woodham Road Pharmacy,45.0,True,Canterbury,-43.52492709999999,172.66167470000005,Community
+North Shore Hospital Outpatients Pharmacy,55.5,True,Waitematā,-36.781103,174.7570023,Community
+Chemist Warehouse St Lukes,91.0,True,Auckland,-36.8844385,174.73187170000006,Community
+Unichem Johnsonville Pharmacy,59.0,True,"Capital, Coast and Hutt Valley",-41.22375789999999,174.80761299999995,Community
+Life Pharmacy Papakura,53.5,True,Counties Manukau,-37.0592735,174.94160250000004,Community
+Unichem Tower Junction Pharmacy,50.5,True,Canterbury,-43.5401978,172.6054558,Community
+Barron's Pharmacy,45.5,True,Waikato,-37.39107,175.84151080000004,Community
+Unichem Grey Lynn Pharmacy,52.5,True,Auckland,-36.86547609999999,174.73727610000003,Community
+Chemist Warehouse Cambridge,82.0,True,Waikato,-37.8906653,175.4711406,Community
+Commodore Pharmacy,57.0,True,Waitematā,-36.7149481,174.7480029,Community
+Chemist Warehouse Timaru Showgrounds,75.0,True,South Canterbury,-44.3717809,171.2423147,Community
+Chemist Warehouse Centre Place,91.0,True,Waikato,-37.785826,175.28026620000003,Community
+Mt Albert Village Pharmacy,45.0,True,Auckland,-36.88385330000001,174.71560650000004,Community
+Clark's Pharmacy Limited,45.5,True,Waikato,-37.3917166,175.84041920000004,Community
+Unichem Pharmacy Lynnmall,69.0,True,Waitematā,-36.9078599,174.6852085,Community
+Hillsborough Pharmacy,70.0,True,Auckland,-36.919512,174.75763110000003,Community
+Clive's Chemist,48.0,True,"Capital, Coast and Hutt Valley",-41.2607131,174.94616999999994,Community
+Cashmere Pharmacy,45.0,True,Canterbury,-43.5667997,172.64677140000003,Community
+Roslyn Pharmacy,52.5,True,Southern,-45.8671052,170.48892420000004,Community
+Flaxmere Pharmacy,56.5,True,Hawke's Bay,-39.62524789999999,176.78800939999996,Community
+Unichem Browns Bay,62.5,True,Waitematā,-36.7144938,174.74821499999996,Community
+Antidote Octagon,42.5,True,Southern,-45.8736001,170.5041463,Community
+Chemist Warehouse Ronwood Centre,87.0,True,Counties Manukau,-36.9894158,174.8794423,Community
+Unichem Richmond Mall Pharmacy,59.0,True,Nelson Marlborough,-41.3402183,173.18608599999993,Community
+Gilmours Pharmacy,53.5,True,Hawke's Bay,-39.6707894,176.8769684,Community
+Chemist Warehouse Bethlehem,91.0,True,Bay of Plenty,-37.6936623,176.10962900000004,Community
+Unichem Morrinsville Pharmacy,48.5,True,Waikato,-37.6574582,175.5280173,Community
+Lockington's Medical Centre Pharmacy,47.5,True,Auckland,-36.9000168,174.72104060000004,Community
+Chemist Warehouse Onehunga,80.0,True,Auckland,-36.9224856,174.7861774,Community
+Lockington's Original Pharmacy,63.0,True,Auckland,-36.9003889,174.72083580000003,Community
+Unichem Leamington Pharmacy,48.0,True,Waikato,-37.9061102,175.4751589,Community
+Unichem Franklin Hospital Pharmacy - Pukekohe,84.0,True,Counties Manukau,-37.207801,174.9082969,Community
+Kingsland Pharmacy,47.5,True,Auckland,-36.8723937,174.74346289999994,Community
+Unichem Orrs Pharmacy Ruakaka,49.0,True,Northland,-35.8743103,174.45566159999998,Community
+Life Pharmacy Chartwell,64.0,True,Waikato,-37.750353,175.2788163,Community
+Unichem New Lynn Pharmacy,51.0,True,Waitematā,-36.9048545,174.68445129999998,Community
+Turuki Pharmacy,45.0,True,Counties Manukau,-36.9720997,174.8035093,Community
+Pharmacy Direct,40.0,True,Waitematā,-36.750592,174.71170510000002,Community
+Eastern Pharmacy Aranui,49.0,True,Canterbury,-43.5172734,172.7021029,Community
+Chemist Warehouse Cameron Road,77.0,True,Bay of Plenty,-37.6884518,176.1655767,Community
+Greenlane Clinical Centre Pharmacy,45.0,True,Auckland,-36.89418340212811,174.7805768251419,Community
+Unichem Onehunga Centre Pharmacy,55.0,True,Auckland,-36.9233319,174.7836727,Community
+Unichem Hobsonville Pharmacy,64.5,True,Waitematā,-36.7979235,174.6485436,Community
+Parkside Pharmacy,53.5,True,Canterbury,-43.5338089,172.62395549999997,Community
+East Tāmaki Pharmacy,45.5,True,Counties Manukau,-36.9609433,174.88799849999998,Community
+ibuy pharmacy,63.0,True,Counties Manukau,-37.1902944,174.9033244,Community
+Ray Pharmacy Meadowbank,57.75,True,Auckland,-36.87587749999999,174.82816460000004,Community
+Hutt City Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.2069807,174.9090734,Community
+Life Pharmacy Commercial Bay,58.0,True,Auckland,-36.8436816,174.7660924,Community
+Methven Pharmacy,49.0,False,Canterbury,-43.63366449999999,171.64693409999995,Community
+Waipapa Unichem Pharmacy,40.0,True,Northland,-35.2105923,173.9182027,Community
+Manurewa Medical Centre Pharmacy,49.0,True,Counties Manukau,-37.020321,174.89554199999998,Community
+Woolworths Pharmacy Newtown,59.0,True,"Capital, Coast and Hutt Valley",-41.3073735,174.7774446,Community
+Unichem The Mall Pharmacy,57.0,True,Lakes,-38.140970986257976,176.2514841556549,Community
+Unichem Rototuna Pharmacy,89.0,True,Waikato,-37.72903700000001,175.274186,Community
+Bargain Chemist Whangaparāoa,84.0,True,Waitematā,-36.6363653,174.74791979999998,Community
+Antidote Cromwell,48.0,True,Southern,-45.0373503,169.19655769999997,Community
+Life Pharmacy Bayfair,69.0,True,Bay of Plenty,-37.67529489999999,176.22276290000002,Community
+Westview Pharmacy,48.5,True,Waitematā,-36.91035369999999,174.64981710000006,Community
+Pollen Street Pharmacy,42.5,True,Waikato,-37.14214209999999,175.54400429999998,Community
+Campus Pharmacy Waikato,51.0,True,Waikato,-37.789244,175.31075429999999,Community
+Phoenix Pharmacy 2001,54.0,True,Bay of Plenty,-37.9543265,176.9936754,Community
+Waipu Pharmacy,47.0,True,Northland,-35.9846759,174.4460508,Community
+Chemist Warehouse Glen Innes,91.0,True,Auckland,-36.8744099,174.85333179999998,Community
+Unichem Mangere Medical Pharmacy,50.0,True,Counties Manukau,-36.9567364,174.83386180000002,Community
+Chemist Warehouse Flat Bush,89.0,True,Counties Manukau,-36.9648928,174.9024469,Community
+Unichem Queen St Pharmacy,66.0,True,Auckland,-36.8501651,174.7649312,Community
+Unichem Point Chevalier Pharmacy,49.0,True,Auckland,-36.8705495,174.7104319,Community
+Waimauku Pharmacy - Silver Fern,61.5,True,Waitematā,-36.766553,174.4945727,Community
+Unichem Hamilton East Pharmacy,50.0,True,Waikato,-37.7896314,175.29238409999994,Community
+Unichem Sunnynook Pharmacy,59.0,True,Waitematā,-36.7587156,174.74128500000006,Community
+Ormiston Kiwi Chemist,46.5,True,Counties Manukau,-36.96631679999999,174.9131364,Community
+Unichem Papakura Pharmacy,49.0,True,Counties Manukau,-37.0651675,174.94372169999997,Community
+North Avon Pharmacy,47.5,True,Canterbury,-43.5177969,172.65391650000004,Community
+Unichem Karaka Pharmacy,51.5,True,Counties Manukau,-37.0740095,174.92298030000006,Community
+Tahunanui Pharmacy,47.0,True,Nelson Marlborough,-41.2811762,173.24970859999996,Community
+Langs Pharmacy,42.5,True,Wairarapa,-41.116791,175.32387749999998,Community
+Unichem Huapai Pharmacy,51.5,True,Waitematā,-36.7726015,174.5455121,Community
+Greenlane Care Pharmacy,42.5,True,Auckland,-36.8904644,174.7936289,Community
+Great Barrier Island Pharmacy,20.0,True,Auckland,-36.243011,175.46353190000002,Community
+Life Pharmacy Orrs,54.25,True,Northland,-35.725773,174.32092439999997,Community
+Birkenhead 7 Day Pharmacy,77.5,True,Waitematā,-36.81234413933998,174.72591340541842,Community
+Unichem Shotover Pharmacy,45.0,True,Southern,-45.0018828,168.7817782,Community
+Te Rau Rongoā ki Ruahine - Pharmacy on Ruahine (Palmerston North Hospital Pharmacy),45.5,True,MidCentral,-40.33893860000001,175.62062079999998,Community
+Belmont Pharmacy,49.0,True,Waitematā,-36.8078702,174.78973930000006,Community
+Highbrook Pharmacy,45.0,True,Counties Manukau,-36.9369806,174.8802871,Community
+SaveMart Pharmacy,52.5,True,Auckland,-36.9025975,174.7423675,Community
+Owhata Medical Centre Pharmacy,45.0,True,Lakes,-38.1308092,176.30012540000007,Community
+Roses Unichem Pharmacy,47.5,True,MidCentral,-40.3492282,175.6235943,Community
+Unichem Marsden Village Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.282739,174.74540690000003,Community
+Alexander Pharmacy,50.0,True,"Capital, Coast and Hutt Valley",-41.2915274,174.77357670000004,Community
+Woolworths Pharmacy Ashburton South,62.0,True,Canterbury,-43.9085124,171.74182159999998,Community
+Antidote Macandrew,40.0,True,Southern,-45.89713,170.49892599999998,Community
+Antidote Queenstown,61.0,True,Southern,-45.0128748,168.74337689999993,Community
+Antidote Lake Dunstan,40.0,True,Southern,-45.0365052,169.1972962,Community
+Takanini Urgent Pharmacy,60.0,True,Counties Manukau,-37.0395903,174.9148348,Community
+Unichem Buchanans Pharmacy,49.0,True,Northland,-35.68292889999999,174.32198019999998,Community
+Unichem Lincoln Road Pharmacy,49.5,True,Canterbury,-43.5528734,172.5965675,Community
+Unichem Knox Pharmacy,58.0,True,Southern,-45.8678529,170.5073532,Community
+James Village Pharmacy (previously Girven Road Pharmacy),46.0,True,Bay of Plenty,-37.6871252,176.2447017,Community
+Auckland Central Pharmacy ,60.0,True,Auckland,-36.8487579,174.748918,Community
+Unichem Neills Pharmacy,55.75,True,Auckland,-36.90837610000001,174.83738790000007,Community
+St Lukes Medical Pharmacy,62.0,True,Auckland,-36.88177290000001,174.7315122,Community
+Unichem Munroe St. Pharmacy,66.0,True,Hawke's Bay,-39.4941981,176.9149348,Community
+Waitakere Hospital Outpatients Pharmacy,45.0,True,Waitematā,-36.869304944873,174.6293592453003,Community
+Unichem Maidstone Pharmacy,58.0,True,"Capital, Coast and Hutt Valley",-41.124592,175.0680507,Community
+Unichem Medical Corner Pharmacy,60.0,True,Canterbury,-43.304131,172.5919847,Community
+Bentley Ave Pharmacy,59.0,True,Waitematā,-36.7810017,174.7219662,Community
+Life Pharmacy Manukau,67.5,True,Counties Manukau,-36.990874450361204,174.88170644254473,Community
+University Pharmacy Canterbury,45.0,True,Canterbury,-43.5237542,172.58274200000005,Community
+Unichem Molesworth Pharmacy,47.5,True,"Capital, Coast and Hutt Valley",-41.2758256,174.77822179999998,Community
+Unichem Kope Pharmacy,44.5,True,Bay of Plenty,-37.9617659,176.98199350000004,Community
+Pharmacy at Quay Park,56.0,True,Auckland,-36.8476598,174.77435220000007,Community
+Millhouse Pharmacy,54.0,True,Counties Manukau,-36.9190524,174.91793159999997,Community
+Marshlands Family Pharmacy,45.0,True,Canterbury,-43.4748818,172.65925219999997,Community
+Life Pharmacy Eastridge,64.0,True,Auckland,-36.8600658,174.8303719,Community
+Unichem Highfield Mall Pharmacy,51.0,True,South Canterbury,-44.3901301,171.22647959999995,Community
+Forrest Hill Family Pharmacy,46.5,True,Waitematā,-36.76048859999999,174.74672150000004,Community
+Unichem Central Pharmacy Rotorua,59.5,True,Lakes,-38.1355099,176.24836789999995,Community
+Antidote Mornington,46.0,True,Southern,-45.8822846,170.4826778,Community
+Alexandra Pharmacy,46.0,True,Southern,-45.252134,169.38873549999994,Community
+Bargain Chemist Westgate,84.0,True,Waitematā,-36.8128136,174.6010766,Community
+Freemans Bay Pharmacy,46.0,True,Auckland,-36.8520937,174.75105310000004,Community
+Henderson Valley Pharmacy,45.0,True,Waitematā,-36.8974788,174.6137612,Community
+Glen Eden Pharmacy,49.0,True,Waitematā,-36.91029229999999,174.65176109999993,Community
+Unichem Ponsonby Pharmacy,63.5,True,Auckland,-36.84825850000001,174.74431019999997,Community
+Airport Oaks Pharmacy,62.5,True,Counties Manukau,-36.9714065,174.785845,Community
+Life Pharmacy Masterton,53.0,True,Wairarapa,-40.9499064,175.66120780000006,Community
+Unichem Botany Junction Pharmacy,59.0,True,Counties Manukau,-36.9650376,174.90342280000004,Community
+Pharmacy On Shakespeare,47.5,True,Waitematā,-36.7814666,174.75346460000003,Community
+New Lynn West Pharmacy,49.0,True,Waitematā,-36.9144178,174.67128630000002,Community
+Woolworths Pharmacy Hobsonville,77.0,True,Waitematā,-36.7979235,174.6485436,Community
+Unichem Roskill Village Pharmacy,50.5,True,Auckland,-36.92089550000001,174.7362352,Community
+Unichem One Tree Hill Pharmacy,35.0,True,Auckland,-36.8995031,174.80347299999994,Community
+Unichem Martinborough Pharmacy,51.5,True,Wairarapa,-41.2194696,175.46071129999996,Community
+Unichem Weiti Pharmacy,55.0,True,Waitematā,-36.6204213,174.6715545,Community
+Johnsonville Medical Centre Pharmacy,56.5,True,"Capital, Coast and Hutt Valley",-41.2218158,174.8062552,Community
+Parkside Pharmacy on Oxford Terrace,42.5,True,Canterbury,-43.5350229,172.629471,Community
+Unichem Glenview Pharmacy,48.0,False,Waikato,-37.8173419,175.28261199999997,Community
+Unichem Johns Photo Pharmacy,62.0,True,Bay of Plenty,-37.6891696,176.16524900000002,Community
+West Harbour Pharmacy,45.0,False,Waitematā,-36.81850929999999,174.62911680000002,Community
+Bargain Chemist Manukau,84.0,True,Counties Manukau,-36.990080788675776,174.87258048347803,Community
+Ngongotaha Pharmacy,45.0,True,Lakes,-38.0808233,176.213585,Community
+Royal Oak Pharmacy,94.5,True,Auckland,-36.9112206,174.77569489999996,Community
+Medplus Pharmacy,53.0,True,Waitematā,-36.7976547,174.77908360000004,Community
+Paihia Pharmacy,54.5,True,Northland,-35.282111,174.09110050000004,Community
+Hunters Corner Medical Centre Pharmacy,45.5,True,Counties Manukau,-36.9696948,174.86272239999994,Community
+Owles Unichem Pharmacy - Naenae,51.5,True,"Capital, Coast and Hutt Valley",-41.1986618,174.94873229999996,Community
+Wanacare Pharmacy,50.5,True,Southern,-44.7092015,169.1361175,Community
+Unichem Pakuranga Pharmacy,52.5,True,Counties Manukau,-36.91531839999999,174.8728314,Community
+Botany Superclinic Pharmacy Kiwi Chemist,98.0,True,Counties Manukau,-36.9223969,174.91370040000004,Community
+Christchurch South Pharmacy (Hardings Pharmacy),46.25,True,Canterbury,-43.5560969,172.63659719999998,Community
+Panmure Pharmacy,45.0,True,Auckland,-36.9009279,174.85735060000002,Community
+Unichem Kauri Healthcare Pharmacy,45.0,True,MidCentral,-40.33812950000001,175.6318437,Community
+Life Pharmacy Birkenhead,62.0,True,Waitematā,-36.81225850000001,174.72502889999998,Community
+Chemist Warehouse Bayfair,91.0,True,Bay of Plenty,-37.674788820835964,176.22412778558203,Community
+Unichem Manly Pharmacy,52.5,True,Waitematā,-36.63142500000001,174.76342499999998,Community
+Unichem Tuakau Pharmacy,48.5,True,Waikato,-37.2601873,174.94639670000004,Community
+Unichem Torbay Pharmacy,54.0,True,Waitematā,-36.6954981,174.7515494,Community
+Tui Pharmacy Te Rapa,84.0,True,Waikato,-37.7576428,175.24689890000002,Community
+Unichem Chemist Shop,60.0,True,MidCentral,-40.35956530000001,175.61116470000002,Community
+Woolworths Pharmacy Rototuna,59.0,True,Waikato,-37.7225037,175.2583417,Community
+Unichem Russell Street Pharmacy,67.0,True,Hawke's Bay,-39.64262540000001,176.8428173,Community
+Richmond Road Pharmacy,54.0,True,Auckland,-36.8588823,174.73139089999995,Community
+Woolworths Pharmacy Dunedin Central,77.0,True,Southern,-45.87383479999999,170.5062964,Community
+Chemist Warehouse Milford,75.0,True,Waitematā,-36.7720008,174.7661176,Community
+John Poswillo Pharmacy Ltd,51.5,True,Nelson Marlborough,-41.517338,173.95766300000003,Community
+Henderson Medical Centre Pharmacy,58.0,True,Waitematā,-36.8809061,174.6377966,Community
+Raumati Road Pharmacy Ltd,49.0,True,"Capital, Coast and Hutt Valley",-40.9191468,174.98178329999996,Community
+Chemist Warehouse Auckland - Lower Queen St,91.0,True,Auckland,-36.84754,174.7654835,Community
+Cranford Pharmacy,54.0,True,Canterbury,-43.5153373,172.63765039999998,Community
+Unichem Family Healthcare Pharmacy,52.5,True,Auckland,-36.92981899999999,174.84260770000003,Community
+Ewart Douglas Pharmacy,42.25,True,Canterbury,-43.5090503,172.5888208,Community
+Roberts Pharmacy,64.5,True,South Canterbury,-44.4014388,171.25162420000004,Community
+Unichem Ti Rakau Drive Pharmacy,50.0,True,Counties Manukau,-36.9265863,174.8978581,Community
+Turuki Pharmacy Panmure,45.0,True,Auckland,-36.8993291,174.85365490000004,Community
+Unichem Burwood Hospital Pharmacy,42.5,True,Canterbury,-43.47935080000001,172.68199170000003,Community
+Unichem Bealey Avenue Pharmacy,91.0,True,Canterbury,-43.5211494,172.64190259999998,Community
+Tairua-Pauanui Pharmacy,49.0,True,Waikato,-37.00206420000001,175.84881540000003,Community
+Woolworths Pharmacy Lynfield,77.0,True,Auckland,-36.92473469999999,174.72235460000002,Community
+Unichem Motueka Pharmacy,48.5,True,Nelson Marlborough,-41.1112562,173.01082180000003,Community
+Chemist Warehouse Lambton Quay,87.0,True,"Capital, Coast and Hutt Valley",-41.2839605,174.7751931,Community
+Marsden Cove Pharmacy,48.0,True,Northland,-35.8391824,174.4664333,Community
+Hillcrest Healthcare Pharmacy,50.5,True,Waikato,-37.7990315,175.3164842,Community
+Unichem Wellington Central Pharmacy,42.5,True,"Capital, Coast and Hutt Valley",-41.2823898,174.77536759999998,Community
+Chemist Warehouse Chartwell,79.0,True,Waikato,-37.750353,175.2788163,Community
+Chemist Warehouse Hastings,91.0,True,Hawke's Bay,-39.6417861,176.8493814,Community
+Chemist Warehouse Henderson,91.0,True,Waitematā,-36.8818969,174.6351565,Community
+Chemist Warehouse Kilbirnie,91.0,True,"Capital, Coast and Hutt Valley",-41.3185228,174.7950308,Community
+Chemist Warehouse Nelson Junction,84.0,True,Nelson Marlborough,-41.2992466,173.2399233,Community
+Woolworths Pharmacy Petone,42.5,True,"Capital, Coast and Hutt Valley",-41.22327990000001,174.87196070000005,Community
+Chemist Warehouse Pakuranga,72.5,True,Counties Manukau,-36.91082370000001,174.8715457,Community
+Chemist Warehouse Papanui,91.0,True,Canterbury,-43.4937129,172.6066281,Community
+Chemist Warehouse Porirua,91.0,True,"Capital, Coast and Hutt Valley",-41.1300105,174.838066,Community
+Chemist Warehouse Pukekohe Town Centre,71.5,True,Counties Manukau,-37.1987769,174.9036228,Community
+Chemist Warehouse Silverdale,70.5,True,Waitematā,-36.6136569,174.67908490000002,Community
+Chemist Warehouse Rotorua ,84.0,True,Lakes,-38.139667,176.2485532,Community
+Chemist Warehouse South City Shopping Centre,91.0,True,Canterbury,-43.53836699999999,172.63529500000004,Community
+Chemist Warehouse The Valley,91.0,True,Taranaki,-39.0468955,174.1158224,Community
+Chemist Warehouse Wairau Valley,75.0,True,Waitematā,-36.77902960000001,174.742146,Community
+Chemist Warehouse Warkworth ,77.0,False,Waitematā,-36.4420509,174.5820466,Community
+Chemist Warehouse Whanganui,70.5,True,Whanganui,-39.9348178,175.0552524,Community
+Woolworths Pharmacy Silverdale,59.0,True,Waitematā,-36.6136569,174.67908490000002,Community
+Whangamata Pharmacy,54.0,True,Waikato,-37.2068112,175.87129230000005,Community
+Chemist Warehouse The Base,98.0,True,Waikato,-37.74946713268229,175.23473381996155,Community
+Geraldine Pharmacy,54.5,True,South Canterbury,-44.09114359999999,171.24367200000006,Community
+Woolworths Pharmacy Belfast,71.0,True,Canterbury,-43.4482854,172.6297527,Community
+Gees Pharmacy,52.0,True,Hawke's Bay,-39.53599699999999,176.8480463,Community
+Unichem Whanganui Pharmacy,60.0,True,Whanganui,-39.9317726,175.0218188,Community
+Unichem Hamilton Pharmacy,87.5,True,Waikato,-37.7914843,175.2827947,Community
+Waipawa Pharmacy,43.5,True,Hawke's Bay,-39.9440661,176.5869543,Community
+Balmoral Pharmacy,63.0,True,Auckland,-36.88926662877921,174.74655836820602,Community
+Unichem Westown Pharmacy,48.0,True,Taranaki,-39.071579,174.0621954,Community
+Waihemo Pharmacy,42.5,True,Southern,-45.48472760000001,170.71578439999996,Community
+Hataitai Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.3043254,174.7937941,Community
+Ohope Beach Pharmacy,53.5,True,Bay of Plenty,-37.972356,177.05840090000004,Community
+Wairoa Pharmacy,47.5,True,Hawke's Bay,-39.03411619290385,177.41838455200195,Community
+Silverstream Pharmacy,55.5,True,"Capital, Coast and Hutt Valley",-41.147726,175.01178800000002,Community
+Mahora Pharmacy,45.5,True,Hawke's Bay,-39.6287561,176.8502045,Community
+Unichem Bishopdale Pharmacy,54.0,True,Canterbury,-43.4887925,172.5874003,Community
+Unichem Kerikeri Pharmacy,49.0,True,Northland,-35.2283886,173.94781910000006,Community
+Unichem Kerimed Pharmacy,40.0,True,Northland,-35.2325377,173.9451328,Community
+Woolworths Pharmacy Bayfair,59.0,True,Bay of Plenty,-37.674788820835964,176.22412778558203,Community
+Burns Pharmacy,45.5,False,"Capital, Coast and Hutt Valley",-41.226348,174.88128489999997,Community
+Life Pharmacy Johnsonville,59.0,True,"Capital, Coast and Hutt Valley",-41.2238274,174.8062711,Community
+Alberton Pharmacy,42.5,True,Auckland,-36.8850218,174.73570369999993,Community
+HealthWorks Pharmacy Depot - Hanmer Springs,0.0,False,Canterbury,-42.5201144,172.8291921,Depot
+Life Pharmacy Ashburton,45.5,True,Canterbury,-43.9047352,171.74738330000002,Community
+Unichem Rolleston Central Pharmacy,61.5,True,Canterbury,-43.5938932,172.3874769,Community
+Unichem Brighton Village Pharmacy,53.0,True,Canterbury,-43.50721739999999,172.72672769999997,Community
+Graeme Avenue Pharmacy,51.75,True,Counties Manukau,-36.9725434,174.83410189999995,Community
+Pukekohe Plaza Pharmacy,60.0,True,Counties Manukau,-37.2017804,174.9023068,Community
+Tolaga Bay Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-38.37314440000001,178.29706399999998,Depot
+Tokomaru Bay Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-38.1303443,178.3149956,Depot
+Woolworths Pharmacy Greenlane,69.0,True,Auckland,-36.8893605,174.79361159999996,Community
+Life Pharmacy The Plaza,59.5,True,MidCentral,-40.35693450000001,175.61323749999997,Community
+Woolworths Pharmacy Whangarei - Okara Park,51.0,True,Northland,-35.7308613,174.3262351,Community
+Unichem Huntly Pharmacy (formerly Pharmacy on Main Ltd),41.75,True,Waikato,-37.5578747,175.15855269999997,Community
+Unichem Parklands Medical Pharmacy,47.5,True,Canterbury,-43.4792332,172.69102199999998,Community
+Unichem Moorhouse Pharmacy,51.0,True,Canterbury,-43.5409237,172.6397687,Community
+Unichem Otumoetai Pharmacy,42.5,True,Bay of Plenty,-37.6666236,176.1394904,Community
+RedHills Pharmacy,42.5,False,Waitematā,-36.8365382,174.6011209,Community
+Unichem University Pharmacy,35.0,True,"Capital, Coast and Hutt Valley",-41.28848329999999,174.769051,Community
+Unichem Taumarunui Pharmacy,45.5,True,Waikato,-38.8833156,175.2636089,Community
+Central City Pharmacy,42.5,True,Whanganui,-39.9325024,175.0508297,Community
+Guardian Pharmacy Stanmore Bay (previously Unichem Stanmore Bay),68.5,True,Waitematā,-36.628338,174.731454,Community
+Chemist Warehouse Takanini,70.5,True,Counties Manukau,-37.0478338,174.9251033,Community
+Chemist Warehouse Westfield Riccarton,80.0,True,Canterbury,-43.5310205,172.597776,Community
+Chemist Warehouse Ratanui Street,70.5,True,Waitematā,-36.877991460329746,174.63242816552702,Community
+Chemist Warehouse Westgate Lifestyle Centre,73.5,True,Waitematā,-36.8137,174.6095405,Community
+Chemist Warehouse Hornby ,84.0,True,Canterbury,-43.5419784,172.5241085,Community
+Unichem Tokoroa Pharmacy,49.0,True,Waikato,-38.2183717,175.87271199999998,Community
+Unichem Family Health Pharmacy - Cambridge,45.0,True,Waikato,-37.8895152,175.4539427,Community
+Shorecare Pharmacy,101.5,True,Waitematā,-36.784107938385745,174.7535079717636,Community
+Unichem Cambridge Medical Centre Pharmacy,45.0,True,Waikato,-37.89361799999999,175.46566099999995,Community
+Dawson Road Pharmacy,84.0,True,Counties Manukau,-36.9769806,174.8961312,Community
+Ohakune Healthcare Depot,41.5,False,Whanganui,-39.4171875,175.39932290000002,Depot
+Halswell Pharmacy,47.5,True,Canterbury,-43.5743839,172.56777639999996,Community
+Sylvan Bank Pharmacy,45.5,True,Southern,-46.408714,168.36451450000004,Community
+Browns Community Pharmacy Kaitaia,48.0,True,Northland,-35.112382,173.2625974,Community
+Devon West Pharmacy,48.0,True,Taranaki,-39.0615491,174.06279819999997,Community
+Wairau Pharmacy,45.0,True,Nelson Marlborough,-41.515842,173.95715569999993,Community
+Life Pharmacy NorthWest,66.0,True,Waitematā,-36.8185011,174.611662,Community
+Pharmacy @ Bell Block,45.5,True,Taranaki,-39.028794,174.149673,Community
+South City Health Pharmacy,45.0,True,Waikato,-37.8083426,175.27139239999997,Community
+Unichem Waiuku Medical Pharmacy,51.75,True,Counties Manukau,-37.2526076,174.7254347,Community
+Lincoln Pharmacy,48.5,True,Canterbury,-43.6400886,172.48398729999997,Community
+Catlins Health & Gifts ,40.0,False,Southern,-46.451668,169.6579131,Community
+Lambs Pharmacy & Natural Therapies Centre,52.0,True,Auckland,-36.8578648,174.76025140000002,Community
+Linwood Village Pharmacy,40.0,True,Canterbury,-43.53106664832302,172.65679998710254,Community
+Westmere Pharmacy,52.5,True,Auckland,-36.8544745,174.7184784,Community
+Unichem Wynyard Pharmacy,42.5,True,Auckland,-36.8446092,174.75483459999998,Community
+Newton A-Z Pharmacy,42.0,True,Auckland,-36.8579533,174.75688560000003,Community
+Takapuna Pharmacy,42.5,True,Waitematā,-36.7898548,174.7726303,Community
+Allen's Village Pharmacy,51.5,True,Waitematā,-36.7759751,174.55597179999995,Community
+Unichem Campus Pharmacy,47.0,True,Auckland,-36.85202199999999,174.76990769999998,Community
+Chemist Warehouse Glenfield Mall,91.0,False,Waitematā,-36.78204139999999,174.7220515,Community
+Maunganui Road Pharmacy,44.75,True,Bay of Plenty,-37.644999,176.1899352,Community
+Chemist Warehouse Westfield Manukau,91.0,True,Counties Manukau,-36.990874450361204,174.88170644254473,Community
+Epsom Pharmacy 2008 Ltd,54.25,True,Auckland,-36.90601319999999,174.7742012,Community
+Newlands Pharmacy,49.5,True,"Capital, Coast and Hutt Valley",-41.2232664,174.82265170000005,Community
+Life Pharmacy St Heliers (Formerly known as St Heliers Bay Pharmacy),60.5,True,Auckland,-36.8510109,174.85752389999993,Community
+Glenfield 7 Day Pharmacy Ltd,92.0,True,Waitematā,-36.7811474,174.72168729999999,Community
+Unichem Pāpāmoa Pharmacy,42.5,True,Bay of Plenty,-37.7013066,176.282366,Community
+Vivian Pharmacy,68.5,True,Taranaki,-39.0618726,174.06800380000004,Community
+St Albans Pharmacy,42.5,True,Canterbury,-43.5135859,172.6363917,Community
+Mountainview Pharmacy,48.0,True,Taranaki,-39.5873099,174.28044260000001,Community
+Tui Pharmacy Parkwood ,42.5,True,Waikato,-37.748637,175.29345020000005,Community
+Life Pharmacy Rangiora,55.5,True,Canterbury,-43.3035944,172.59362099999998,Community
+Life Pharmacy Meadowbank,56.5,True,Auckland,-36.87587749999999,174.82816460000004,Community
+Life Pharmacy Albany,67.5,True,Waitematā,-36.7281522,174.7079397,Community
+Life Pharmacy Tauranga,56.0,True,Bay of Plenty,-37.6857803,176.16923999999995,Community
+Duncan's Pharmacy,66.0,True,Wairarapa,-40.9584899,175.6482752,Community
+Unichem Stokes Valley Pharmacy,51.5,True,"Capital, Coast and Hutt Valley",-41.17385959999999,174.9819066,Community
+Albany St Pharmacy,48.0,True,Southern,-45.8661204,170.5087744,Community
+Chemist Warehouse Meridian Mall,82.0,True,Southern,-45.87021809999999,170.505518,Community
+Amberley Pharmacy,48.75,True,Canterbury,-43.1568177,172.73038580000002,Community
+Maunu Pharmacy Limited,49.0,True,Northland,-35.7342485,174.30571510000004,Community
+Unichem Main Street Pharmacy,60.5,True,Counties Manukau,-36.8936851,174.93084010000007,Community
+Life Pharmacy Centre City,62.5,True,Southern,-45.8720041,170.5074182,Community
+Buller Pharmacy,45.5,True,West Coast,-41.7545327,171.59845270000005,Community
+Unichem Te Kuiti Pharmacy,43.0,True,Waikato,-38.3339748,175.16491989999997,Community
+Akaroa Pharmacy,47.5,True,Canterbury,-43.8084776,172.9635422,Community
 Unichem Katikati Pharmacy,46.5,True,Bay of Plenty,-37.55287719999999,175.9173594,Community
 Fairfield Pharmacy,45.5,True,Waikato,-37.7716146,175.28273890000003,Community
+Bays Health Pharmacy,53.0,True,Waitematā,-36.7140995,174.74629100000004,Community
+Pharmacy @ Ferrymead,54.5,True,Canterbury,-43.5568743,172.70126779999998,Community
+Shirley Dispensary,48.75,True,Canterbury,-43.50695410000001,172.66245159999994,Community
+3 Kings Plaza Pharmacy,68.5,True,Auckland,-36.908797482930694,174.75537917672114,Community
+Weymouth Whanau Pharmacy,44.0,True,Counties Manukau,-37.0430362,174.8655899,Community
+Northcote Unichem Pharmacy,45.0,True,Waitematā,-36.8015949,174.74560380000003,Community
+Maungaraki Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.2080139,174.87831689999996,Community
+Unichem Havelock North Pharmacy,45.5,True,Hawke's Bay,-39.6695548,176.87818549999997,Community
+Life Pharmacy Northlands,68.0,True,Canterbury,-43.4943164,172.6097578,Community
+Eastmed Pharmacy,51.0,True,Auckland,-36.8621229,174.8588211,Community
+Papakura Marae Pharmacy,38.0,True,Counties Manukau,-37.07020840000001,174.95916680000005,Community
+Unichem Kamo Dispensary,45.0,True,Northland,-35.6830771,174.29935339999997,Community
+Village Pharmacy Khandallah,48.5,True,"Capital, Coast and Hutt Valley",-41.2470271,174.79160390000004,Community
+Opotiki Pharmacy,57.5,True,Bay of Plenty,-38.00523469999999,177.2847276,Community
+Unichem Waikiwi Pharmacy,48.0,True,Southern,-46.3771612,168.3470402,Community
+Life Pharmacy Napier City,56.0,True,Hawke's Bay,-39.4906483,176.9168696,Community
+Meadowbank Corner Chemist,46.0,True,Auckland,-36.87333599999999,174.82886359999998,Community
+Lambton Square Pharmacy,54.0,True,"Capital, Coast and Hutt Valley",-41.2818124,174.77562549999993,Community
+Juliet Ave Pharmacy,45.0,True,Counties Manukau,-36.8949973,174.9170706,Community
+Woolworths Pharmacy Rolleston,77.0,True,Canterbury,-43.5947243,172.3865479,Community
+Leeston Pharmacy,45.0,True,Canterbury,-43.762551,172.29818,Community
+Stratford Pharmacy,44.5,True,Taranaki,-39.3390255,174.2843037,Community
+Care Pharmacy at Totara,40.0,True,Hawke's Bay,-39.6371595,176.8440031,Community
+Unichem Whangaparāoa Family Pharmacy,47.5,True,Waitematā,-36.6347136,174.739765,Community
+Crawford House Pharmacy,52.5,True,Counties Manukau,-36.8919603,174.92929049999998,Community
+Devonport 1st Pharmacy (Formerly known as Devonport/Wigmores Pharmacy),61.5,True,Waitematā,-36.8310873,174.79721889999996,Community
+Unichem Orrs Pharmacy Maungaturoto,40.0,True,Northland,-36.11037045723121,174.35408413410187,Community
+St Heliers Pharmacy,65.0,True,Auckland,-36.8514166,174.85738609999999,Community
+Prohealth Panmure Pharmacy (previously known as Health Star Pharmacy Ltd),44.0,True,Auckland,-36.9009216,174.85680909999996,Community
+Tui Ora Pharmacy,41.5,True,Taranaki,-39.0686943,174.06794809999997,Community
+Unichem Glenview Medical Pharmacy,42.5,True,Waikato,-37.8168604,175.28300209999998,Community
+Unichem High Street Pharmacy,47.5,True,"Capital, Coast and Hutt Valley",-41.21067300000001,174.9002448,Community
+Woolworths Pharmacy Fraser Cove,59.0,True,Bay of Plenty,-37.71352220000001,176.1517394,Community
+Kaiapoi North Pharmacy,48.0,True,Canterbury,-43.3814253,172.65806079999993,Community
+Kaiapoi Crossing Pharmacy,45.0,False,Canterbury,-43.3852513,172.65721600000006,Community
+Pharmville on St Albans Pharmacy,37.5,False,Auckland,-36.88316220000001,174.74846350000007,Community
+Remuera Pharmacy,49.5,True,Auckland,-36.8807607,174.79802829999994,Community
+Unichem The Palms Pharmacy,50.5,True,MidCentral,-40.3565526,175.61946680000005,Community
+Patea  Pharmacy,42.5,True,Taranaki,-39.7562441,174.47394310000004,Community
+Unichem Wigram Pharmacy,53.0,True,Canterbury,-43.552819,172.5571268,Community
+Unichem Warkworth Pharmacy,51.5,True,Waitematā,-36.3993913,174.66614549999997,Community
+Sean Shivnan Pharmacy,63.5,True,Tairāwhiti,-38.655503,178.0077256,Community
+Unichem Brooklyn Pharmacy,52.0,True,"Capital, Coast and Hutt Valley",-41.30539379999999,174.76379799999995,Community
+Unichem Elmwood Pharmacy,45.0,True,Canterbury,-43.50974979999999,172.6066399,Community
+Unichem Greerton Pharmacy,48.5,True,Bay of Plenty,-37.7263859,176.13331010000002,Community
+Pharmacy Now,42.5,True,Canterbury,-43.5477785,172.561616,Community
+Marton Pharmacy,45.0,True,Whanganui,-40.0686732,175.37844280000002,Community
+Unichem Westcity Pharmacy,67.5,True,Waitematā,-36.880822,174.63275999999996,Community
+Pharmacy on Hurstmere (formerly Takapuna Clinic Pharmacy),45.0,True,Waitematā,-36.7863919,174.77311209999993,Community
+Anglesea Pharmacy,90.0,True,Waikato,-37.79256728116026,175.28310811667177,Community
+Kawakawa Pharmacy,45.0,True,Northland,-35.380107,174.06775300000004,Community
+Unichem Manurewa Pharmacy,49.0,True,Counties Manukau,-37.0219826,174.89711179999995,Community
+Life Pharmacy Kapiti Coast,52.0,True,"Capital, Coast and Hutt Valley",-40.9159633,175.0066267,Community
+Pharmacy 547,45.0,True,Waikato,-37.792204,175.2837684,Community
+Unichem Kopata Pharmacy,42.5,False,"Capital, Coast and Hutt Valley",-41.2088214,174.90865280000003,Community
+McGlashen Pharmacy Ltd,48.0,True,Nelson Marlborough,-41.3405817,173.1842105,Community
+Berrys Tararua Pharmacy,45.0,True,MidCentral,-40.623645,175.29071909999993,Community
+Swanson Pharmacy,51.5,True,Waitematā,-36.8658795,174.57986729999993,Community
+Unichem Southcity Pharmacy,45.5,True,Southern,-46.4272605,168.3616579,Community
+Beckford Health Pharmacy,45.0,True,Canterbury,-43.55840155,172.65575502846855,Community
+Silverstream Kaiapoi Pharmacy,42.5,True,Canterbury,-43.38123969999999,172.6362604,Community
+Pharmacy Westend Ltd,45.0,True,Lakes,-38.1452919,176.2377508,Community
+Unichem Fenwicks Pharmacy,52.5,True,Canterbury,-43.38309719999999,172.65671229999998,Community
+Unichem Fifth Avenue Pharmacy,50.5,True,Bay of Plenty,-37.69277819999999,176.16391959999999,Community
+Gonville Pharmacy,42.5,True,Whanganui,-39.9392189,175.03386550000005,Community
+Eden Park Pharmacy,44.16666666666667,False,Auckland,-36.8778786,174.74095750000004,Community
+Howick House Pharmacy,47.5,True,Counties Manukau,-36.89577899999999,174.93117830000006,Community
+Northcote Family Pharmacy,47.5,False,Waitematā,-36.8011217,174.7457822,Community
+Tarawera Pharmacy,41.25,True,Bay of Plenty,-38.0905239,176.7007655,Community
+Chemist Warehouse Auckland Airport Shopping Centre,89.0,True,Counties Manukau,-36.9969282,174.78883199999996,Community
+Woolworths Pharmacy Browns Bay,63.0,True,Waitematā,-36.7168984,174.7466438,Community
+Robertsons Pharmacy Hawera,45.5,True,Taranaki,-39.5890479,174.2832989,Community
+NorthCare Thomas Road Pharmacy,46.25,True,Waikato,-37.73098749999999,175.27527020000002,Community
+Five Cross Roads Pharmacy,48.0,True,Waikato,-37.7714286,175.29263689999993,Community
+Berrys Health Centre Pharmacy,48.0,True,MidCentral,-40.6321284,175.28612959999998,Community
+Woolworths Pharmacy Cambridge,59.0,True,Waikato,-37.8924781,175.47002240000006,Community
+Pharmacy 257,42.5,True,Bay of Plenty,-37.6411737,176.18504970000004,Community
+Unichem Olsen's Pharmacy,49.0,True,West Coast,-42.4497378,171.2106761,Community
+Waimate Pharmacy,48.0,True,South Canterbury,-44.73334910000001,171.04696669999998,Community
+Liddells Pharmacy,48.5,True,Counties Manukau,-37.2005486,174.90268609999998,Community
+Unichem Panmure Pharmacy,50.0,True,Auckland,-36.8995836,174.85407570000007,Community
+Lakes Care Day Night Pharmacy,91.0,True,Lakes,-38.1351418,176.25131139999996,Community
+Fry's Pharmacy,45.0,True,Nelson Marlborough,-41.335131211972275,173.17955717035454,Community
+K-Town Pharmacy,40.0,True,Bay of Plenty,-38.0861347,176.70316130000003,Community
+Unichem Botany Pharmacy,49.5,True,Counties Manukau,-36.932606781491295,174.9132227897644,Community
 Māpua Pharmacy,46.0,True,Nelson Marlborough,-41.25305719999999,173.09564890000001,Community
+Life Pharmacy Franklin's,57.0,True,Waitematā,-36.3974348,174.66404809999995,Community
 Waitangirua Pharmacy,45.0,True,"Capital, Coast and Hutt Valley",-41.1305899,174.8800268,Community
+Feilding Health Pharmacy,45.0,True,MidCentral,-40.2165855,175.56990700000006,Community
 Darfield Pharmacy,48.0,True,Canterbury,-43.48931950000001,172.10996980000004,Community
+Pahiatua Pharmacy,45.0,True,MidCentral,-40.4528875,175.84155350000003,Community
 Netherby Pharmacy,42.5,True,Canterbury,-43.9033321,171.76257520000001,Community
+Carterton Pharmacy,47.5,True,Wairarapa,-41.0264073,175.5258202,Community
 Healthcare Pharmacy Rosedale,73.0,True,Waitematā,-36.7366451,174.7250436,Community
+Rust Avenue Pharmacy,42.5,True,Northland,-35.7235496,174.31822080000006,Community
 Burwood Pharmacy,43.0,True,Canterbury,-43.4953877,172.68846280000002,Community
+Unichem Medical Centre Pharmacy Taupo,42.5,True,Lakes,-38.68932580000001,176.07655309999996,Community
 Life Pharmacy St Lukes,67.5,True,Auckland,-36.8829818,174.73359749999997,Community
+Nga Hua Pharmacy,40.0,True,Waikato,-37.7518131,175.2943904,Community
+Unichem Papatoetoe Pharmacy,49.0,True,Counties Manukau,-36.9799477,174.85362110000005,Community
 Unichem Whangamata Pharmacy,54.0,True,Waikato,-37.2060237,175.8720108,Community
+Unichem Adamson's Pharmacy,53.5,True,Bay of Plenty,-37.9609997,176.9819936,Community
 Parkvale Pharmacy,52.5,True,Hawke's Bay,-39.6464145,176.8534665,Community
+Mazengarb Pharmacy,44.5,True,"Capital, Coast and Hutt Valley",-40.895528,175.009317,Community
+Porirua Pharmacy,48.0,True,"Capital, Coast and Hutt Valley",-41.1391833,174.85000220000006,Community
+Unichem Taradale Pharmacy,49.0,True,Hawke's Bay,-39.5364805,176.8484948,Community
 Titahi Bay Pharmacy,46.0,True,"Capital, Coast and Hutt Valley",-41.10860029999999,174.83741899999995,Community
+Unichem Greenmeadows Pharmacy,45.0,True,Hawke's Bay,-39.52287729999999,176.8687281,Community
 Health Plus Pharmacy,43.0,True,Counties Manukau,-36.9516035,174.8454967,Community
+Unichem Kilbirnie Pharmacy,54.0,True,"Capital, Coast and Hutt Valley",-41.3189819,174.79496300000005,Community
 Unichem Riccarton Clinic Pharmacy,65.5,True,Canterbury,-43.5315249,172.5718254,Community
+Counties Care Pharmacy,79.5,True,Counties Manukau,-37.0600374,174.9412909,Community
 Prochem Pharmacy,46.75,True,Auckland,-36.8943766,174.69669709999994,Community
 Gary Logan Pharmacy,48.25,True,Counties Manukau,-37.2005739,174.9047008,Community
+Avalon Medical Centre Pharmacy,50.5,True,"Capital, Coast and Hutt Valley",-41.19772620000001,174.9376836,Community
 Fendalton Mall Pharmacy,55.5,True,Canterbury,-43.5176848,172.5884026,Community
+Epsom Kiwi Chemist,40.0,True,Auckland,-36.8862775,174.77579079999998,Community
+Unichem Grays Pharmacy,45.75,True,Southern,-46.2382075,169.7381944,Community
 Avondale Family Chemist,47.5,True,Auckland,-36.891718,174.69625659999997,Community
+Te Puna Pharmacy,45.0,True,Bay of Plenty,-37.6954299,176.0731788,Community
+Unichem Otorohanga Pharmacy,48.5,True,Waikato,-38.1867455,175.21131119999995,Community
+Omaka Landing Pharmacy,45.0,True,Nelson Marlborough,-41.5295704,173.9339644,Community
 Lower Hutt Urgent Pharmacy,50.5,True,"Capital, Coast and Hutt Valley",-41.2030999,174.92825730000004,Community
+Village Pharmacy Churton Park,52.5,True,"Capital, Coast and Hutt Valley",-41.2019886,174.80827249999993,Community
 Stans 7 Day Pharmacy,66.0,True,Canterbury,-43.3019382,172.59564520000004,Community
+Bargain Chemist South Dunedin ,84.0,True,Southern,-45.8954313,170.5065951,Community
 QE2 Pharmacy Ltd,42.5,True,Canterbury,-43.49500860000001,172.7105798,Community
 Fairlie Health,42.5,False,South Canterbury,-44.0982328,170.82944650000002,Community
+Antidote Gardens,47.5,True,Southern,-45.8549341,170.5187562,Community
+Otahuhu Community Pharmacy,39.166666666666664,True,Auckland,-36.94441069999999,174.84672969999997,Community
 Moturoa Pharmacy,48.0,True,Taranaki,-39.0628726,174.0455568,Community
+Wainuiomata Pharmacy & Lotto,62.0,True,"Capital, Coast and Hutt Valley",-41.25979419999999,174.94213309999998,Community
+Unichem Milford Pharmacy,50.0,True,Waitematā,-36.77290120000001,174.76527450000003,Community
 Thames Centre Pharmacy,40.0,False,Waikato,-37.1378888,175.54517859999999,Community
+Gopal's Pharmacy,49.0,True,Auckland,-36.86470559999999,174.7376719,Community
+ProHealth Manukau Pharmacy,37.5,True,Counties Manukau,-36.9841389,174.87851920000003,Community
 Hamish Barham Pharmacy,42.5,True,MidCentral,-40.75288899999999,175.14046699999994,Community
+Your Pharmacy Mount Maunganui,55.0,True,Bay of Plenty,-37.67411999999999,176.22825999999998,Community
+Bates Pharmacy,47.25,True,Southern,-46.23777690000001,169.73927760000004,Community
 Unichem Putaruru Pharmacy,43.0,True,Waikato,-38.051914,175.77891650000004,Community
 Waterloo Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.21459469999999,174.9223174,Community
+Vaiola Pharmacy,48.0,True,Auckland,-36.924081,174.7814513,Community
+Antidote Meridian,56.5,True,Southern,-45.87021809999999,170.505518,Community
 WeCare Pharmacy Lincoln,45.0,True,Canterbury,-43.64181079999999,172.47490900000003,Community
+Unichem Health Centre Pharmacy Taupo,42.5,False,Lakes,-38.6892491,176.0761407,Community
 Woburn Pharmacy,54.5,True,"Capital, Coast and Hutt Valley",-41.22278180000001,174.91127619999997,Community
+Unichem Beerescourt Pharmacy,42.5,True,Waikato,-37.7701025,175.2635713,Community
+Comins Pharmacy,49.0,True,Waikato,-37.89415169999999,175.46883550000007,Community
 Woolworths Pharmacy Botany,77.0,True,Counties Manukau,-36.9301123,174.91095029999997,Community
+Gate Pa Village Pharmacy,54.0,True,Bay of Plenty,-37.71448150000001,176.1431996,Community
 Woolworths Pharmacy Meadowlands,59.0,True,Counties Manukau,-36.9135767,174.92872020000004,Community
+Unichem Paeroa Pharmacy,46.0,True,Waikato,-37.3812575,175.67223949999993,Community
 Woolworths Pharmacy Rangitikei Street,56.0,True,MidCentral,-40.3506293,175.60588540000003,Community
+Union Street Pharmacy,47.5,True,Canterbury,-43.5089128,172.72748869999998,Community
+Community Care Pharmacy,54.0,True,Nelson Marlborough,-41.51485040000001,173.96005709999997,Community
 Cranwell's Pharmacy Of Remuera,48.5,True,Auckland,-36.880364,174.81232840000007,Community
+Unichem Hillpark Pharmacy,42.5,True,Counties Manukau,-37.01350850000001,174.90041359999998,Community
 Len Hooper Pharmacy,46.0,True,"Capital, Coast and Hutt Valley",-41.2073037,174.92957720000004,Community
+Unichem Harris Road Pharmacy,42.5,True,Auckland,-36.8960964,174.83244719999993,Community
+Westland Pharmacy,47.5,True,West Coast,-42.71741129999999,170.96234479999998,Community
+Unichem Eastgate Pharmacy,63.5,True,Canterbury,-43.53242170908535,172.67531937196225,Community
 Stephensons Unichem Pharmacy,50.0,True,Waikato,-36.8350616,175.70472389999998,Community
 Greytown Pharmacy,42.0,True,Wairarapa,-41.079441,175.46117800000002,Community
-Woolworths Pharmacy Grey Lynn,59.0,True,Auckland,-36.853614,174.733161,Community
+Unichem Highland Park Pharmacy,57.5,True,Counties Manukau,-36.89987999999999,174.90785649999998,Community
+Life Pharmacy Blenheim,46.0,True,Nelson Marlborough,-41.5136304,173.9569295,Community
 Woolworths Pharmacy Mt Roskill,77.0,True,Auckland,-36.9044075,174.72739849999994,Community
+Unichem MainStreet Taupo Pharmacy,58.0,True,Lakes,-38.6874276,176.06970590000003,Community
 Medical Centre Pharmacy Picton,47.5,True,Nelson Marlborough,-41.29267600000001,174.00694499999997,Community
-Stay Well Pharmacy,56.0,True,Canterbury,-43.5459617,172.5244596,Community
-Maniototo Pharmacy,40.0,True,Southern,-45.1292435,170.09844599999997,Community
-Shields Pharmacy,48.0,True,Canterbury,-43.4912198,172.61248219999993,Community
-The Pharmacy Manurewa,42.5,False,Counties Manukau,-37.0221065,174.89861059999998,Community
-Ilam Pharmacy,49.0,True,Canterbury,-43.5162545,172.57163409999998,Community
-Papanui Pharmacy,56.0,True,Canterbury,-43.5002639,172.6112826,Community
-Life Pharmacy Sylvia Park,74.0,True,Auckland,-36.9135005,174.8407995,Community
-New North Pharmacy,50.5,True,Auckland,-36.884815,174.71504319999997,Community
-Seddon Pharmacy,54.0,True,Counties Manukau,-37.1994762,174.90587240000002,Community
-Prebbleton Pharmacy,47.5,True,Canterbury,-43.5800923,172.5136887,Community
-Royal Road Pharmacy,46.0,True,Waitematā,-36.83020339999999,174.609995,Community
-Unichem Marshalls Pharmacy Te Awamutu,54.0,True,Waikato,-38.01039170000001,175.32181519999995,Community
-Unichem Marshalls Medical Pharmacy,40.0,True,Waikato,-38.0112891,175.32248479999998,Community
-Woodville Medicine Depot,40.0,False,MidCentral,-40.3373811,175.86719790000006,Depot
-Botanical Road Pharmacy,43.75,True,MidCentral,-40.3568109,175.5895756,Community
-Vautier Pharmacy Summerhill Village,47.5,True,MidCentral,-40.3871711,175.6391573,Community
-Vautier Pharmacy Pioneer Village,42.5,True,MidCentral,-40.3620835,175.598379,Community
-Searles Allenton Pharmacy (Ash) Ltd,45.0,True,Canterbury,-43.8872655,171.7427728,Community
-Three Rivers Pharmacy - Ashburton,42.5,True,Canterbury,-43.8887696,171.73855479999997,Community
-Windsor Medical Pharmacy,50.0,True,Waitematā,-36.73261899999999,174.714609,Community
-Westshore Pharmacy,43.0,True,Hawke's Bay,-39.4775552,176.88156449999997,Community
-Andrew Spence Pharmacy,52.0,True,Hawke's Bay,-39.5083352,176.8871347,Community
-Greenmeadows Pharmacy,46.5,True,Hawke's Bay,-39.5265849,176.861155,Community
-Marewa Pharmacy,42.5,True,Hawke's Bay,-39.5000446,176.9034573,Community
-Raureka Pharmacy,42.5,False,Hawke's Bay,-39.6390335,176.8256407,Community
-Barrington Medical Centre Pharmacy,50.0,True,Canterbury,-43.5571715,172.6203681,Community
-Unichem Kiripaka Buchanans Pharmacy,45.0,True,Northland,-35.6873131,174.32664139999997,Community
+Platt's Pharmacy Ltd,48.0,True,Whanganui,-40.1739202,175.38616679999996,Community
+Anderson's Exchange Pharmacy,47.5,True,Southern,-45.87751669999999,170.50015859999996,Community
+Unichem Marina Pharmacy,59.0,True,Counties Manukau,-36.8809843,174.89905199999998,Community
+My Pharmacy Pāpāmoa Plaza,66.0,True,Bay of Plenty,-37.7005774,176.2837895,Community
+Dispensary Plus Pharmacy Birkenhead,40.0,True,Waitematā,-36.8135292,174.72638059999997,Community
+Gladstone Pharmacy (Invercargill),42.5,True,Southern,-46.394977,168.34775739999998,Community
+West Hamilton Pharmacy,46.5,True,Waikato,-37.7808801,175.2362428,Community
+Gonville Health Pharmacy,42.5,True,Whanganui,-39.9423778,175.02298259999998,Community
+Eastfield Pharmacy (formerly Tancred Street Dispensary),43.75,True,Canterbury,-43.9062192,171.7481344,Community
+Hospital Pharmacy | Counties Manukau,0.0,False,Counties Manukau,-36.96290183127625,174.8401004076004,Community
+Unichem Tūrangi Pharmacy,50.5,True,Lakes,-38.9910452,175.80918039252592,Community
+Unichem Miramar Pharmacy,54.5,True,"Capital, Coast and Hutt Valley",-41.31600770000001,174.81504240000004,Community
+Chemist Warehouse Hunters Plaza,80.0,True,Counties Manukau,-36.9709915,174.86033080000004,Community
+Avondale Pharmacy,84.0,True,Auckland,-36.9020045,174.69247819999998,Community
+Haumanu Pharmacy,68.0,True,Counties Manukau,-36.96290183127625,174.8401004076004,Community
+Woolworths Pharmacy Dunedin South ,59.0,True,Southern,-45.8921702,170.5031765,Community
 Unichem Mansfield Buchanans Pharmacy,45.0,True,Northland,-35.7200861,174.3199052,Community
-Unichem Otahuhu Health Centre Pharmacy,46.5,True,Auckland,-36.94697459999999,174.84563690000004,Community
-Woolworths Pharmacy Lincoln Road,77.0,True,Waitematā,-36.857244,174.63114870000004,Community
-Moera Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.2261609,174.9055786,Community
-Smartcare Pharmacy,45.75,True,Auckland,-36.9004,174.85550050000006,Community
-Highland Pharmacy Depot,40.0,False,Southern,-45.91281300000001,169.68738929999995,Depot
-Highland Pharmacy Central,52.0,True,Southern,-45.5408876,169.31475269999999,Community
-Woolworths Pharmacy Highland Park ,59.0,True,Counties Manukau,-36.8986258,174.9082739,Community
-Roberts Ngaruawahia Pharmacy,40.0,True,Waikato,-37.6673243,175.150484,Community
-Matakana Pharmacy,62.0,True,Waitematā,-36.3520952,174.7175744,Community
-Far North Pharmacy,42.5,True,Northland,-35.1148291,173.2648269,Community
-Mosgiel Health Centre Pharmacy,45.0,True,Southern,-45.8828845,170.34663690000002,Community
-Fairy Springs Pharmacy,45.0,True,Lakes,-38.1155362,176.22585559999993,Community
-Unichem Pharmacy 81,42.5,True,Lakes,-38.6886866,176.0735597,Community
-Tiaho Pharmacy,40.0,True,Lakes,-38.1296298,176.3024154,Community
-The Crossing Pharmacy,59.5,True,Bay of Plenty,-37.7371298,176.1062486,Community
-Don Street Pharmacy ,45.0,True,Southern,-46.410961,168.35447009999996,Community
-Castle Chemists,45.5,True,"Capital, Coast and Hutt Valley",-41.3121916,174.7795881,Community
-Woolworths Pharmacy Ponsonby,82.0,True,Auckland,-36.8592402,174.7493478,Community
-Mataura Prescription and Gifts ,35.0,False,Southern,-46.1945005,168.8667301,Community
-Oxford Pharmacy,45.0,True,Canterbury,-43.2982071,172.1925963,Community
-Woolworths Pharmacy Takapuna,77.0,True,Waitematā,-36.7912674,174.7654169,Community
 Unichem Takanini Pharmacy,73.5,True,Counties Manukau,-37.0475835,174.9272155,Community
 Unichem Takanini Village Pharmacy,64.0,True,Counties Manukau,-37.048682,174.9317797,Community
 Unichem Kolmar Pharmacy,45.0,True,Counties Manukau,-36.9705824,174.85938310000006,Community
@@ -1035,48 +975,109 @@ Unichem Stoddard Road Pharmacy,78.5,True,Auckland,-36.9082158,174.73376140000005
 Unichem Waiora Pharmacy,48.5,True,Waitematā,-36.8827281,174.6324161,Community
 Woolworths Pharmacy Wainuiomata,77.0,True,"Capital, Coast and Hutt Valley",-41.259722,174.943604,Community
 Chemist Warehouse Rolleston,84.0,True,Canterbury,-43.5950232,172.3861574,Community
-Woolworths Pharmacy Rotorua,63.0,True,Lakes,-38.14340049999999,176.2541417,Community
-Woolworths Pharmacy St Johns ,59.0,True,Auckland,-36.8792896,174.8517382,Community
-Unichem Island Bay Pharmacy,52.75,True,"Capital, Coast and Hutt Valley",-41.3346575,174.77359679999995,Community
-Woolworths Pharmacy Auckland City,84.0,True,Auckland,-36.8452206,174.77293910000003,Community
-Healthcare Pharmacy,45.5,True,Counties Manukau,-37.0313189,174.8678216,Community
-Life Pharmacy Orewa,61.5,True,Waitematā,-36.58764130000001,174.69533580000007,Community
-Unichem Upper Hutt Health Pharmacy,57.0,True,"Capital, Coast and Hutt Valley",-41.1216639,175.073129,Community
-Kiwi Pharmacy Yaldhurst,45.0,True,Canterbury,-43.51863999114732,172.5251387024446,Community
-Ostend Village Pharmacy,40.0,True,Auckland,-36.7958282,175.0451675,Community
-Unichem Stortford Lodge Pharmacy,51.0,True,Hawke's Bay,-39.6305549,176.8318274,Community
-Windsor Pharmacy (Previously known as Wallaces Pharmacy),42.5,True,Southern,-46.3950508,168.3654221,Community
+Queenstown Pharmacy,61.5,True,Southern,-45.0304524,168.6578617,Community
+Chemist Warehouse Fraser Cove,83.0,True,Bay of Plenty,-37.711808018422275,176.15213814472082,Community
+Chemist Warehouse Sylvia Park,93.0,True,Auckland,-36.9135005,174.8407995,Community
 Millwater Parkway Pharmacy,48.0,True,Waitematā,-36.5981918,174.67762219999997,Community
-Allevia Pharmacy,40.5,False,Auckland,-36.8733367,174.7699663,Community
-Woolworths Pharmacy Eastgate,59.0,True,Canterbury,-43.5331246,172.67451210000002,Community
-Woolworths Pharmacy Hastings,59.5,True,Hawke's Bay,-39.6389577,176.8425046,Community
-Chemist Warehouse Ashburton,74.0,True,Canterbury,-43.9056965,171.7428588,Community
-Unichem Te Nikau Pharmacy,45.0,True,West Coast,-42.4632728,171.1920973,Community
-Unichem Cherrywood Pharmacy,49.5,True,Bay of Plenty,-37.668327815126354,176.1399096250534,Community
-Unichem Taumarunui Pharmacy,45.5,True,Waikato,-38.8833156,175.2636089,Community
-Central City Pharmacy,42.5,True,Whanganui,-39.9325024,175.0508297,Community
-Guardian Pharmacy Stanmore Bay (previously Unichem Stanmore Bay),68.5,True,Waitematā,-36.628338,174.731454,Community
-Chemist Warehouse Takanini,70.5,True,Counties Manukau,-37.0478338,174.9251033,Community
-Chemist Warehouse Westfield Riccarton,80.0,True,Canterbury,-43.5310205,172.597776,Community
-Chemist Warehouse Ratanui Street,70.5,True,Waitematā,-36.877991460329746,174.63242816552702,Community
-Chemist Warehouse Queenstown Town Centre,91.0,True,Southern,-45.0320268,168.6591359,Community
-Chemist Warehouse Westgate Lifestyle Centre,73.5,True,Waitematā,-36.8137,174.6095405,Community
-Chemist Warehouse Hornby ,84.0,True,Canterbury,-43.5419784,172.5241085,Community
-Gladstone Pharmacy (Parnell),52.0,True,Auckland,-36.8525864,174.78611039999998,Community
-Kiwi Pharmacy Highsted,42.5,True,Canterbury,-43.4733475,172.5950719,Community
-Mt Eden Pharmacy,61.0,True,Auckland,-36.881885,174.76196400000003,Community
-Pharmacy 455,45.0,True,Auckland,-36.8832403,174.76169240000002,Community
-Pharmacy Three Rivers - Gisborne,58.0,True,Tairāwhiti,-38.6699891,178.025246,Community
-Unichem Awapuni Pharmacy,42.5,True,MidCentral,-40.3735806,175.5923104,Community
-Life Pharmacy Queensgate,64.5,True,"Capital, Coast and Hutt Valley",-41.2099569,174.9064448,Community
-Marchwiel Pharmacy,42.5,True,South Canterbury,-44.3788802,171.2294121,Community
-Life Pharmacy Nelson City,55.5,True,Nelson Marlborough,-41.27300319999999,173.28421990000004,Community
-Waipawa Pharmacy,43.5,True,Hawke's Bay,-39.9440661,176.5869543,Community
-Balmoral Pharmacy,63.0,True,Auckland,-36.88926662877921,174.74655836820602,Community
-Unichem Westown Pharmacy,48.0,True,Taranaki,-39.071579,174.0621954,Community
-Waihemo Pharmacy,42.5,True,Southern,-45.48472760000001,170.71578439999996,Community
-Hataitai Pharmacy,45.5,True,"Capital, Coast and Hutt Valley",-41.3043254,174.7937941,Community
+Sunnynook Link Pharmacy,49.0,True,Waitematā,-36.7605487,174.73950360000003,Community
+Woolworths Pharmacy Greville Road,59.0,True,Waitematā,-36.7307367,174.7228001,Community
+HC Pharmacy,40.0,True,Auckland,-36.8623848,174.7345995,Community
+Woolworths Pharmacy Spotswood,45.0,True,Taranaki,-39.0757754,174.03322409999998,Community
+Roskill Healthcare Pharmacy,40.5,True,Auckland,-36.9049016,174.74144890000002,Community
+Unichem Forté Pharmacy,45.0,True,Canterbury,-43.5263056,172.6383586,Community
+Kendal Pharmacy,42.5,True,Canterbury,-43.4978182,172.57279130000006,Community
+Unichem Northend Pharmacy,45.0,True,Southern,-45.08087069999999,170.98245099999997,Community
+Queen Street Pharmacy,48.5,True,Nelson Marlborough,-41.33987469999999,173.18501709999998,Community
+Village Pharmacy Ngaio,52.0,True,"Capital, Coast and Hutt Valley",-41.24819049999999,174.7743775,Community
+Unichem Kelston Medical Pharmacy,45.0,True,Waitematā,-36.90562870000001,174.6635986,Community
+Larson's Pharmacy,48.25,True,Southern,-45.9022412,170.4290062,Community
+Chemist Warehouse Botany Town Centre ,79.0,True,Counties Manukau,-36.932606781491295,174.9132227897644,Community
+Greenwood Street Pharmacy,43.5,True,Nelson Marlborough,-41.1098694,173.01212829999997,Community
+Waitara Pharmacy,48.0,True,Taranaki,-39.0015575,174.23644420000005,Community
 Unichem Lychgate Pharmacy ,50.5,True,"Capital, Coast and Hutt Valley",-41.311616,174.778965,Community
 Unichem Springlands Pharmacy,61.5,True,Nelson Marlborough,-41.5097576,173.93520220000005,Community
 Unichem Leabank Pharmacy,48.0,True,Counties Manukau,-37.0275603,174.88731810000002,Community
 Pakuranga Pharmacy,40.0,True,Counties Manukau,-36.8925555,174.853879,Community
+Tamatea Pharmacy,54.5,True,Hawke's Bay,-39.5106473,176.8695948,Community
+Queen Street Pharmacy (Upper Hutt),84.0,True,"Capital, Coast and Hutt Valley",-41.1227646,175.07371360000002,Community
+Baylis The Chemist,48.5,True,Southern,-45.8961175,170.50040820000004,Community
+Qualmed,49.0,False,Canterbury,-43.5338526,172.6084538,Community
+Nga Kete Pharmacy,40.0,True,Southern,-46.4095554,168.34826339999995,Community
+Bethlehem Dispensary,42.5,True,Bay of Plenty,-37.69355160000001,176.11122999999998,Community
+Parkside Pharmacy Auckland,51.5,False,Auckland,-36.8463576,174.76903670000002,Community
+Unichem Mackays Pharmacy,46.5,True,Taranaki,-39.34026149999999,174.2847339,Community
+Horotiu Hauora Pharmacy ,37.5,True,Waikato,-37.700801,175.2034035,Community
+Unichem Levin Pharmacy,61.5,True,MidCentral,-40.6225036,175.28558299999997,Community
+Ormiston Hospital Pharmacy,40.0,True,Counties Manukau,-36.96458228087482,174.90523045767213,Community
+North Harbour Pharmacy,52.5,True,Waitematā,-36.74718050000001,174.7395395,Community
+Hei Hei Pharmacy (2019) Ltd,42.5,True,Canterbury,-43.5355563,172.52084579999996,Community
+Otaika Pharmacy,48.5,True,Northland,-35.7422983,174.3084629,Community
+Urgent Pharmacy Dunedin,84.0,True,Southern,-45.8720769,170.50262939999993,Community
+Remedy Pharmacy St Albans (formerly McIntosh Pharmacy),48.75,True,Canterbury,-43.5094813,172.63048019999997,Community
+Clive Pharmacy,47.5,True,Hawke's Bay,-39.5840916,176.9158049,Community
+Remedy Pharmacy - St George's Hospital (Christchurch),47.5,True,Canterbury,-43.50991349999999,172.61934759999997,Community
+David's Pharmacy,49.25,True,Northland,-35.6830771,174.29935339999997,Community
+Your Health Centre Pharmacy Papatoetoe,40.0,True,Counties Manukau,-36.977737,174.87159080000004,Community
+Woolworths Pharmacy Pukekohe South,77.0,True,Counties Manukau,-37.2110701,174.91067799999996,Community
+The Pharmacy @ Phillipstown,45.0,True,Canterbury,-43.54103149999999,172.66010570000003,Community
+St George Pharmacy,42.5,True,Counties Manukau,-36.9795301,174.85248869999998,Community
+Best Care Pharmacy,46.5,True,Counties Manukau,-36.9118342,174.8712361,Community
+Unichem Whangarei Pharmacy,84.0,True,Northland,-35.72719319999999,174.3265503,Community
+Bargain Chemist Birkenhead ,70.0,True,Waitematā,-36.811203,174.7257211,Community
+Family Care Pharmacy,42.5,True,Counties Manukau,-36.9000737,174.90868,Community
+Unichem Hickeys Pharmacy,57.5,True,Waitematā,-36.5868111,174.69396210000002,Community
+Unichem Rangatira Pharmacy,46.0,True,Waitematā,-36.7926401,174.6877955,Community
+Cook Street Pharmacy,45.0,True,MidCentral,-40.3660107,175.6069971,Community
+Central Parade & Dee Street Pharmacy Ltd,45.0,True,Bay of Plenty,-37.6561345,176.20066710000003,Community
+Pharmacy Plus,46.0,True,Counties Manukau,-37.0626431,174.94201969999995,Community
+Glenns Pharmacy,40.0,False,Hawke's Bay,-39.535198,176.848406,Community
+Vogeltown Pharmacy,48.5,True,Taranaki,-39.0790869,174.0803949,Community
+Woolworths Pharmacy Victoria Avenue (Whanganui),55.0,True,Whanganui,-39.92528069999999,175.03851080000004,Community
+Bay View Village Pharmacy,43.0,True,Hawke's Bay,-39.4197328,176.8661124,Community
+Woolworths Pharmacy Ferrymead,77.0,True,Canterbury,-43.5564314,172.70037100000002,Community
+Ihakara Pharmacy Ltd,45.0,True,"Capital, Coast and Hutt Valley",-40.9170014,174.99737349999998,Community
+Life Pharmacy Riccarton,68.0,True,Canterbury,-43.5310205,172.597776,Community
+Windsor Pharmacy (Previously known as Wallaces Pharmacy),42.5,True,Southern,-46.3950508,168.3654221,Community
+Allevia Pharmacy,40.5,False,Auckland,-36.8733367,174.7699663,Community
+Hammersley Pharmacy,46.5,True,Canterbury,-43.5089091,172.65191679999998,Community
+Steeds Pharmacy,42.5,True,MidCentral,-40.6215298,175.2869319,Community
+Woolworths Pharmacy The Palms,77.0,True,Canterbury,-43.5070389,172.663096,Community
+Chemist Warehouse Springlands,80.5,True,Nelson Marlborough,-41.5076895,173.9233506,Community
+Net Pharmacy,49.0,True,Auckland,-36.8533208,174.7789414,Community
+The Caring Pharmacy ,42.5,False,Waitematā,-36.8777382,174.6306525,Community
+Unichem Ascot Pharmacy,54.0,True,Southern,-46.40591999999999,168.3925772,Community
+Unichem Summerfields Pharmacy,50.0,True,Southern,-45.0160276,168.73101380000003,Community
+Forbury Pharmacy,42.5,True,Southern,-45.8986427,170.48558230000003,Community
+Unichem Belfast Pharmacy,51.5,True,Canterbury,-43.44468639999999,172.63287760000003,Community
+New Windsor Pharmacy,42.5,True,Auckland,-36.9111937,174.71705529999997,Community
+Wellworks Pharmacy Taranaki Street,50.5,True,"Capital, Coast and Hutt Valley",-41.2936975,174.7786946,Community
+City Health Pharmacy Ltd,69.0,True,MidCentral,-40.3503733,175.61795970000003,Community
+Unichem Willis St Pharmacy,45.0,True,"Capital, Coast and Hutt Valley",-41.28777940000001,174.77545399999997,Community
+Unichem Waiheke Pharmacy,57.5,True,Auckland,-36.7828571,175.00942080000004,Community
+Waimauku Pharmacy - Station Road,45.0,True,Waitematā,-36.76812039999999,174.49287800000002,Community
+Unichem Kamo Pharmacy,48.0,True,Northland,-35.6833483,174.30063559999996,Community
+Unichem Southend Pharmacy,61.0,True,Wairarapa,-40.9519464,175.65789259999997,Community
+Masterton Medical Pharmacy,66.0,True,Wairarapa,-40.94808769999999,175.67772509999998,Community
+Chemist Warehouse Blenheim Square,91.0,False,Canterbury,-43.5385157,172.5895104,Community
+"Bramwell's Pharmacy Collection Depot - 59 Cliff Road, Te Karaka",0.0,False,Tairāwhiti,-38.4695384,177.86366599999997,Depot
+Hicks Bay Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.59189789999999,178.2914553,Depot
+Ruatōria Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.89149829999999,178.3178055,Depot
+Te Puia Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-38.05563299999999,178.30494539999995,Depot
+"Bramwell's Pharmacy Collection Depot, 6530 Matawai Road, Matawai",0.0,False,Tairāwhiti,-38.3571236,177.5341021,Depot
+Tikitiki Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.7963114,178.4106613,Depot
+Te Araroa Collection Depot - Gordon's Pharmacy,0.0,False,Tairāwhiti,-37.63325099999999,178.3690102,Depot
+Auckland City Hospital Pharmacy,62.0,True,Auckland,-36.86054163337887,174.76943492889404,Community
+Bongard's Pharmacy,42.5,False,Bay of Plenty,-37.7256208,176.13283920000003,Community
+Dannevirke Wellness Pharmacy ,40.0,True,MidCentral,-40.2122754,176.0978538,Community
+Lagans Pharmacy,46.5,True,"Capital, Coast and Hutt Valley",-41.1248732,175.06629280000004,Community
+Unichem Onerahi Pharmacy,48.5,True,Northland,-35.755039,174.36810530000002,Community
+Nawton Pharmacy,43.75,True,Waikato,-37.78046090000001,175.23733779999998,Community
+Hillmorton Pharmacy,45.0,True,Canterbury,-43.55428670000001,172.5941057,Community
+Woolworths Pharmacy Mt Eden,77.0,True,Auckland,-36.8763872,174.7522252,Community
+Remedy Pharmacy - Riccarton,48.75,True,Canterbury,-43.5309505,172.59281609999994,Community
+Chemist Warehouse The Palms,83.0,True,Canterbury,-43.5065597,172.66396150000003,Community
+Unichem Terrace End Pharmacy,40.0,True,MidCentral,-40.34797460000001,175.6260089,Community
+Waltham Pharmacy,42.5,True,Canterbury,-43.55042579999999,172.6464707,Community
+Peak Pharmacy,49.0,True,Hawke's Bay,-39.66722619999999,176.87965140000006,Community
+Victory Square Pharmacy,42.5,True,Nelson Marlborough,-41.2805215,173.26970589999996,Community
+Life Pharmacy Hornby,65.0,True,Canterbury,-43.5425839,172.5253403,Community
